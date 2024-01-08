@@ -6,9 +6,9 @@
   <p align="left">
   Formado em Análise de Sistemas em 2017 e pós graduado em Docência em Sistemas de Informação em 2023.
    
-  Sou Desenvolvedor Web há mais de 6 anos. Levei como aprendizado que além de ser eficiente na codificação, também é necessário ser alguém que sempre esteja disposto a aprender, se adaptar e crescer.
+  Sou Desenvolvedor Web há mais de 6 anos. Levei como aprendizado que além de eficiência na programação, também é necessário ser alguém que sempre esteja disposto a aprender, se adaptar e crescer.
   
-  Para mim, um bom código significa uma programação limpa e de clara leitura, entendimento e compreensão por desenvolvedores de qualquer nível.
+  Para mim, um bom código significa uma programação limpa e de clara leitura, entendimento e compreensão por desenvolvedores em qualquer nível de experiência.
 
   <!--### Acesse meu [Portfólio](https:///) -->
   </p>

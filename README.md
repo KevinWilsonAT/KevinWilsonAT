@@ -15,7 +15,7 @@
 </div>
 
 <h2 align="left">
-Tecnologias que utilizo no meu dia:
+Linguagens que utilizo no meu dia:
 </h2>
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)

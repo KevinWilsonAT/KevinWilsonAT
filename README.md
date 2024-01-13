@@ -53,8 +53,9 @@ Contato:
 
 <h2 align="left"></h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=github&theme=dark)
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&theme=dark) -->
 <br>
 
 <div align="center" dir="center">

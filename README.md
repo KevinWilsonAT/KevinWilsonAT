@@ -128,7 +128,7 @@ Contato:
 
 <div align="center" dir="center">
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinWilsonAT&show_icons=true&theme=dark&locale=en&layout=compact" alt="KevinWilsonAT" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinWilsonAT&show_icons=true&langs_count=8&theme=dark&locale=en&layout=compact" alt="KevinWilsonAT" />
   </p>
 <!--  <p>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinWilsonAT&theme=dark" alt="KevinWilsonAT" height="165" />

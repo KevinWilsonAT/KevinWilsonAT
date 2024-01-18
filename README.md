@@ -17,7 +17,7 @@
 </div>
 
 <h2 align="left">
-Linguagens que utilizo no meu dia:
+Linguagens e ferramentas<!--que utilizo no meu dia-->:
 </h2>
 
 ![HTML](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +29,7 @@ Linguagens que utilizo no meu dia:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+<!--
 <h4 align="left">
 Nível de Proeficiência:
 </h4>
@@ -65,15 +65,16 @@ Nível de Proeficiência:
             <img align="left" src="https://img.shields.io/badge/ -00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C%2B%2B" /> :star::star:
         </td>
         <td>
-            <!--<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="KevinWilsonAT" /> :star::star::star:-->
+            <!--<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="KevinWilsonAT" /> :star::star::star:->
         </td>
     </tr>
 </table>
-
+-->
+<!--
 <h2 align="left">
 Plataformas, IDEs e Frameworks que utilizo:
 </h2>
-
+-->
 ![Wordpress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -82,7 +83,7 @@ Plataformas, IDEs e Frameworks que utilizo:
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Solar2D](https://img.shields.io/badge/Solar2d-FA8032?style=for-the-badge&logo=solar2d&logoColor=E8E8E8)
 <!-- ![Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8) -->
-
+<!--
 <h4 align="left">
 Nível de Proeficiência:
 </h4>
@@ -106,11 +107,11 @@ Nível de Proeficiência:
             <img align="left" src="https://img.shields.io/badge/ -0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" /> :star::star:
          </td>
         <td>
-            <!--<img align="left" src="https://img.shields.io/badge/ -35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" alt="Apache Cordova" /> :star: -->
+            <!--<img align="left" src="https://img.shields.io/badge/ -35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" alt="Apache Cordova" /> :star: ->
         </td>
     </tr>
 </table>
-
+-->
 <h2 align="left">
 Contato:
 </h2>

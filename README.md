@@ -115,13 +115,12 @@ Nível de Proeficiência:
 <h2 align="left">
 Contato:
 </h2>
-
 <a href="https://www.linkedin.com/in/kwat1/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/kevin.wilson.a.t/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn"/></a>
-<br>
-
+<!--<br>
+-->
 <h2 align="left"></h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=github&theme=dark)

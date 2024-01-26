@@ -23,59 +23,18 @@ Linguagens e ferramentas<!--que utilizo no meu dia-->:
 ![HTML](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular.js](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<!--
-<h4 align="left">
-Nível de Proeficiência:
-</h4>
-<table>
-    <tr>
-        <td>
-            <img align="left" src="https://img.shields.io/badge/ -239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> :star::star::star:
-        </td>
-        <td>
-            <img align="left" src="https://img.shields.io/badge/ -1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> :star::star::star:
-         </td>
-        <td>
-            <img align="left" src="https://img.shields.io/badge/ -F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> :star::star:
-        </td>
-        <td>
-            <img align="left" src="https://img.shields.io/badge/ -3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> :star::star::star:
-        </td>
-        <td>
-            <img align="left" src="https://img.shields.io/badge/ -ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> :star::star:
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img align="left" src="https://img.shields.io/badge/ -2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" /> :star::star::star:
-        </td>
-        <td>
-            <img align="left" src="https://img.shields.io/badge/ -00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> :star::star:
-         </td>
-        <td>
-            <img align="left" src="https://img.shields.io/badge/ -00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> :star::star:
-        </td>
-        <td>
-            <img align="left" src="https://img.shields.io/badge/ -00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C%2B%2B" /> :star::star:
-        </td>
-        <td>
-            <!--<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="KevinWilsonAT" /> :star::star::star:->
-        </td>
-    </tr>
-</table>
--->
-<!--
-<h2 align="left">
-Plataformas, IDEs e Frameworks que utilizo:
-</h2>
--->
+
 ![Wordpress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)

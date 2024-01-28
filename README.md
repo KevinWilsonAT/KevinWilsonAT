@@ -88,19 +88,13 @@ Contato:
 -->
 <h2 align="left"></h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=github&theme=dark)
-
+<div align="center">
+    <img height="230em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=github&theme=dark" />
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&theme=dark) -->
-<br>
-
-<div align="center" dir="center">
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinWilsonAT&show_icons=true&langs_count=8&theme=dark&locale=en&layout=compact" alt="KevinWilsonAT" />
-    </p>
+    &nbsp;
+    <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinWilsonAT&show_icons=true&langs_count=8&theme=dark&locale=en&layout=compact" alt="KevinWilsonAT" />
 </div>
-<div align="center" dir="center">
-    <p>
-        <img align="left" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&margin-w=5&theme=radical" />
-    </p>
+<div align="center">
+        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&margin-w=5&theme=radical" />
 </div>
 <br>

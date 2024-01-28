@@ -6,7 +6,7 @@
   <p align="left">
   Formado em Análise de Sistemas em 2017 e pós graduado em Docência em Sistemas de Informação em 2023.
       
-  Sou Desenvolvedor Web há 2 anos. Acredito que no aprendizado, além da eficiência na programação, também é<br>
+  Sou Desenvolvedor Web há 1 ano. Acredito que no aprendizado, além da eficiência na programação, também é<br>
   necessário ser alguém que esteja sempre disposto a aprender, interagir, inovar, se adaptar para crescer.
   
   Para mim, uma boa programação deve ser limpa e de fácil leitura, com códigos compreensíveis a desenvolvedores<br>
@@ -36,6 +36,7 @@ Linguagens e ferramentas<!--que utilizo no meu dia-->:
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 ![Wordpress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)

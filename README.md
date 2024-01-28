@@ -91,7 +91,7 @@ Contato:
     <img height="230em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=github&theme=dark" />
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&theme=dark) -->
     &nbsp;
-    <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinWilsonAT&show_icons=true&langs_count=8&theme=dark&locale=en&layout=compact" alt="KevinWilsonAT" />
+    <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinWilsonAT&show_icons=true&langs_count=12&theme=dark&locale=en&layout=compact" alt="KevinWilsonAT" />
 </div>
 <div align="center">
         <img height="180em" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&margin-w=5&theme=radical" />

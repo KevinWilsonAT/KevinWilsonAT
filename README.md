@@ -1,9 +1,7 @@
 ## Kevin Wilson Aguiar Teixeira
 
 <div>
-    <!--
-    <img src="" alt="Programmer" min-width="300px" max-width="300px" width="300px" align="right">
-    -->
+    <img src="https://github.com/KevinWilsonAT/KevinWilsonAT/blob/main/Programmer.png" alt="Programmer" min-width="300px" max-width="300px" width="300px" align="right">
 <br>
   <p align="left">
   Formado em Análise de Sistemas em 2017 e pós graduado em Docência em Sistemas de Informação em 2023.

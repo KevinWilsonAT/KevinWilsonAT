@@ -69,39 +69,36 @@ Contato:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/kevin.wilson.a.t/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn"/></a>
-<!--<br>
--->
 
 ## Cursos para 2024
 
-| Símbolo | Status     |  | Símbolo | Status          |
-|---------|------------|--|---------|-----------------|
-| ✔️      | Finalizado |  | ⏫     | Aperfeiçoamento |
-| 📖      | Estudando  |  | ➖     | Lista de Espera |
-
-| Assunto                                            | Início         | Fim           | Finalizado  |
-|----------------------------------------------------|----------------|---------------|-------------|
-| Python 3 - Mundo 1, Mundo 2, Mundo 3               | Dezembro 2023  |               | ✔️ 📖 ➖   |
-|                                                    |                |               |             |
-| Wordpress - Módulo 1, Módulo 2, Módulo 3, Módulo 4 | Janeiro 2024   |               | 📖 ➖ ➖ ➖|
-|                                                    |                |               |             |
-| PHP Básico, PHP POO, PHP Moderno - Modulo 1        |                |               | ➖ ➖ ➖   |
-|                                                    |                |               |             |
-| Java Básico, Java POO                              |                |               | ➖          |
-|                                                    |                |               |             |
-| MySQL                                              |                |               | ➖          |
-|                                                    |                |               |             |
-| JavaScipt                                          |                |               | ⏫          |
-|                                                    |                |               |             |
-| Git e GitHub                                       |                |               | ⏫          |
-|                                                    |                |               |             |
-| Como Anunciar na Internet                          |                |               | ➖          |
-|                                                    |                |               |             |
-| PhotoShop                                          |                |               | ➖          |
-|                                                    |                |               |             |
-| C# Para Todos                                      |                |               | ➖          |
-|                                                    |                |               |             |
-| Linguagem R                                        |                |               | ➖          |
+<table>
+    <tr> <td>Assunto</td> <td>Início</td> <td>Fim</td> <td>Condição</td> <td>&nbsp;</td> <td>Símbolo</td> <td>Status</td></tr>
+    <tr> <td colspan=7></td> </tr>
+    <tr> <td>Python 3 - Mundo 1, Mundo 2, Mundo 3</td> <td>Dezembro 2023</td> <td> </td> <td>✔️ 📖 ➖ </td> <td>&nbsp;</td> <td>✔️</td> <td>Concluído</td></tr>
+    <tr> <td colspan=7></td> </tr>
+    <tr> <td>WordPress - Módulo 1, Módulo 2, Módulo 3, Módulo 4</td> <td>Janeiro 2024</td> <td> </td> <td>📖 ➖ ➖ ➖</td> <td>&nbsp;</td> <td>📖</td> <td>Estudando</td></tr>
+    <tr> <td colspan=7></td> </tr>
+    <tr> <td>PHP Básico, PHP POO, PHP Moderno - Módulo 1</td> <td> </td> <td> </td> <td>➖ ➖ ➖</td> <td>&nbsp;</td> <td>⏫</td> <td>Aperfeiçoamento</td></tr>
+    <tr> <td colspan=7></td> </tr>
+    <tr> <td>Java Básico, Java POO</td> <td> </td> <td> </td> <td>➖ ➖</td> <td>&nbsp;</td> <td>➖</td> <td>Lista de Espera</td></tr>
+    <tr> <td colspan=7></td> </tr>
+    <tr> <td>Java Básico, Java POO</td> <td> </td> <td> </td> <td>➖ ➖</td> <td>&nbsp;</td>  <td rowspan=15> </td> <td rowspan=15> </td></tr>
+    <tr> <td colspan=5></td> </tr>
+    <tr> <td>MySQL</td> <td> </td> <td> </td> <td>➖</td> <td>&nbsp;</td> </tr>
+    <tr> <td colspan=5></td> </tr>
+    <tr> <td>JavaScript</td> <td> </td> <td> </td> <td>➖</td> <td>&nbsp;</td> </tr>
+    <tr> <td colspan=5></td> </tr>
+    <tr> <td>Git e GitHub</td> <td> </td> <td> </td> <td>⏫</td> <td>&nbsp;</td> </tr>
+    <tr> <td colspan=5></td> </tr>
+    <tr> <td>Como Anunciar na Internet</td> <td> </td> <td> </td> <td>➖</td> <td>&nbsp;</td> </tr>
+    <tr> <td colspan=5></td> </tr>
+    <tr> <td>PhotoShop</td> <td> </td> <td> </td> <td>➖</td> <td>&nbsp;</td> </tr>
+    <tr> <td colspan=5></td> </tr>
+    <tr> <td>C# Para Todos</td> <td> </td> <td> </td> <td>➖</td> <td>&nbsp;</td> </tr>
+    <tr> <td colspan=5></td> </tr>
+    <tr> <td>Linguagem R</td> <td> </td> <td> </td> <td>➖</td> <td>&nbsp;</td> </tr>
+</table>
 
 <div align="center">
     <img height="230em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=github&theme=dark" />

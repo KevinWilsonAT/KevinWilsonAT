@@ -70,6 +70,7 @@ Contato:
 <a href="https://www.instagram.com/kevin.wilson.a.t/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn"/></a>
 
+##
 ## Cursos para 2024
 
 <table>
@@ -99,6 +100,8 @@ Contato:
     <tr> <td colspan=5></td> </tr>
     <tr> <td>Linguagem R</td> <td> </td> <td> </td> <td>➖</td> <td>&nbsp;</td> </tr>
 </table>
+
+##
 
 <div align="center">
     <img height="230em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=github&theme=dark" />

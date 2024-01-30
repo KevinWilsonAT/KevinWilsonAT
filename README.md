@@ -71,7 +71,37 @@ Contato:
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn"/></a>
 <!--<br>
 -->
-<h2 align="left"></h2>
+
+## Cursos para 2024
+
+| Símbolo | Status     |  | Símbolo | Status          |
+|---------|------------|--|---------|-----------------|
+| ✔️      | Finalizado |  | ⏫     | Aperfeiçoamento |
+| 📖      | Estudando  |  | ➖     | Lista de Espera |
+
+| Assunto                                            | Início         | Fim           | Finalizado  |
+|----------------------------------------------------|----------------|---------------|-------------|
+| Python 3 - Mundo 1, Mundo 2, Mundo 3               | Dezembro 2023  |               | ✔️ 📖 ➖   |
+|                                                    |                |               |             |
+| Wordpress - Módulo 1, Módulo 2, Módulo 3, Módulo 4 | Janeiro 2024   |               | 📖 ➖ ➖ ➖|
+|                                                    |                |               |             |
+| PHP Básico, PHP POO, PHP Moderno - Modulo 1        |                |               | ➖ ➖ ➖   |
+|                                                    |                |               |             |
+| Java Básico, Java POO                              |                |               | ➖          |
+|                                                    |                |               |             |
+| MySQL                                              |                |               | ➖          |
+|                                                    |                |               |             |
+| JavaScipt                                          |                |               | ⏫          |
+|                                                    |                |               |             |
+| Git e GitHub                                       |                |               | ⏫          |
+|                                                    |                |               |             |
+| Como Anunciar na Internet                          |                |               | ➖          |
+|                                                    |                |               |             |
+| PhotoShop                                          |                |               | ➖          |
+|                                                    |                |               |             |
+| C# Para Todos                                      |                |               | ➖          |
+|                                                    |                |               |             |
+| Linguagem R                                        |                |               | ➖          |
 
 <div align="center">
     <img height="230em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=github&theme=dark" />

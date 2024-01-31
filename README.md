@@ -82,8 +82,6 @@ Contato:
     <tr> <td colspan=7></td> </tr>
     <tr> <td>PHP Básico, PHP POO, PHP Moderno - Módulo 1</td> <td> </td> <td> </td> <td>📖 ➖ ➖</td> <td>&nbsp;</td> <td>⏫</td> <td>Aperfeiçoando</td></tr>
     <tr> <td colspan=7></td> </tr>
-    <tr> <td>Java Básico, Java POO</td> <td> </td> <td> </td> <td>➖ ➖</td> <td>&nbsp;</td> <td>➖</td> <td>Lista de Espera</td></tr>
-    <tr> <td colspan=7></td> </tr>
     <tr> <td>Java Básico, Java POO</td> <td> </td> <td> </td> <td>➖ ➖</td> <td>&nbsp;</td>  <td rowspan=15> </td> <td rowspan=15> </td></tr>
     <tr> <td colspan=5></td> </tr>
     <tr> <td>MySQL</td> <td> </td> <td> </td> <td>➖</td> <td>&nbsp;</td> </tr>

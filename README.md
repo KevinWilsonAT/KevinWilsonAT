@@ -12,11 +12,6 @@
   Para mim, uma boa programação deve ser limpa e de fácil leitura, com códigos compreensíveis a desenvolvedores
   em qualquer nível de experiência.
   </p>
-
-### Acesse Meu Portfolio:
-<a href="https://kevinteixeira.netlify.app">
-    <img src="https://img.shields.io/badge/Tech_Eira-202020?logo=codementor&logoColor=fff&style=for-the-badge" title="Meu Portfolio">
-</a>
 </div>
 
 <h2 align="left">

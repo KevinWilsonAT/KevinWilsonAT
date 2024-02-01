@@ -15,7 +15,7 @@
 
 ### Acesse Meu Portfolio:
 <a href="https://kevinteixeira.netlify.app">
-    <img src="https://img.shields.io/badge/>Tech_Eira-202020?logo=codementor&logoColor=fff&style=for-the-badge" title="Meu Portfolio">
+    <img src="https://img.shields.io/badge/Tech_Eira-202020?logo=codementor&logoColor=fff&style=for-the-badge" title="Meu Portfolio">
 </a>
 </div>
 

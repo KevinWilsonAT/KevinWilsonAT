@@ -2,6 +2,7 @@
 
 <div>
     <img src="https://github.com/KevinWilsonAT/KevinWilsonAT/blob/main/Programmer.png" alt="Programmer" min-width="300px" max-width="300px" width="300px" align="right">
+</div>
 <br>
 <br>
   <p align="left">
@@ -13,7 +14,6 @@
   Para mim, uma boa programação deve ser limpa e de fácil leitura, com códigos compreensíveis a desenvolvedores
   em qualquer nível de experiência.
   </p>
-</div>
 
 <h2 align="left">
 Linguagens e ferramentas<!--que utilizo no meu dia-->:

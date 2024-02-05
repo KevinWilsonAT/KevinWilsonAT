@@ -73,7 +73,7 @@ Contato:
 | Python 3 - Mundo 1                   | 12/2023 | 01/2024   | ✔️ - Concluído       |
 | Python 3 - Mundo 2                   | 01/2024 | --/2024   | 📖 - Estudando (30%) |
 | Python 3 - Mundo 3                   |         |           | ⌛ - Aguardando       |
-| Wordpress - Módulo 1                 | 01/2024 | --/2024   | 📖 - Estudando (25%) |
+| Wordpress - Módulo 1                 | 01/2024 | --/2024   | 📖 - Estudando (31%) |
 | Wordpress - Módulo 2                 |         |           | ⌛ - Aguardando      |
 | Wordpress - Módulo 3                 |         |           | ⌛ - Aguardando      |
 | Wordpress - Módulo 4                 |         |           | ⌛ - Aguardando      |

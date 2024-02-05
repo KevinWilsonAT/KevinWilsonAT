@@ -16,7 +16,7 @@ Linguagens e ferramentas<!--que utilizo no meu dia-->:
 
 ### Front End:
 
-<img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" title="Experiência com HTML: 4/5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experiência com CSS: 4/5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Experiência com JavaScript: 4/5 - Em Aprendizado"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experiência com Tailwind: Em Aprendizado"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experiência com React: Em Aprendizado">
+<img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" title="Experiência com HTML: 8/10"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experiência com CSS: 8/10"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Experiência com JavaScript: 7/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experiência com Tailwind: Em Aprendizado"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experiência com React: Em Aprendizado">
 
 ### Back End:
 
@@ -28,31 +28,31 @@ Linguagens e ferramentas<!--que utilizo no meu dia-->:
 
 ### Banco de Dados:
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experiência com MySQL: Em Aprendizado">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experiência com MySQL: 5/10 - Em Aprendizado">
 
 ##
-### Linguagens de Programação Desktop:
+### Linguagens de Programação Desktop:1
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experiência com C: 3/5 - Em Aprendizado"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: Em Aprendizado"> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 3/5 - Em Aprendizado"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: Em Aprendizado">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experiência com C: 5/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: Em Aprendizado"> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 6/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: Em Aprendizado">
 
-### Linguagens de Programação Mobile:
+### Linguagens de Programação Mobile (Games):
 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experiência com Dart: Em Aprendizado"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experiência com Lua: 3/5 - Em Aprendizado">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experiência com Dart: Em Aprendizado"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experiência com Lua: 7/10 - Em Aprendizado">
 
 ##
 ### Plataformas, Programas e IDEs:
 
 #### Plataformas:
 
-<img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" title="Experiência com Wordpress: 2/5 - Em Aprendizado"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoCoWlor=white" title="Experiência com Github: 3/5 - Em Aprendizado"> 
+<img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" title="Experiência com Wordpress: 4/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoCoWlor=white" title="Experiência com Github: 6/10 - Em Aprendizado"> 
 
 #### IDEs:
 
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="Experiência com Eclipse: 3/5"> <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experiência com PHPStorm: 2/5 - Em Aprendizado"> <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experiência com PyCharm: 3/5"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experiência com VS Code: 4/5"> <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experiência com Solar 2D: 3/5"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experiência com Git: 2/5">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="Experiência com Eclipse: 6/10"> <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experiência com PHPStorm: 5/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experiência com PyCharm: 7/10"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experiência com VS Code: 8/10"> <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experiência com Solar 2D: 7/10"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experiência com Git: 4/10">
 
 #### Outros Programas:
 
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=windows&logoColor=white" title="Experiência com Office: 3/5">
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=windows&logoColor=white" title="Experiência com Office: 6/10">
 <h2 align="left">
 Contato:
 </h2>
@@ -64,31 +64,29 @@ Contato:
 ##
 ## Cursos para 2024
 
-<table>
-    <tr> <td>Assunto</td> <td>Início</td> <td>Fim</td> <td>Condição</td> <td>&nbsp;</td> <td>Símbolo</td> <td>Status</td></tr>
-    <tr> <td colspan=7></td> </tr>
-    <tr> <td>Python 3 - Mundo 1, Mundo 2, Mundo 3</td> <td>Dezembro 2023</td> <td> </td> <td>✔️ 📖 ➖ </td> <td>&nbsp;</td> <td>✔️</td> <td>Concluído</td></tr>
-    <tr> <td colspan=7></td> </tr>
-    <tr> <td>WordPress - Módulo 1, Módulo 2, Módulo 3, Módulo 4</td> <td>Janeiro 2024</td> <td> </td> <td>📖 ➖ ➖ ➖</td> <td>&nbsp;</td> <td>📖</td> <td>Estudando</td></tr>
-    <tr> <td colspan=7></td> </tr>
-    <tr> <td>PHP Básico, PHP POO, PHP Moderno - Módulo 1</td> <td> </td> <td> </td> <td>📖 ➖ ➖</td> <td>&nbsp;</td> <td>⏫</td> <td>Aperfeiçoando</td></tr>
-    <tr> <td colspan=7></td> </tr>
-    <tr> <td>Java Básico, Java POO</td> <td> </td> <td> </td> <td>➖ ➖</td> <td>&nbsp;</td>  <td rowspan=15> </td> <td rowspan=15> </td></tr>
-    <tr> <td colspan=5></td> </tr>
-    <tr> <td>MySQL</td> <td> </td> <td> </td> <td>➖</td> <td>&nbsp;</td> </tr>
-    <tr> <td colspan=5></td> </tr>
-    <tr> <td>JavaScript</td> <td> </td> <td> </td> <td>➖</td> <td>&nbsp;</td> </tr>
-    <tr> <td colspan=5></td> </tr>
-    <tr> <td>Git e GitHub</td> <td> </td> <td> </td> <td>⏫</td> <td>&nbsp;</td> </tr>
-    <tr> <td colspan=5></td> </tr>
-    <tr> <td>Como Anunciar na Internet</td> <td> </td> <td> </td> <td>➖</td> <td>&nbsp;</td> </tr>
-    <tr> <td colspan=5></td> </tr>
-    <tr> <td>PhotoShop</td> <td> </td> <td> </td> <td>➖</td> <td>&nbsp;</td> </tr>
-    <tr> <td colspan=5></td> </tr>
-    <tr> <td>C# Para Todos</td> <td> </td> <td> </td> <td>➖</td> <td>&nbsp;</td> </tr>
-    <tr> <td colspan=5></td> </tr>
-    <tr> <td>Linguagem R</td> <td> </td> <td> </td> <td>➖</td> <td>&nbsp;</td> </tr>
-</table>
+| Curso                                | Início  | Conclusão    | Status            |
+|--------------------------------------|---------|--------------|-------------------|
+| Curso de Programação de Jogos em Lua | 11/2023 | 2024         | 🔒 - Em espera    |
+|                                      |         |              |                   |
+| Python 3 - Mundo 1                   | 12/2023 | 01/2024      | ✔️ - Concluído    |
+| Python 3 - Mundo 2                   | 01/2024 | --/2024      | 📖 - Estudando    |
+| Python 3 - Mundo 3                   |         |              | ⌛ - Aguardando   |
+| Wordpress - Módulo 1                 | 01/2024 | --/2024      | 📖 - Estudando   |
+| Wordpress - Módulo 2                 |         |              | ⌛ - Aguardando   |
+| Wordpress - Módulo 3                 |         |              | ⌛ - Aguardando   |
+| Wordpress - Módulo 4                 |         |              | ⌛ - Aguardando   |
+| PHP - Básico                         | 01/2024 | --/2024      | 📖 - Estudando   |
+| PHP - POO                            |         |              | ⌛ - Aguardando   |
+| PHP - Moderno                        |         |              | ⌛ - Aguardando   |
+| Java - Básico                        |         |              | ⌛ - Aguardando   |
+| Java - POO                           |         |              | ⌛ - Aguardando   |
+| C# Para Todos                        |         |              | ⌛ - Aguardando   |
+| Linguagem R                          |         |              | ⌛ - Aguardando   |
+| MySQL                                |         |              | ⌛ - Aguardando   |
+| JavaScript                           |         |              | ⌛ - Aguardando   |
+| Git e GitHub                         |         |              | ⌛ - Aguardando   |
+| Como Anunciar na Internet            |         |              | ⌛ - Aguardando   |
+| PhotoShop                            |         |              | ⌛ - Aguardando   |
 
 ##
 

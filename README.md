@@ -70,13 +70,14 @@ Contato:
 |--------------------------------------|---------|-----------|----------------------|
 | Curso de Programação de Jogos em Lua | 11/2023 | 2024      |                      |
 |                                      |         |           |                      |
-| Python 3 - Mundo 1                   | 12/2023 | 01/2024   | ✔️ - Concluído       |
-| Python 3 - Mundo 2                   | 01/2024 | --/2024   | 📖 - Estudando (30%) |
-| Python 3 - Mundo 3                   |         |           | ⌛ - Aguardando       |
+| Python 3 - Módulo 1                  | 12/2023 | 01/2024   | ✔️ - Concluído       |
+| Python 3 - Módulo 2                  | 01/2024 | --/2024   | 📖 - Estudando (30%) |
+| Python 3 - Módulo 3                  |         |           | ⌛ - Aguardando       |
 | Wordpress - Módulo 1                 | 01/2024 | --/2024   | 📖 - Estudando (31%) |
 | Wordpress - Módulo 2                 |         |           | ⌛ - Aguardando      |
 | Wordpress - Módulo 3                 |         |           | ⌛ - Aguardando      |
 | Wordpress - Módulo 4                 |         |           | ⌛ - Aguardando      |
+| C - Básico                           | 01/2024 | --/2024   | 📖 - Estudando       |
 | PHP - Básico                         | 01/2024 | --/2024   | 📖 - Estudando (40%) |
 | PHP - POO                            |         |           | ⌛ - Aguardando      |
 | PHP - Moderno                        |         |           | ⌛ - Aguardando      |

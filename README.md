@@ -64,29 +64,31 @@ Contato:
 ##
 ## Cursos para 2024
 
-| Curso                                | Início  | Conclusão    | Status            |
-|--------------------------------------|---------|--------------|-------------------|
-| Curso de Programação de Jogos em Lua | 11/2023 | 2024         | 🔒 - Em espera    |
-|                                      |         |              |                   |
-| Python 3 - Mundo 1                   | 12/2023 | 01/2024      | ✔️ - Concluído    |
-| Python 3 - Mundo 2                   | 01/2024 | --/2024      | 📖 - Estudando    |
-| Python 3 - Mundo 3                   |         |              | ⌛ - Aguardando   |
-| Wordpress - Módulo 1                 | 01/2024 | --/2024      | 📖 - Estudando   |
-| Wordpress - Módulo 2                 |         |              | ⌛ - Aguardando   |
-| Wordpress - Módulo 3                 |         |              | ⌛ - Aguardando   |
-| Wordpress - Módulo 4                 |         |              | ⌛ - Aguardando   |
-| PHP - Básico                         | 01/2024 | --/2024      | 📖 - Estudando   |
-| PHP - POO                            |         |              | ⌛ - Aguardando   |
-| PHP - Moderno                        |         |              | ⌛ - Aguardando   |
-| Java - Básico                        |         |              | ⌛ - Aguardando   |
-| Java - POO                           |         |              | ⌛ - Aguardando   |
-| C# Para Todos                        |         |              | ⌛ - Aguardando   |
-| Linguagem R                          |         |              | ⌛ - Aguardando   |
-| MySQL                                |         |              | ⌛ - Aguardando   |
-| JavaScript                           |         |              | ⌛ - Aguardando   |
-| Git e GitHub                         |         |              | ⌛ - Aguardando   |
-| Como Anunciar na Internet            |         |              | ⌛ - Aguardando   |
-| PhotoShop                            |         |              | ⌛ - Aguardando   |
+<!--🌟 - certificado -->
+
+| Curso                                | Início  | Conclusão | Status               |
+|--------------------------------------|---------|-----------|----------------------|
+| Curso de Programação de Jogos em Lua | 11/2023 | 2024      |                      |
+|                                      |         |           |                      |
+| Python 3 - Mundo 1                   | 12/2023 | 01/2024   | ✔️ - Concluído       |
+| Python 3 - Mundo 2                   | 01/2024 | --/2024   | 📖 - Estudando (30%) |
+| Python 3 - Mundo 3                   |         |           | ⌛ - Aguardando       |
+| Wordpress - Módulo 1                 | 01/2024 | --/2024   | 📖 - Estudando (25%) |
+| Wordpress - Módulo 2                 |         |           | ⌛ - Aguardando      |
+| Wordpress - Módulo 3                 |         |           | ⌛ - Aguardando      |
+| Wordpress - Módulo 4                 |         |           | ⌛ - Aguardando      |
+| PHP - Básico                         | 01/2024 | --/2024   | 📖 - Estudando (40%) |
+| PHP - POO                            |         |           | ⌛ - Aguardando      |
+| PHP - Moderno                        |         |           | ⌛ - Aguardando      |
+| Java - Básico                        |         |           | ⌛ - Aguardando      |
+| Java - POO                           |         |           | ⌛ - Aguardando      |
+| C# Para Todos                        |         |           | ⌛ - Aguardando      |
+| Linguagem R                          |         |           | ⌛ - Aguardando      |
+| MySQL                                |         |           | ⌛ - Aguardando      |
+| JavaScript                           |         |           | ⌛ - Aguardando      |
+| Git e GitHub                         |         |           | ⌛ - Aguardando      |
+| Como Anunciar na Internet            |         |           | ⌛ - Aguardando      |
+| PhotoShop                            |         |           | ⌛ - Aguardando      |
 
 ##
 

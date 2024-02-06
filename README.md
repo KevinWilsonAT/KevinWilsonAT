@@ -77,7 +77,7 @@ Contato:
 | Wordpress - Módulo 2                 |         |           | ⌛ - Aguardando      |
 | Wordpress - Módulo 3                 |         |           | ⌛ - Aguardando      |
 | Wordpress - Módulo 4                 |         |           | ⌛ - Aguardando      |
-| C - Básico                           | 01/2024 | --/2024   | 📖 - Estudando       |
+| C - Básico                           | 01/2024 | --/2024   | 📖 - Estudando (11%) |
 | PHP - Básico                         | 01/2024 | --/2024   | 📖 - Estudando (40%) |
 | PHP - POO                            |         |           | ⌛ - Aguardando      |
 | PHP - Moderno                        |         |           | ⌛ - Aguardando      |

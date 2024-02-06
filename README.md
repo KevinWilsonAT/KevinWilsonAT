@@ -66,7 +66,7 @@ Contato:
 
 | Curso                                | Início  | Conclusão | Status                  |
 |--------------------------------------|---------|-----------|-------------------------|
-| Intensivão de JavaScript             | 01/2024 | 01/2024   | 🌟✔️ - Concluído       |
+| Intensivão de JavaScript             | 01/2024 | 02/2024   | 🌟✔️ - Concluído       |
 | Python 3 - Módulo 1                  | 12/2023 | 01/2024   | ⌛✔️ - Concluído       |
 | Python 3 - Módulo 2                  | 01/2024 | --/2024   | ⏩📖 - Estudando (30%) |
 | Python 3 - Módulo 3                  |         |           | ➖⌛ - Aguardando       |

@@ -3,7 +3,7 @@
   <p align="left">
   Formado em Análise de Sistemas em 2017 e pós graduado em Docência em Sistemas de Informação em 2023.
       
-  Sou Desenvolvedor Web há 1 ano. Acredito que no aprendizado, além da eficiência na programação, também é 
+  Sou Desenvolvedor Web e Desenvolvedor de Software há 1 ano. Acredito que no aprendizado, além da eficiência na programação, também é 
   necessário ser alguém que esteja sempre disposto a <strong>aprender</strong>, <strong>interagir</strong>, <strong>inovar</strong>, <strong>se adaptar para crescer</strong>.
   
   Para mim, uma boa programação deve ser limpa e de fácil leitura, com códigos compreensíveis a desenvolvedores

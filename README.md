@@ -20,7 +20,7 @@ Linguagens e ferramentas<!--que utilizo no meu dia-->:
 
 ### Back End:
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experiência com Node.js: Em aprendizado"> <img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experiência com Nest.js: Em aprendizado"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experiência com PHP: Em aprendizado">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experiência com Node.js: Em aprendizado"> <img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experiência com Nest.js: Em aprendizado"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experiência com PHP: 5/10 - Em aprendizado">
 
 ### Front End / Back End:
 
@@ -28,12 +28,12 @@ Linguagens e ferramentas<!--que utilizo no meu dia-->:
 
 ### Banco de Dados:
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experiência com MySQL: 5/10 - Em Aprendizado">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experiência com MySQL: 6/10 - Em Aprendizado">
 
 ##
 ### Linguagens de Programação Desktop:
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experiência com C: 5/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: Em Aprendizado"> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 6/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: Em Aprendizado">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experiência com C: 6/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: Em Aprendizado"> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 6/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: Em Aprendizado">
 
 ### Linguagens de Programação Mobile (Games):
 
@@ -44,7 +44,7 @@ Linguagens e ferramentas<!--que utilizo no meu dia-->:
 
 #### Plataformas:
 
-<img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" title="Experiência com Wordpress: 4/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoCoWlor=white" title="Experiência com Github: 6/10 - Em Aprendizado"> 
+<img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" title="Experiência com Wordpress: 5/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoCoWlor=white" title="Experiência com Github: 6/10 - Em Aprendizado"> 
 
 #### IDEs:
 
@@ -75,12 +75,12 @@ Contato:
 | Wordpress - Módulo 3                 |         |           | ➖⌛ - Aguardando      |
 | Wordpress - Módulo 4                 |         |           | ➖⌛ - Aguardando      |
 | C - Básico                           | 01/2024 | --/2024   | ➖📖 - Estudando (22%) |
-| PHP - Básico                         | 01/2024 | --/2024   | ⏩📖 - Estudando (50%) |
+| C# Para Todos                        | 02/2024 | --/2024   | ➖📖 - Estudando       |
+| PHP - Básico                         | 01/2024 | --/2024   | ⏩📖 - Estudando (59%) |
 | PHP - POO                            |         |           | ➖⌛ - Aguardando      |
 | PHP - Moderno                        |         |           | ➖⌛ - Aguardando      |
 | Java - Básico                        |         |           | ➖⌛ - Aguardando      |
 | Java - POO                           |         |           | ➖⌛ - Aguardando      |
-| C# Para Todos                        |         |           | ➖⌛ - Aguardando      |
 | Linguagem R                          |         |           | ➖⌛ - Aguardando      |
 | MySQL                                |         |           | ➖⌛ - Aguardando      |
 | JavaScript                           |         |           | ➖⌛ - Aguardando      |

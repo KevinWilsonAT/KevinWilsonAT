@@ -98,6 +98,6 @@ Contato:
     <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWilsonAT&langs_count=20&layout=compact&show_icons=true&theme=dark&locale=en" alt="KevinWilsonAT" />
 </div>
 <div align="center">
-        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&margin-w=5&theme=radical" />
+        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&margin-w=5&theme=nord&no-frame=true&no-bg=true" />
 </div>
 <br>

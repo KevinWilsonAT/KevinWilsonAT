@@ -10,9 +10,7 @@
   em qualquer nível de experiência.
   </p>
 
-<h2 align="left">
-Linguagens e ferramentas<!--que utilizo no meu dia-->:
-</h2>
+## 💻 Linguagens e ferramentas
 
 ### Front End:
 
@@ -30,7 +28,6 @@ Linguagens e ferramentas<!--que utilizo no meu dia-->:
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experiência com MySQL: 6/10 - Em Aprendizado">
 
-##
 ### Linguagens de Programação Desktop:
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experiência com C: 6/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: Em Aprendizado"> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 6/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: 5/10 - Em Aprendizado">
@@ -39,7 +36,6 @@ Linguagens e ferramentas<!--que utilizo no meu dia-->:
 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experiência com Dart: Em Aprendizado"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experiência com Lua: 7/10 - Em Aprendizado">
 
-##
 ### Plataformas, Programas e IDEs:
 
 #### Plataformas:
@@ -53,16 +49,15 @@ Linguagens e ferramentas<!--que utilizo no meu dia-->:
 #### Outros Programas:
 
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=windows&logoColor=white" title="Experiência com Office: 6/10">
-<h2 align="left">
-Contato:
-</h2>
+
+## 📞 Contato:
+
 <a href="https://www.linkedin.com/in/kwat1/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/kevin.wilson.a.t/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn"/></a>
 
-##
-## Cursos para 2024
+## 📖 Cursos para 2024
 
 | Curso                                | Início  | Conclusão | Status                  |
 |--------------------------------------|---------|-----------|-------------------------|
@@ -92,7 +87,7 @@ Contato:
 
 ##
 
-# 📊GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
     <img height="196em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=false&rank_icon=github&theme=dark" />
@@ -100,7 +95,7 @@ Contato:
     <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWilsonAT&langs_count=20&layout=compact&show_icons=true&theme=dark&locale=en" alt="KevinWilsonAT" />
 </div>
 
-## 🏆GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
         <img height="180em" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&margin-w=5&theme=nord&no-frame=true&no-bg=true" />

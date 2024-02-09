@@ -70,7 +70,7 @@
 | Wordpress - Módulo 2                 |         |           | ➖⌛ - Aguardando      |
 | Wordpress - Módulo 3                 |         |           | ➖⌛ - Aguardando      |
 | Wordpress - Módulo 4                 |         |           | ➖⌛ - Aguardando      |
-| C# Para Todos                        | 02/2024 | --/2024   | ➖📖 - Estudando       |
+| C# - Básico                          | 02/2024 | --/2024   | ➖📖 - Estudando       |
 | PHP - Básico                         | 01/2024 | --/2024   | ⏩📖 - Estudando (59%) |
 | PHP - POO                            |         |           | ➖⌛ - Aguardando      |
 | PHP - Moderno                        |         |           | ➖⌛ - Aguardando      |

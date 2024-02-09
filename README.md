@@ -30,7 +30,7 @@
 
 ### Linguagens de Programação Desktop:
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experiência com C: 6/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: Em Aprendizado"> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 6/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: 5/10 - Em Aprendizado">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experiência com C: 7/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: Em Aprendizado"> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 6/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: 5/10 - Em Aprendizado">
 
 ### Linguagens de Programação Mobile (Games):
 
@@ -44,7 +44,7 @@
 
 #### IDEs:
 
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="Experiência com Eclipse: 6/10"> <img src="https://img.shields.io/badge/Dev_C%2B%2B-00599C?&style=for-the-badge&logo=cplusplus&logoColor=fff" title="Experiência com Dev C++: 6/10"> <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experiência com PHPStorm: 5/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experiência com PyCharm: 7/10"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experiência com VS Code: 8/10"> <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experiência com Solar 2D: 7/10"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experiência com Git: 4/10">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="Experiência com Eclipse: 6/10"> <img src="https://img.shields.io/badge/Dev_C%2B%2B-00599C?&style=for-the-badge&logo=cplusplus&logoColor=fff" title="Experiência com Dev C++: 8/10"> <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experiência com PHPStorm: 5/10 - Em Aprendizado"> <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experiência com PyCharm: 7/10"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experiência com VS Code: 8/10"> <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experiência com Solar 2D: 7/10"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experiência com Git: 4/10">
 
 #### Outros Programas:
 
@@ -62,6 +62,7 @@
 | Curso                                | Início  | Conclusão | Status                  |
 |--------------------------------------|---------|-----------|-------------------------|
 | Intensivão de JavaScript             | 01/2024 | 02/2024   | 🌟✔️ - Concluído       |
+| C - Básico                           | 01/2024 | 02/2024   | 🆗📖 - Concluído       |
 | Python 3 - Módulo 1                  | 12/2023 | 01/2024   | ⌛✔️ - Concluído       |
 | Python 3 - Módulo 2                  | 01/2024 | --/2024   | ⏩📖 - Estudando (30%) |
 | Python 3 - Módulo 3                  |         |           | ➖⌛ - Aguardando       |
@@ -69,7 +70,6 @@
 | Wordpress - Módulo 2                 |         |           | ➖⌛ - Aguardando      |
 | Wordpress - Módulo 3                 |         |           | ➖⌛ - Aguardando      |
 | Wordpress - Módulo 4                 |         |           | ➖⌛ - Aguardando      |
-| C - Básico                           | 01/2024 | --/2024   | ➖📖 - Estudando (50%) |
 | C# Para Todos                        | 02/2024 | --/2024   | ➖📖 - Estudando       |
 | PHP - Básico                         | 01/2024 | --/2024   | ⏩📖 - Estudando (59%) |
 | PHP - POO                            |         |           | ➖⌛ - Aguardando      |

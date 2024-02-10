@@ -60,86 +60,107 @@
 ## 📖 Cursos para 2024
 
 <table width="100%">
+  <tr> <td colspan=2> Curso </td> <td> Início </td> <td> Conclusão </td> <td> Status </td> </tr>
+  <tr> <td colspan=5></td> </tr>
   <tr>
-    <td colspan=2> Curso </td> <td> Início </td> <td> Conclusão </td> <td> Status </td>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
+      Intensivão de JavaScript </td> <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Concluído </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/>
+      C - Básico </td> <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
+      Python 3 - Módulo 1 </td> <td> 40h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído </td>
   </tr>
   <tr>
     <td colspan=5></td>
   </tr>
   <tr>
-    <td> Intensivão de JavaScript </td> <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Concluído </td>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
+      C++ - Básico </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando </td>
   </tr>
   <tr>
-    <td> C - Básico </td> <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
+      Python 3 - Módulo 2 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (30%)</td>
   </tr>
   <tr>
-    <td> Python 3 - Módulo 1 </td> <td> 40h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído </td>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
+      WordPress - Módulo 1 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (38%) </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
+      PHP - Básico </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (59%) </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
+      Python - Módulo 3 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
+      C# - Básico </td> <td> 10h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
+      WordPress - Módulo 2 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
+      WordPress - Módulo 3 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
+      Wordpress - Módulo 4 </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
+      PHP - POO </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
+      PHP Moderno - Módulo 1 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
+      Java - Básico </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
+      Java - POO </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
+      R - Básico </td> <td>  </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/>
+      MySQL </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
+      JavaScript </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/>
+      Git / GitHub </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" alt="external-business-no-code-flaticons-flat-flat-icons" width="16px" height="16px"/>
+      Como Anunciar Na Internet </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="16px" height="16px"/> 
+      Photoshop - Básico </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
   </tr>
   <tr>
     <td colspan=5></td>
   </tr>
   <tr>
-    <td> C++ - Básico </td> <td> 60h </td> <td> 02/24 </td> <td> --/24 </td> <td> ⏩📖 - Estudando </td>
-  </tr>
-  <tr>
-    <td> Python 3 - Módulo 2 </td> <td> 40h </td> <td> 01/24 </td> <td> --/24 </td> <td> ⏩📖 - Estudando (30%)</td>
-  </tr>
-  <tr>
-    <td> WordPress - Módulo 1 </td> <td> 40h </td> <td> 01/24 </td> <td> --/24 </td> <td> ⏩📖 - Estudando (38%) </td>
-  </tr>
-  <tr>
-    <td> PHP - Básico </td> <td> 40h </td> <td> 01/24 </td> <td> --/24 </td> <td> ⏩📖 - Estudando (59%) </td>
-  </tr>
-  <tr>
-    <td> Python - Módulo 3 </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td> C# - Básico </td> <td> 10h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td> WordPress - Módulo 2 </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td> WordPress - Módulo 3 </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td> Wordpress - Módulo 4 </td> <td> 20h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td> PHP - POO </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td> PHP Moderno - Módulo 1 </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td> Java - Básico </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td> Java - POO </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td> R - Básico </td> <td>     </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td> MySQL </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td> JavaScript </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td> Git / GitHub </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td> Como Anunciar Na Internet </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td> Photoshop - Básico </td> <td> 20h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr>
-    <td colspan=5></td>
-  </tr>
-  <tr>
-    <td> Programação Jogos em Lua </td> <td> &nbsp; </td> <td> 11/23 </td> <td> &nbsp; </td> <td> ➖🔒 </td>
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="16px" height="16px"/>
+      Programação Jogos em Lua </td> <td> &nbsp; </td> <td> 11/23 </td> <td> &nbsp; </td> <td> ➖🔒 </td>
   </tr>
 </table>
 

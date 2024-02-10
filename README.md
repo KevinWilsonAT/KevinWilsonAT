@@ -59,32 +59,89 @@
 
 ## 📖 Cursos para 2024
 
-| Curso                     | Dur. | Início  | Conclusão | Status                  |
-|---------------------------|------|---------|-----------|-------------------------|
-| Intensivão de JavaScript  | 8h   | 01/2024 | 02/2024   | 🌟✔️ - Concluído       |
-| C - Básico                | 15h  | 01/2024 | 02/2024   | 🆗✔️ - Concluído       |
-| Python 3 - Módulo 1       | 40h  | 12/2023 | 01/2024   | ⌛✔️ - Concluído        |
-| C++ - Básico              | 55h  | 02/2024 | --/2024   | ⏩📖 - Estudando       |
-| Python 3 - Módulo 2       | 40h  | 01/2024 | --/2024   | ⏩📖 - Estudando (30%) |
-| Python 3 - Módulo 3       | 40h  |         | --/2024   | ➖⌛ - Aguardando       |
-| Wordpress - Módulo 1      | 40h  | 01/2024 | --/2024   | ⏩📖 - Estudando (38%) |
-| Wordpress - Módulo 2      | 40h  |         | --/2024   | ➖⌛ - Aguardando       |
-| Wordpress - Módulo 3      | 40h  |         | --/2024   | ➖⌛ - Aguardando       |
-| Wordpress - Módulo 4      | 20h  |         | --/2024   | ➖⌛ - Aguardando       |
-| C# - Básico               | 10h  |         | --/2024   | ➖⌛ - Aguardando      |
-| PHP - Básico              | 40h  | 01/2024 | --/2024   | ⏩📖 - Estudando (59%) |
-| PHP - POO                 | 40h  |         | --/2024   | ➖⌛ - Aguardando      |
-| PHP Moderno - Módulo 1    | 40h  |         | --/2024   | ➖⌛ - Aguardando      |
-| Java - Básico             | 40h  |         | --/2024   | ➖⌛ - Aguardando      |
-| Java - POO                | 40h  |         | --/2024   | ➖⌛ - Aguardando      |
-| Linguagem R               |      |         | --/2024   | ➖⌛ - Aguardando      |
-| MySQL                     | 40h  |         | --/2024   | ➖⌛ - Aguardando      |
-| JavaScript                | 40h  |         | --/2024   | ➖⌛ - Aguardando      |
-| Git e GitHub              | 40h  |         | --/2024   | ➖⌛ - Aguardando      |
-| Como Anunciar na Internet | 40h  |         | --/2024   | ➖⌛ - Aguardando      |
-| PhotoShop                 | 20h  |         | --/2024   | ➖⌛ - Aguardando      |
-|                           |      |         |           |                        |
-| Curso Progr. Jogos em Lua |      | 11/2023 | 2024      | ➖🔒 - Em espera       |
+<table width="100%">
+  <tr>
+    <td colspan=2> Curso </td> <td> Início </td> <td> Conclusão </td> <td> Status </td>
+  </tr>
+  <tr>
+    <td colspan=5></td>
+  </tr>
+  <tr>
+    <td> Intensivão de JavaScript </td> <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Concluído </td>
+  </tr>
+  <tr>
+    <td> C - Básico </td> <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
+  </tr>
+  <tr>
+    <td> Python 3 - Módulo 1 </td> <td> 40h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído </td>
+  </tr>
+  <tr>
+    <td colspan=5></td>
+  </tr>
+  <tr>
+    <td> C++ - Básico </td> <td> 60h </td> <td> 02/24 </td> <td> --/24 </td> <td> ⏩📖 - Estudando </td>
+  </tr>
+  <tr>
+    <td> Python 3 - Módulo 2 </td> <td> 40h </td> <td> 01/24 </td> <td> --/24 </td> <td> ⏩📖 - Estudando (30%)</td>
+  </tr>
+  <tr>
+    <td> WordPress - Módulo 1 </td> <td> 40h </td> <td> 01/24 </td> <td> --/24 </td> <td> ⏩📖 - Estudando (38%) </td>
+  </tr>
+  <tr>
+    <td> PHP - Básico </td> <td> 40h </td> <td> 01/24 </td> <td> --/24 </td> <td> ⏩📖 - Estudando (59%) </td>
+  </tr>
+  <tr>
+    <td> Python - Módulo 3 </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> C# - Básico </td> <td> 10h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> WordPress - Módulo 2 </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> WordPress - Módulo 3 </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> Wordpress - Módulo 4 </td> <td> 20h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> PHP - POO </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> PHP Moderno - Módulo 1 </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> Java - Básico </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> Java - POO </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> R - Básico </td> <td>     </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> MySQL </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> JavaScript </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> Git / GitHub </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> Como Anunciar Na Internet </td> <td> 40h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td> Photoshop - Básico </td> <td> 20h </td> <td> --/24 </td> <td> --/24 </td> <td> ➖⌛ - Aguardando </td>
+  </tr>
+  <tr>
+    <td colspan=5></td>
+  </tr>
+  <tr>
+    <td> Programação Jogos em Lua </td> <td> &nbsp; </td> <td> 11/23 </td> <td> &nbsp; </td> <td> ➖🔒 </td>
+  </tr>
+</table>
 
 ##
 

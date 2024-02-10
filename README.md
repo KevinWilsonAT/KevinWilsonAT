@@ -59,32 +59,32 @@
 
 ## 📖 Cursos para 2024
 
-| Curso                                | Início  | Conclusão | Status                  |
-|--------------------------------------|---------|-----------|-------------------------|
-| Intensivão de JavaScript (8 horas)   | 01/2024 | 02/2024   | 🌟✔️ - Concluído       |
-| C - Básico (15 horas)                | 01/2024 | 02/2024   | 🆗✔️ - Concluído       |
-| Python 3 - Módulo 1 (40 horas)       | 12/2023 | 01/2024   | ⌛✔️ - Concluído        |
-| C++ - Básico (55 horas)              | 02/2024 | --/2024   | ⏩📖 - Estudando       |
-| Python 3 - Módulo 2 (40 horas)       | 01/2024 | --/2024   | ⏩📖 - Estudando (30%) |
-| Python 3 - Módulo 3 (40 horas)       |         | --/2024   | ➖⌛ - Aguardando       |
-| Wordpress - Módulo 1 (40 horas)      | 01/2024 | --/2024   | ⏩📖 - Estudando (38%) |
-| Wordpress - Módulo 2 (40 horas)      |         | --/2024   | ➖⌛ - Aguardando       |
-| Wordpress - Módulo 3 (40 horas)      |         | --/2024   | ➖⌛ - Aguardando       |
-| Wordpress - Módulo 4 (20 horas)      |         | --/2024   | ➖⌛ - Aguardando       |
-| C# - Básico (10 horas)               |         | --/2024   | ➖⌛ - Aguardando      |
-| PHP - Básico (40 horas)              | 01/2024 | --/2024   | ⏩📖 - Estudando (59%) |
-| PHP - POO (40 horas)                 |         | --/2024   | ➖⌛ - Aguardando      |
-| PHP Moderno - Módulo 1 (40 horas)    |         | --/2024   | ➖⌛ - Aguardando      |
-| Java - Básico (40 horas)             |         | --/2024   | ➖⌛ - Aguardando      |
-| Java - POO (40 horas)                |         | --/2024   | ➖⌛ - Aguardando      |
-| Linguagem R                          |         | --/2024   | ➖⌛ - Aguardando      |
-| MySQL  (40 horas)                    |         | --/2024   | ➖⌛ - Aguardando      |
-| JavaScript (40 horas)                |         | --/2024   | ➖⌛ - Aguardando      |
-| Git e GitHub (40 horas)              |         | --/2024   | ➖⌛ - Aguardando      |
-| Como Anunciar na Internet (40 horas) |         | --/2024   | ➖⌛ - Aguardando      |
-| PhotoShop (20 horas)                 |         | --/2024   | ➖⌛ - Aguardando      |
-|                                      |         |           |                        |
-| Curso de Programação de Jogos em Lua | 11/2023 | 2024      | ➖🔒 - Em espera       |
+| Curso                          | Duração | Início  | Conclusão | Status                  |
+|--------------------------------|---------|---------|-----------|-------------------------|
+| Intensivão de JavaScript       |   8h    | 01/2024 | 02/2024   | 🌟✔️ - Concluído       |
+| C - Básico                     |   15h   | 01/2024 | 02/2024   | 🆗✔️ - Concluído       |
+| Python 3 - Módulo 1            |   40h   | 12/2023 | 01/2024   | ⌛✔️ - Concluído        |
+| C++ - Básico                   |   55h   | 02/2024 | --/2024   | ⏩📖 - Estudando       |
+| Python 3 - Módulo 2            |   40h   | 01/2024 | --/2024   | ⏩📖 - Estudando (30%) |
+| Python 3 - Módulo 3            |   40h   |         | --/2024   | ➖⌛ - Aguardando       |
+| Wordpress - Módulo 1           |   40h   | 01/2024 | --/2024   | ⏩📖 - Estudando (38%) |
+| Wordpress - Módulo 2           |   40h   |         | --/2024   | ➖⌛ - Aguardando       |
+| Wordpress - Módulo 3           |   40h   |         | --/2024   | ➖⌛ - Aguardando       |
+| Wordpress - Módulo 4           |   20h   |         | --/2024   | ➖⌛ - Aguardando       |
+| C# - Básico                    |   10h   |         | --/2024   | ➖⌛ - Aguardando      |
+| PHP - Básico                   |   40h   | 01/2024 | --/2024   | ⏩📖 - Estudando (59%) |
+| PHP - POO                      |   40h   |         | --/2024   | ➖⌛ - Aguardando      |
+| PHP Moderno - Módulo 1         |   40h   |         | --/2024   | ➖⌛ - Aguardando      |
+| Java - Básico                  |   40h   |         | --/2024   | ➖⌛ - Aguardando      |
+| Java - POO                     |   40h   |         | --/2024   | ➖⌛ - Aguardando      |
+| Linguagem R                    |         |         | --/2024   | ➖⌛ - Aguardando      |
+| MySQL                          |   40h   |         | --/2024   | ➖⌛ - Aguardando      |
+| JavaScript                     |   40h   |         | --/2024   | ➖⌛ - Aguardando      |
+| Git e GitHub                   |   40h   |         | --/2024   | ➖⌛ - Aguardando      |
+| Como Anunciar na Internet      |   40h   |         | --/2024   | ➖⌛ - Aguardando      |
+| PhotoShop                      |   20h   |         | --/2024   | ➖⌛ - Aguardando      |
+|                                |         |         |           |                        |
+| Curso Programação Jogos em Lua |         | 11/2023 | 2024      | ➖🔒 - Em espera       |
 
 ##
 

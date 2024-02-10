@@ -177,6 +177,6 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&margin-w=5&theme=nord&no-frame=true&no-bg=true" />
+        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=4&margin-w=20&margin-h=20&no-frame=true&no-bg=true" />
 </div>
 <br>

@@ -102,12 +102,13 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
       Java - Básico </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando </td>
   </tr>
+  
   <tr title="Curso de MySQL - Curso Em Vídeo">
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/>
       MySQL </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando </td>
   </tr>
   <tr>
-    <tr title="Curso de Python: Módulo 3 - Curso Em Vídeo">
+    <td title="Curso de Python: Módulo 3 - Curso Em Vídeo">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python - Módulo 3 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
   </tr>
@@ -148,7 +149,7 @@
       Git / GitHub </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
   </tr>
   <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">
-    <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" alt="external-business-no-code-flaticons-flat-flat-icons" width="16px" height="16px"/>
+    <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
       Como Anunciar Na Internet </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
   </tr>
   <tr title="Curso de PhotoShop Básico - Curso Em Vídeo">
@@ -158,7 +159,7 @@
   <tr>
     <td colspan=5></td>
   </tr>
-  <tr>
+  <tr title="Curso de Programação Jogos Em Lua - Eureka Santa Catarina">
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="16px" height="16px"/>
       Programação Jogos em Lua </td> <td> &nbsp; </td> <td> 11/23 </td> <td> &nbsp; </td> <td> ➖🔒 </td>
   </tr>

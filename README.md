@@ -184,6 +184,15 @@
 
 # 📊 GitHub Stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinWilsonAT&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinWilsonAT&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinWilsonAT&theme=dark)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinWilsonAT&theme=dark&utcOffset=8)
+
 <div align="center">
     <img height="196em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=false&rank_icon=github&theme=dark" />
   &nbsp;

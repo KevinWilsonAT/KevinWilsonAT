@@ -25,7 +25,7 @@
   at any experience level.
 </p>
 
-## 💻 ![BR](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png) Linguagens e ferramentas | ![US](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png) Languges and Tools
+## 💻 ![BR](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png) Linguagens e ferramentas | ![US](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png) Languages and Tools
 
 ### Front End:
 

@@ -94,6 +94,11 @@
   <tr>
     <td colspan=5></td>
   </tr>
+  <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter">
+    <td>
+      <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
+      Ciência de Dados e Inteligência Artificial </td> <td> 360h </td> <td> 03/24 </td> <td> 12/24 </td> <td> ⏩📖 - Estudando | Studying </td>
+  </tr>
   <tr title="Curso de PHP Básico - Curso Em Vídeo">
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>

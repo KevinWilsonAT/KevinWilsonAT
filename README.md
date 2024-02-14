@@ -4,8 +4,9 @@
 
   <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png">
   
-  Formado em Análise de Sistemas em 2017 e pós graduado em Docência em Sistemas de Informação em 2023.
-        
+  Formado em Análise de Sistemas em 2017, pós-graduado em Docência em Sistemas de Informação em 2023 e cursando pós-graduação em Ciência
+  de Dados e Inteligência Artificial em 2024.
+  
   Sou Desenvolvedor Web e Desenvolvedor de Software há 1 ano. Acredito que no aprendizado, além da eficiência na programação, também é 
   necessário ser alguém que esteja sempre disposto a <strong>aprender</strong>, <strong>interagir</strong>, <strong>inovar</strong>, <strong>se adaptar para crescer</strong>.
     
@@ -16,7 +17,8 @@
   
   <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png">
 
-  Graduated in Systems Analysis and Development in 2017 and postgraduate in Teaching in Information Systems in 2023.
+  Graduated in Systems Analysis and Development in 2017, postgraduate in Teaching in Information Systems in 2023 and pursuing a postgraduate degree in Science
+  of Data and Artificial Intelligence in 2024.
   
   I'm a Web and Sotfware Developer since 2023. I believe that in learning, in addition to programming efficiency,
   it is also necessary to be someone who is always willing to <strong>learn</strong>, <strong>interact</strong>, <strong>innovate</strong>, <strong >adapt to grow</strong>.

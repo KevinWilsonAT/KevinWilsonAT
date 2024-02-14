@@ -95,7 +95,7 @@
   <tr title="Curso de PHP Básico - Curso Em Vídeo">
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-      PHP - Básico </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying (72%) </td>
+      PHP - Básico </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying (77%) </td>
   </tr>
   <tr title="Curso de Python 3: Módulo 2 - Curso Em Vídeo">
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
@@ -184,19 +184,16 @@
 
 # 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinWilsonAT&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinWilsonAT&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinWilsonAT&theme=dark)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinWilsonAT&theme=dark&utcOffset=8)
-
 <div align="center">
-    <img height="196em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=false&rank_icon=github&theme=dark" />
-  &nbsp;
-    <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWilsonAT&langs_count=20&layout=compact&show_icons=true&theme=dark&locale=en" alt="KevinWilsonAT" />
+  <img height="196em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=false&rank_icon=github&theme=dark" />
+  <br>
+  <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinWilsonAT&theme=dark" />
+  <br>
+  <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinWilsonAT&theme=dark&utcOffset=-3" />
+  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWilsonAT&langs_count=20&layout=compact&show_icons=true&theme=dark&locale=en" alt="KevinWilsonAT" />
+  <br>
+  <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinWilsonAT&theme=dark" />
+  <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinWilsonAT&theme=dark" />
 </div>
 
 ## 🏆 GitHub Trophies

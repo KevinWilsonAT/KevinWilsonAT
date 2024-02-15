@@ -205,6 +205,32 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-        <img height="180em" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=4&margin-w=25&margin-h=25&no-frame=true&no-bg=true" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=4&margin-w=25&margin-h=25&no-frame=true&no-bg=true" />
 </div>
-<br>
+
+## 📕 Repositories
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinWilsonAT&repo=C-Course-Pietro-Martins&theme=dark" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinWilsonAT&repo=C-Plus-Plus-Course-CFB-Cursos&theme=dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinWilsonAT&repo=Github-Course-Gustavo-Guanabara&theme=dark" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinWilsonAT&repo=Java-Course-Gustavo-Guanabara&theme=dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinWilsonAT&repo=Javascript-Course-Gustavo-Guanabara&theme=dark" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinWilsonAT&repo=Javascript-Intensive-Class&theme=dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinWilsonAT&repo=Lua-Game-Programming-Course&theme=dark" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinWilsonAT&repo=Personal-Projects&theme=dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinWilsonAT&repo=PHP-Course-Gustavo-Guanabara&theme=dark" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinWilsonAT&repo=portfolio&theme=dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinWilsonAT&repo=Python-Course-Gustavo-Guanabara&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinWilsonAT&repo=Site-Projects&theme=dark" />
+</div>

@@ -114,11 +114,15 @@
   </tr>
   <tr title="Curso de Java Básico - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------ CURSO DE JAVA BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-      Java - Básico </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying (24%)</td>
+      Java - Básico </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying (27%)</td>
   </tr>
   <tr title="Curso de JavaScript - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE JAVASCRIPT -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
       JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying (8%)</td>
+  </tr>
+  <tr title="Curso de R Básico - LabData"> <!-- ---------------------------------------------------------------------------------------------------------------------------- CURSO DE R BÁSICO -->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
+      R - Básico </td> <td>  </td> <td>  </td> <td>  </td> <td> ⏩📖 - Estudando | Studying </td>
   </tr>
   <tr title="Curso de C++ - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ CURSO DE C++ -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
@@ -160,10 +164,6 @@
   <tr title="Curso de Java POO - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------- CURSO DE JAVA ORIENTADO A OBJETOS -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
       Java - POO </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando | Waiting </td>
-  </tr>
-  <tr title="Curso de R Básico - LabData"> <!-- ---------------------------------------------------------------------------------------------------------------------------- CURSO DE LINGUAGEM R BÁSICO -->
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
-      R - Básico </td> <td>  </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando | Waiting </td>
   </tr>
   <tr title="Curso de Git e GitHub - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- CURSO DE GIT / GITHUB -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/>

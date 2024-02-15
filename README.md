@@ -208,6 +208,7 @@
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=4&margin-w=25&margin-h=25&no-frame=true&no-bg=true" />
 </div>
 
+<!--
 ## 📕 Repositories
 
 <div align="center">
@@ -234,3 +235,4 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinWilsonAT&repo=Python-Course-Gustavo-Guanabara&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinWilsonAT&repo=Site-Projects&theme=dark" />
 </div>
+-->

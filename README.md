@@ -118,7 +118,7 @@
   </tr>
   <tr title="Curso de JavaScript - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE JAVASCRIPT -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
-      JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying (8%)</td>
+      JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying (26%)</td>
   </tr>
   <tr title="Curso de R Básico - LabData"> <!-- ---------------------------------------------------------------------------------------------------------------------------- CURSO DE R BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>

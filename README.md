@@ -97,7 +97,7 @@
   <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter"> <!-- ------------------------------------------------------------------------------------ PÓS GRADUAÇÃO CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL -->
     <td>
       <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
-      Ciência de Dados e Inteligência Artificial </td> <td> 360h </td> <td> 03/24 </td> <td> 12/24 </td> <td> ⏩📖 - Estudando | Studying </td>
+      Ciência de Dados e Inteligência Artificial </td> <td> 360h </td> <td> 03/24 </td> <td> 12/24 </td> <td> ⏳📖 - Iniciando | Starting </td>
   </tr>
   <tr title="Curso de PHP Básico - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE PHP BÁSICO -->
     <td>
@@ -122,15 +122,15 @@
   </tr>
   <tr title="Curso de R Básico - LabData"> <!-- ---------------------------------------------------------------------------------------------------------------------------- CURSO DE R BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
-      R - Básico </td> <td>  </td> <td>  </td> <td>  </td> <td> ⏩📖 - Estudando | Studying </td>
+      R - Básico </td> <td>  </td> <td>  </td> <td>  </td> <td> ⌛📖 - Preparando | Preparing </td>
   </tr>
   <tr title="Curso de C++ - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ CURSO DE C++ -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
-      C++ - Básico </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying </td>
+      C++ - Básico </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⌛📖 - Preparando | Preparing </td>
   </tr>
   <tr title="Curso de MySQL - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------ CURSO DE MYSQL -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/>
-      MySQL </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying </td>
+      MySQL </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ➖⌛ - Aguardando | Waiting </td>
   </tr>
   <tr>
     <td title="Curso de Python: Módulo 3 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 3 -->

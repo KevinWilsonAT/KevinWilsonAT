@@ -122,7 +122,7 @@
   </tr>
   <tr title="Curso de R Básico - LabData"> <!-- ---------------------------------------------------------------------------------------------------------------------------- CURSO DE R BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
-      R - Básico </td> <td>  </td> <td>  </td> <td>  </td> <td> ⌛📖 - Preparando | Preparing </td>
+      R - Básico </td> <td> 8h </td> <td>  </td> <td>  </td> <td> ⌛📖 - Preparando | Preparing </td>
   </tr>
   <tr title="Curso de C++ - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ CURSO DE C++ -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>

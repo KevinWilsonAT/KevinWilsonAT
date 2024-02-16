@@ -79,6 +79,7 @@
 <table width="100%">
   <tr> <td colspan=2> Curso <br> Course </td> <td> Início <br> Beginning </td> <td> Conclusão <br> Completion </td> <td> Status </td> </tr>
   <tr> <td colspan=5></td> </tr>
+  </tr>
   <tr title="Intensivão de Javascript - Hashtag Treinamentos"> <!-- -------------------------------------------------------------------------------------------------------- INTENSIVÃO DE JAVASCRIPT -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
       Intensivão de JavaScript </td> <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Concluído | Completed</td> 
@@ -86,6 +87,11 @@
   <tr title="Curso Básico de C - Pietro Martins"> <!-- --------------------------------------------------------------------------------------------------------------------- CURSO DE C BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/>
       C - Básico </td> <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído | Completed</td>
+  </tr>
+  <tr title="Curso de PHP Básico - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE PHP BÁSICO -->
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
+      PHP - Básico </td> <td> 40h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído | Completed </td>
   </tr>
   <tr title="Curso de Python: Módulo 1 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 1 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
@@ -98,12 +104,6 @@
     <td>
       <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
       Ciência de Dados e Inteligência Artificial </td> <td> 360h </td> <td> 03/24 </td> <td> 12/24 </td> <td> ⏳📖 - Iniciando | Starting </td>
-  </tr>
-  <tr title="Curso de PHP Básico - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE PHP BÁSICO -->
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-      PHP - Básico </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying (86%) </td>
-  </tr>
   <tr title="Curso de Python 3: Módulo 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 2 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python 3 - Módulo 2 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying (71%)</td>

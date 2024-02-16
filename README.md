@@ -31,46 +31,46 @@
 
 ### Front End:
 
-<img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" title="Experiência com HTML: 8/10 - Em Aprendizado"><!-- ----------------------------------------- HTML -->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experiência com CSS: 8/10 - Em Aprendizado"><!-- -------------------------------------------- CSS -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Experiência com JavaScript: 7/10 - Em Aprendizado"><!-- ------------------------- JS -->
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experiência com Tailwind: Em Aprendizado"><!-- ------------------------------ TAILWIND -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experiência com React: Em Aprendizado"><!-- ---------------------------------------------- REACT-->
+<img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" title="Experiência com HTML: 8/10 - Em Aprendizado"><!-- ----------------------------------------- LINGUAGEM HTML -->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experiência com CSS: 8/10 - Em Aprendizado"><!-- -------------------------------------------- LINGUAGEM CSS -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Experiência com JavaScript: 7/10 - Em Aprendizado"><!-- ------------------------- LINGUAGEM JS -->
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experiência com Tailwind: Em Aprendizado"><!-- ------------------------------ FRAMEWORK TAILWIND -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experiência com React: Em Aprendizado"><!-- ---------------------------------------------- FRAMEWORK REACT-->
 
 ### Back End:
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experiência com Node.js: Em aprendizado"><!-- ----------------------------------------- NODE.JS -->
-<img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experiência com Nest.js: Em aprendizado"><!-- ----------------------------------------- NEST.JS -->
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experiência com PHP: 6/10 - Em aprendizado"><!-- ---------------------------------------------- PHP -->
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experiência com Node.js: Em aprendizado"><!-- ----------------------------------------- FRAMEWORK NODE.JS -->
+<img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experiência com Nest.js: Em aprendizado"><!-- ----------------------------------------- FRAMEWORK NEST.JS -->
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experiência com PHP: 6/10 - Em aprendizado"><!-- ---------------------------------------------- LINGUAGEM PHP -->
 
 ### Front End / Back End:
 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="Experiência com TypeScript: Em Aprendizado"><!-- ------------------------------- TYPESCRIPT -->
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Experiência com Angular: Em Aprendizado"><!-- ---------------------------------------- ANGULAR -->
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="Experiência com TypeScript: Em Aprendizado"><!-- ------------------------------- LINGUAGEM TYPESCRIPT -->
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Experiência com Angular: Em Aprendizado"><!-- ---------------------------------------- FRAMEWORK ANGULAR -->
 
 ### Banco de Dados | Database:
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experiência com MySQL: 6/10 - Em Aprendizado"><!-- --------------------------------------- MYSQL -->
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experiência com MySQL: 6/10 - Em Aprendizado"><!-- --------------------------------------- PLATAFORMA MYSQL -->
 
 ### Linguagens de Programação Desktop | Desktop Programming Languages:
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experiência com C: 7/10 - Em Aprendizado"><!-- --------------------------------------------------- C -->
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: Em Aprendizado"><!-- -------------------------------------------- C++ -->
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"><!-- ------------------------------------------------- C# -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 7/10 - Em Aprendizado"><!-- ------------------------------------ PYTHON -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: 5/10 - Em Aprendizado"><!-- --------------------------------------- JAVA -->
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experiência com C: 7/10 - Em Aprendizado"><!-- --------------------------------------------------- LINGUAGEM C -->
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: Em Aprendizado"><!-- -------------------------------------------- LINGUAGEM C++ -->
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"><!-- ------------------------------------------------- LINGUAGEM C# -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 7/10 - Em Aprendizado"><!-- ------------------------------------ LINGUAGEM PYTHON -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: 5/10 - Em Aprendizado"><!-- --------------------------------------- LINGUAGEM JAVA -->
 
 ### Linguagens de Programação Mobile (Games) | Mobile Programming Languages (Games):
 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experiência com Dart: Em Aprendizado"><!-- ------------------------------------------------- DART -->
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experiência com Lua: 7/10 - Em Aprendizado"><!-- --------------------------------------------- LUA -->
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experiência com Dart: Em Aprendizado"><!-- ------------------------------------------------- LINGUAGEM DART -->
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experiência com Lua: 7/10 - Em Aprendizado"><!-- --------------------------------------------- LINGUAGEM LUA -->
 
 ### Plataformas, Programas e IDEs | Platforms, Softwares and IDEs:
 
 #### Plataformas | Platforms:
 
-<img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" title="Experiência com Wordpress: 5/10 - Em Aprendizado"><!-- --------------------------- WORDPRESS -->
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoCoWlor=white" title="Experiência com Github: 7/10 - Em Aprendizado"><!-- ----------------------------------- GITHUB -->
+<img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" title="Experiência com Wordpress: 5/10 - Em Aprendizado"><!-- --------------------------- PLATAFORMA WORDPRESS -->
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoCoWlor=white" title="Experiência com Github: 7/10 - Em Aprendizado"><!-- ----------------------------------- PLATAFORMA GITHUB -->
 
 #### IDEs:
 
@@ -126,7 +126,7 @@
       Ciência de Dados e Inteligência Artificial </td> <td> 360h </td> <td> 03/24 </td> <td>  </td> <td> ⏳📖 - Iniciando | Starting </td>
   <tr title="Curso de Python 3: Módulo 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 2 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-      Python 3 - Módulo 2 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying (71%)</td>
+      Python 3 - Módulo 2 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying (80%)</td>
   </tr>
   <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE WORDPRESS MÓDULO 1 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>

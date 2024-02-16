@@ -103,7 +103,7 @@
   <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter"> <!-- ------------------------------------------------------------------------------------ PÓS GRADUAÇÃO CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL -->
     <td>
       <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
-      Ciência de Dados e Inteligência Artificial </td> <td> 360h </td> <td> 03/24 </td> <td> 12/24 </td> <td> ⏳📖 - Iniciando | Starting </td>
+      Ciência de Dados e Inteligência Artificial </td> <td> 360h </td> <td> 03/24 </td> <td>  </td> <td> ⏳📖 - Iniciando | Starting </td>
   <tr title="Curso de Python 3: Módulo 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 2 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python 3 - Módulo 2 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying (71%)</td>

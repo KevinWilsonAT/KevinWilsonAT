@@ -122,7 +122,7 @@
   </tr>
   <tr title="Curso de R Básico - LabData"> <!-- ---------------------------------------------------------------------------------------------------------------------------- CURSO DE R BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
-      R - Básico </td> <td> 8h </td> <td>  </td> <td>  </td> <td> ⌛📖 - Preparando | Preparing </td>
+      R - Básico </td> <td> 8h </td> <td> 02/24 </td> <td>  </td> <td> ⌛📖 - Preparando | Preparing </td>
   </tr>
   <tr title="Curso de C++ - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ CURSO DE C++ -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
@@ -130,7 +130,7 @@
   </tr>
   <tr title="Curso de MySQL - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------ CURSO DE MYSQL -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/>
-      MySQL </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ➖⌛ - Aguardando | Waiting </td>
+      MySQL </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando | Waiting </td>
   </tr>
   <tr>
     <td title="Curso de Python: Módulo 3 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 3 -->

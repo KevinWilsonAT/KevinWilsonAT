@@ -52,13 +52,15 @@
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experiência com MySQL: 6/10 - Em Aprendizado"><!-- --------------------------------------- PLATAFORMA MYSQL -->
 
-### Linguagens de Programação Desktop | Desktop Programming Languages:
+### Linguagens de Programação Desktop e Analise de Dados | Desktop Programming and Data Analysis Languages:
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experiência com C: 7/10 - Em Aprendizado"><!-- --------------------------------------------------- LINGUAGEM C -->
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: Em Aprendizado"><!-- -------------------------------------------- LINGUAGEM C++ -->
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"><!-- ------------------------------------------------- LINGUAGEM C# -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 7/10 - Em Aprendizado"><!-- ------------------------------------ LINGUAGEM PYTHON -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: 5/10 - Em Aprendizado"><!-- --------------------------------------- LINGUAGEM JAVA -->
+
+<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experiência com R: Em Aprendizado"><!-- ------------------------------------------------------------ LINGUAGEM R -->
 
 ### Linguagens de Programação Mobile (Games) | Mobile Programming Languages (Games):
 
@@ -82,6 +84,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experiência com VS Code: 8/10"><!-- ------------------------ VS CODE -->
 <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experiência com Solar 2D: 7/10"><!-- --------------------------------------------- SOLAR -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experiência com Git: 4/10"><!-- -------------------------------------------------------------- GIT -->
+<!-- Inserir Rstudio aqui -->
 
 #### Outros Programas | Other Softwares:
 
@@ -142,7 +145,7 @@
   </tr>
   <tr title="Curso de R Básico - LabData"> <!-- ---------------------------------------------------------------------------------------------------------------------------- CURSO DE R BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
-      R - Básico </td> <td> 8h </td> <td> 02/24 </td> <td>  </td> <td> ⌛📖 - Preparando | Preparing </td>
+      R - Básico </td> <td> 8h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando | Studying (23%) </td>
   </tr>
   <tr title="Curso de C++ - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ CURSO DE C++ -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>

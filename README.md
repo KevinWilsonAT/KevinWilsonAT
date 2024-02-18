@@ -218,9 +218,6 @@
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=6&margin-w=25&margin-h=25&no-frame=true&no-bg=true" /> <!-- ------------------------------- TROFEUS GITHUB -->
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KevinWilsonAT}/count.svg" /></p>
-</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=120&section=footer"/>

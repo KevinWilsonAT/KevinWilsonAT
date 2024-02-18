@@ -71,7 +71,8 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experience with VS Code: 8/10"><!-- ------------------------ VS CODE -->
 <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experience with Solar 2D: 7/10"><!-- --------------------------------------------- SOLAR -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experience with Git: 4/10"><!-- -------------------------------------------------------------- GIT -->
-<!-- Inserir Rstudio aqui -->
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" title="Experience with RStudio: 5/10"><!-- -------------------------------------------------------------- R Studio -->
+
 
 #### Other Softwares:
 

@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=120&section=header"/>
+
 ## Kevin Wilson Aguiar Teixeira
 
 <p align="left">
@@ -215,3 +217,5 @@
 <div align="center">
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=6&margin-w=25&margin-h=25&no-frame=true&no-bg=true" /> <!-- ------------------------------- GITHUB TROPHIES -->
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=120&section=footer"/>

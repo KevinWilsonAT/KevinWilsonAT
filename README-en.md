@@ -2,7 +2,7 @@
 
 <p align="left">
 
-  <a href="README.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></a> - <a href="README-en.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"></a>
+  <a href="README.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></a> | <a href="README-en.md"><img width="16px" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"></a>
 
   Graduated in Systems Analysis and Development in 2017, postgraduate in Teaching in Information Systems in 2023 and pursuing a postgraduate degree in Science
   of Data and Artificial Intelligence in 2024.

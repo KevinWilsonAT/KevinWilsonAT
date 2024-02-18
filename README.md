@@ -205,6 +205,8 @@
 
 # 📊 Status do GitHub
 
+![](https://leetcard.jacoblin.cool/KevinWilsonAT?ext=contest)
+
 <div align="center">
   <img height="196em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=github&theme=dark" /> <!-- ----------------------------------------------------------- STATUS E RANK GITHUB -->
   <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWilsonAT&langs_count=20&layout=compact&show_icons=true&theme=dark&locale=en" alt="KevinWilsonAT" />  <!-- --- TOP LINGUAGENS GITHUB (20) -->
@@ -214,8 +216,6 @@
   <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinWilsonAT&theme=dark" /> <!-- ---------------------------------------------------------- TOP LINGUAGENS GITHUB POR REPOSITORIO -->
   <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinWilsonAT&theme=dark" /> <!-- -------------------------------------------------------- TOP LINGUAGENS GITHUB POR COMMIT -->
 </div>
-
-
 
 ## 🏆 Troféus do GitHub
 

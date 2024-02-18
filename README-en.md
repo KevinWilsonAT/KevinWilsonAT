@@ -185,7 +185,7 @@
   </tr>
   <tr title="Curso de PhotoShop Básico - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------- CURSO DE PHOTOSHOP BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="16px" height="16px"/> 
-      Photoshop - Básico </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando | Waiting </td>
+      Photoshop - Básico </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
   </tr>
   <tr>
     <td colspan=5></td>

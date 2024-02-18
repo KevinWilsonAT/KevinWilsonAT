@@ -200,17 +200,17 @@
 # 📊 Status do GitHub
 
 <div align="center">
-  <img height="196em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=github&theme=dark" /> <!-- ----------------------------------------------------------- GITHUB STATS AND RANK -->
-  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWilsonAT&langs_count=20&layout=compact&show_icons=true&theme=dark&locale=en" alt="KevinWilsonAT" />  <!-- --- GITHUB TOP LANGUAGES (20) -->
+  <img height="196em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=github&theme=dark" /> <!-- ----------------------------------------------------------- STATUS E RANK GITHUB -->
+  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWilsonAT&langs_count=20&layout=compact&show_icons=true&theme=dark&locale=en" alt="KevinWilsonAT" />  <!-- --- TOP LINGUAGENS GITHUB (20) -->
   <br>
-  <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinWilsonAT&theme=dark" /> <!-- -------------------------------------------------------------- GITHUB STATS GRAPHIC YEAR -->
+  <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinWilsonAT&theme=dark" /> <!-- -------------------------------------------------------------- STATUS E GRÁFICO ANUAL GITHUB -->
   <br>
-  <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinWilsonAT&theme=dark" /> <!-- ---------------------------------------------------------- GITHUB TOP LANGUAGES BY REPOSITORY -->
-  <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinWilsonAT&theme=dark" /> <!-- -------------------------------------------------------- GITHUB TOP LANGUAGES BY COMMIT -->
+  <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinWilsonAT&theme=dark" /> <!-- ---------------------------------------------------------- TOP LINGUAGENS GITHUB POR REPOSITORIO -->
+  <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinWilsonAT&theme=dark" /> <!-- -------------------------------------------------------- TOP LINGUAGENS GITHUB POR COMMIT -->
 </div>
 
 ## 🏆 Troféus do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=6&margin-w=25&margin-h=25&no-frame=true&no-bg=true" /> <!-- ------------------------------- GITHUB TROPHIES -->
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=6&margin-w=25&margin-h=25&no-frame=true&no-bg=true" /> <!-- ------------------------------- TROFEUS GITHUB -->
 </div>

@@ -2,7 +2,7 @@
      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </p>
 
-<p align="center" size="24px">Kevin Wilson Aguiar Teixeira</p>
+<p align="left" font-size="24px">Kevin Wilson Aguiar Teixeira</p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 

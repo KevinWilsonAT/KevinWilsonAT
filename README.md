@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=909090&height=120&section=header"/>
+
+
 ## Kevin Wilson Aguiar Teixeira
 
 <p align="left">

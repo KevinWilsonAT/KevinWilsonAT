@@ -106,7 +106,7 @@
   </tr>
 <tr title="Curso Introdutório de R - LabData"> <!-- ---------------------------------------------------------------------------------------------------------------------------- CURSO DE R BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
-      R - Introdução </td> <td> 8h </td> <td> 02/24 </td> <td>  </td> <td> ✔️✔️ - Concluído </td>
+      R - Introdução </td> <td> 8h </td> <td> 02/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
   </tr>
   <tr title="Curso de PHP Básico - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE PHP BÁSICO -->
     <td>

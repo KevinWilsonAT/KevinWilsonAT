@@ -27,7 +27,7 @@
 ### Front End:
 
 <img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" title="Experience with HTML: 8/10 - Learning"><!-- ----------------------------------------- HTML -->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experience with CSS: 8/10 - Learning"><!-- ----------------------------------------- CSS -->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experience with CSS: 8/10 - Learning"><!-- -------------------------------------------- CSS -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Experience with JavaScript: 7/10 - Learning"><!-- ------------------------- JS -->
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experience with Tailwind: Learning"><!-- ------------------------------ TAILWIND -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experience with React: Learning"><!-- ---------------------------------------------- REACT-->
@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experience with Python: 7/10 - Learning"><!-- ------------------------------------ PYTHON -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experience with Java: 5/10 - Learning"><!-- --------------------------------------- JAVA -->
 
-<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experience with R: Learning"><!-- ------------------------------------------------------------ R -->
+<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experience with R: 5/10 - Learning"><!-- ----------------------------------------------------- R -->
 
 ### Mobile Programming Languages (Games):
 
@@ -71,15 +71,15 @@
 
 #### IDEs:
 
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="Experience with Eclipse: 6/10"><!-- -------------------------------------------------- ECLIPSE -->
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="Experience with Eclipse: 6/10"><!-- -------------------------------------------- ECLIPSE -->
 <img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=for-the-badge" title="Experience with NetBeans: Learning"><!-- ------------------------------ NETBEANS -->
-<img src="https://img.shields.io/badge/Dev_C%2B%2B-00599C?&style=for-the-badge&logo=cplusplus&logoColor=fff" title="Experience with Dev C++: 8/10"><!-- --------------------------------------------- DEV C++ -->
+<img src="https://img.shields.io/badge/Dev_C%2B%2B-00599C?&style=for-the-badge&logo=cplusplus&logoColor=fff" title="Experience with Dev C++: 8/10"><!-- --------------------------------------- DEV C++ -->
 <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experience with PHPStorm: 5/10 - Learning"><!-- ------------------------------ PHPSTORM -->
-<img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experience with PyCharm: 7/10"><!-- ------------------------------------------------- PYCHARM -->
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experience with VS Code: 8/10"><!-- ------------------------ VS CODE -->
-<img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experience with Solar 2D: 7/10"><!-- --------------------------------------------- SOLAR -->
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experience with Git: 4/10"><!-- -------------------------------------------------------------- GIT -->
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" title="Experience with RStudio: 5/10"><!-- -------------------------------------------------------------- R Studio -->
+<img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experience with PyCharm: 7/10"><!-- ------------------------------------------- PYCHARM -->
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experience with VS Code: 8/10"><!-- ------------------ VS CODE -->
+<img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experience with Solar 2D: 7/10"><!-- --------------------------------------- SOLAR -->
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experience with Git: 4/10"><!-- -------------------------------------------------------- GIT -->
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" title="Experience with RStudio: 5/10"><!-- -------------------------------------------- R Studio -->
 
 
 #### Other Softwares:
@@ -107,6 +107,10 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/>
       C - Basic </td> <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Completed </td>
   </tr>
+  <tr title="R Introductory Course- LabData"> <!-- ---------------------------------------------------------------------------------------------------------------------------- R INTRODUCTORY COURSE -->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
+      R - Introduction </td> <td> 8h </td> <td> 02/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Complete </td>
+  </tr>
   <tr title="PHP Basic Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- PHP BASIC COURSE-->
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
@@ -122,10 +126,6 @@
   <tr title="Python 3 Course: Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 2 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python 3 - Module 2 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Studying (80%)</td>
-  </tr>
-<tr title="R Basic Course- LabData"> <!-- ---------------------------------------------------------------------------------------------------------------------------- R BASIC COURSE -->
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
-      R - Basic </td> <td> 8h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (40%) </td>
   </tr>
   <tr title="WordPress Course: Module 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 1 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>

@@ -138,13 +138,13 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
       JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (26%)</td>
   </tr>
+  <tr title="C++ Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ C++ COURSE -->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
+      C++ - Basic </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying </td>
+  </tr>
   <tr title="Post-graduation: Data Science and Artificial Intelligence - Uninter"> <!-- ------------------------------------------------------------------------------------ POST-GRADUATION DATA SCIENCE AND ARTIFICIAL INTELLIGENCE -->
     <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
       Data Science and Artificial Intelligence </td> <td> 360h </td> <td> 03/24 </td> <td>  </td> <td> ⏳📖 - Starting </td>
-  </tr>
-  <tr title="C++ Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ C++ COURSE -->
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
-      C++ - Basic </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⌛📖 - Preparing </td>
   </tr>
   <tr title="MySQL Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------ MYSQL COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/>

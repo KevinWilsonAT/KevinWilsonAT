@@ -138,7 +138,7 @@
   </tr>
   <tr title="Curso de C++ - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ CURSO DE C++ -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
-      C++ - Básico </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando </td>
+      C++ - Básico </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (3%) </td>
   </tr>
   </tr>
   <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter"> <!-- ------------------------------------------------------------------------------------ PÓS GRADUAÇÃO CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL -->

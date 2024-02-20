@@ -10,7 +10,7 @@
 
 <p align="left">
 
-  <a href="README.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></a> | <a href="README-en.md"><img width="24px" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"></a>
+  <a href="README.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></a> | <img width="24px" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png">
 
   Graduated in Systems Analysis and Development in 2017, postgraduate in Teaching in Information Systems in 2023 and pursuing a postgraduate degree in Data Science
   and Artificial Intelligence in 2024.
@@ -148,7 +148,7 @@
   </tr>
   <tr title="C# Basic Introductory Course - LearnCafe"> <!-- ------------------------------------------------------------------------------------------------------------- C# COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
-      C# - Basic </td> <td> 10h </td> <td> 24/02 </td> <td>  </td> <td> ⌛📖 - Starting </td>
+      C# - Basic </td> <td> 10h </td> <td> 02/24 </td> <td>  </td> <td> ⌛📖 - Starting </td>
   </tr>
   <tr title="Post-graduation: Data Science and Artificial Intelligence - Uninter"> <!-- ---------------------------------------------------------------------------------- POST-GRADUATION DATA SCIENCE AND ARTIFICIAL INTELLIGENCE -->
     <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>

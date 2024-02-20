@@ -147,7 +147,7 @@
   </tr>
   <tr title="Curso Introdutório de C# - LearnCafe"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE C# BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
-      C# - Básico </td> <td> 10h </td> <td> 24/02 </td> <td>  </td> <td> ⌛📖 - Iniciando </td>
+      C# - Básico </td> <td> 10h </td> <td> 02/24 </td> <td>  </td> <td> ⌛📖 - Iniciando </td>
   </tr>
   </tr>
   <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter"> <!-- ------------------------------------------------------------------------------------ PÓS GRADUAÇÃO CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL -->

@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-     <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&color=fff&duration=600&pause=1500&lines=Hi, I'm Kevin;I'm a Front End dev;I'm a Back End dev;I'm a Software dev;">
+     <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&color=fff&duration=600&pause=1500&lines=Hi, I'm Kevin;I'm a Front End Dev;I'm a Back End Dev;I'm a Software Dev;">
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />

@@ -12,8 +12,8 @@
 
   <a href="README.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></a> | <a href="README-en.md"><img width="24px" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"></a>
 
-  Graduated in Systems Analysis and Development in 2017, postgraduate in Teaching in Information Systems in 2023 and pursuing a postgraduate degree in Science
-  of Data and Artificial Intelligence in 2024.
+  Graduated in Systems Analysis and Development in 2017, postgraduate in Teaching in Information Systems in 2023 and pursuing a postgraduate degree in Data Science
+  and Artificial Intelligence in 2024.
   
   I'm a Web and Sotfware Developer since 2023. I believe that in learning, in addition to programming efficiency,
   it is also necessary to be someone who is always willing to <strong>learn</strong>, <strong>interact</strong>, <strong>innovate</strong>, <strong >adapt to grow</strong>.

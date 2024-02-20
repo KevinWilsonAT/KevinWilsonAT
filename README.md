@@ -9,7 +9,7 @@
 
 <p align="left">
 
-  <a href="README.md"><img width="24px" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></a> | <a href="README-en.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"></a>
+  <img width="24px" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"> | <a href="README-en.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"></a>
   
   Formado em Análise de Sistemas em 2017, pós-graduado em Docência em Sistemas de Informação em 2023 e cursando pós-graduação em Ciência
   de Dados e Inteligência Artificial em 2024.

@@ -106,7 +106,7 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
       JavaScript intensive course </td> <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Completed </td> 
   </tr>
-  <tr title="C Basic Course - Pietro Martins"> <!-- --------------------------------------------------------------------------------------------------------------------- C BASIC COURSE COMPLETED -->
+  <tr title="C Basic Course - Pietro Martins"> <!-- --------------------------------------------------------------------------------------------------------------------------- C BASIC COURSE COMPLETED -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/>
       C - Basic </td> <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Completed </td>
   </tr>
@@ -114,19 +114,19 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
       R - Introduction </td> <td> 8h </td> <td> 02/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Completed </td>
   </tr>
-  <tr title="PHP Basic Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- PHP BASIC COURSE COMPLETED -->
+  <tr title="PHP Basic Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------- PHP BASIC COURSE COMPLETED -->
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
       PHP - Basic </td> <td> 40h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ⌛✔️ - Completed </td>
   </tr>
-  <tr title="Python 3 Course: Module 1 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 1 COMPLETED -->
+  <tr title="Python 3 Course: Module 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 1 COMPLETED -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python 3 - Module 1 </td> <td> 40h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Completed </td>
   </tr>
   <tr>
     <td colspan=5></td>
   </tr>
-  <tr title="Python 3 Course: Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 2 -->
+  <tr title="Python 3 Course: Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 2 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python 3 - Module 2 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Studying (82%)</td>
   </tr>
@@ -140,7 +140,7 @@
   </tr>
   <tr title="JavaScript Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- JAVASCRIPT COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
-      JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (26%)</td>
+      JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (35%)</td>
   </tr>
   <tr title="C++ Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ C++ COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>

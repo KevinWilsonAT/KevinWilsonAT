@@ -100,24 +100,24 @@
   <tr> <td colspan=2> Curso </td> <td> Início </td> <td> Conclusão </td> <td> Status </td> </tr>
   <tr> <td colspan=5></td> </tr>
   </tr>
-  <tr title="Intensivão de Javascript - Hashtag Treinamentos"> <!-- -------------------------------------------------------------------------------------------------------- INTENSIVÃO DE JAVASCRIPT -->
+  <tr title="Intensivão de Javascript - Hashtag Treinamentos"> <!-- -------------------------------------------------------------------------------------------------------- INTENSIVÃO DE JAVASCRIPT CONCLUÍDO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
       Intensivão de JavaScript </td> <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Concluído </td> 
   </tr>
-  <tr title="Curso Básico de C - Pietro Martins"> <!-- --------------------------------------------------------------------------------------------------------------------- CURSO DE C BÁSICO -->
+  <tr title="Curso Básico de C - Pietro Martins"> <!-- --------------------------------------------------------------------------------------------------------------------- CURSO DE C BÁSICO CONCLUÍDO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/>
       C - Básico </td> <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
   </tr>
-<tr title="Curso Introdutório de R - LabData"> <!-- ---------------------------------------------------------------------------------------------------------------------------- CURSO DE R BÁSICO -->
+<tr title="Curso Introdutório de R - LabData"> <!-- ---------------------------------------------------------------------------------------------------------------------------- CURSO DE R BÁSICO CONCLUÍDO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
       R - Introdução </td> <td> 8h </td> <td> 02/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
   </tr>
-  <tr title="Curso de PHP Básico - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE PHP BÁSICO -->
+  <tr title="Curso de PHP Básico - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE PHP BÁSICO CONCLUÍDO -->
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
       PHP - Básico </td> <td> 40h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído </td>
   </tr>
-  <tr title="Curso de Python: Módulo 1 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 1 -->
+  <tr title="Curso de Python: Módulo 1 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 1 CONCLUÍDO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python 3 - Módulo 1 </td> <td> 40h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído </td>
   </tr>
@@ -130,7 +130,7 @@
   </tr>
   <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE WORDPRESS MÓDULO 1 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
-      WordPress - Módulo 1 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (40%) </td>
+      WordPress - Módulo 1 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (42%) </td>
   </tr>
   <tr title="Curso de Java Básico - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------ CURSO DE JAVA BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>

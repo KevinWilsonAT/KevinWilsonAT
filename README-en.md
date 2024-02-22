@@ -128,7 +128,7 @@
   </tr>
   <tr title="Python 3 Course: Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 2 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-      Python 3 - Module 2 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Studying (82%)</td>
+      Python 3 - Module 2 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Studying (97%)</td>
   </tr>
   <tr title="WordPress Course: Module 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 1 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>

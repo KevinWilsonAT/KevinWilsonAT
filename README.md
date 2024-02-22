@@ -116,7 +116,7 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
       PHP - Básico </td> <td> 40h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído </td>
   </tr>
-  <tr title="Curso de Python: Módulo 1, Módulo 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 1, MÓDULO 2 CONCLUÍDO -->
+  <tr title="Curso de Python 3: Módulo 1, Módulo 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 1, MÓDULO 2 CONCLUÍDO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python 3 - Módulo 1, Módulo 2 </td> <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído (2/3) </td>
   </tr>

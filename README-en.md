@@ -146,7 +146,7 @@
   </tr>
   <tr title="Python 3 Course: Módulo 3 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 3 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-      Python - Module 3 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ⌛📖 - Studying </td>
+      Python 3 - Module 3 </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying </td>
   </tr>
   <tr title="C# Basic Introductory Course - LearnCafe"> <!-- ------------------------------------------------------------------------------------------------------------- C# COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>

@@ -141,14 +141,13 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
       C++ - Básico </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (4,77%) </td>
   </tr>
-  
+  <tr title="Curso de Python 3: Módulo 3 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 3 -->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
+      Python 3 - Módulo 3 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ⏩📖 - Estudando </td>
+  </tr>
   <tr title="Curso Introdutório de C# - LearnCafe"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE C# BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
       C# - Básico </td> <td> 10h </td> <td> 02/24 </td> <td>  </td> <td> ⌛📖 - Iniciando </td>
-  </tr>
-  <tr title="Curso de Python: Módulo 3 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 3 -->
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-      Python - Módulo 3 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ⌛📖 - Iniciando </td>
   </tr>
   <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter"> <!-- ------------------------------------------------------------------------------------ PÓS GRADUAÇÃO CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL -->
     <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>

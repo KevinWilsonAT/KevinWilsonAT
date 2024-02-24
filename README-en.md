@@ -119,9 +119,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
       PHP - Basic </td> <td> 40h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ⌛✔️ - Completed </td>
   </tr>
-  <tr title="Python 3 Course: Module 1, Module 2 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------ PYTHON COURSE MODULE 1, MODULE 2 COMPLETED -->
+  <tr title="Python 3 Course: Modules 1 and 2 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------ PYTHON COURSE MODULE 1 AND 2 COMPLETED -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-      Python 3 - Module 1, Module 2 </td> <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Completed (2/3) </td>
+      Python 3 - Module 1 and 2 - Basic </td> <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Completed (2/5) </td>
   </tr>
      
   <tr>
@@ -142,7 +142,7 @@
   </tr>
     <tr title="Python 3 Course: Módulo 3 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 3 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-      Python 3 - Module 3 </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (13%) </td>
+      Python 3 - Module 3 - Intermediary </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (13%) </td>
   </tr>
   <tr title="C++ Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ C++ COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
@@ -195,6 +195,14 @@
   <tr title="PhotoShop Basic Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------- PHOTOSHOP BASIC COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="16px" height="16px"/> 
       Photoshop - Basic </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
+  </tr>
+  <tr title="Python 3 Course: Module 4 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 4 -->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
+      Python 3 - Module 4 </td> <td> 40h </td> <td> N/A </td> <td>  </td> <td> ➖⌛ - Waiting Course to be published </td>
+  </tr>
+  <tr title="Python 3 Course: Module 5 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 5 -->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
+      Python 3 - Module 5 </td> <td> 40h </td> <td> N/A </td> <td>  </td> <td> ➖⌛ - Waiting Course to be published </td>
   </tr>
   <tr>
     <td colspan=5></td>

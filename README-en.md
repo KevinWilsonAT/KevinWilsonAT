@@ -22,9 +22,9 @@
   at any experience level.
 </p>
 
-## 💻 Languages and Tools
+<h2>💻 Languages and Tools</h2>
 
-### Front End:
+<h3>Front End:</h3>
 
 <img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" title="Experience with HTML: 8/10 - Learning"><!-- ----------------------------------------- HTML -->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experience with CSS: 8/10 - Learning"><!-- -------------------------------------------- CSS -->
@@ -32,22 +32,22 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experience with Tailwind: Learning"><!-- ------------------------------ TAILWIND -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experience with React: Learning"><!-- ---------------------------------------------- REACT-->
 
-### Back End:
+<h3>Back End:</h3>
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experience with Node.js: Learning"><!-- ----------------------------------------- NODE.JS -->
 <img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experience with Nest.js: Learning"><!-- ----------------------------------------- NEST.JS -->
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experience with PHP: 6/10 - Learning"><!-- ---------------------------------------------- PHP -->
 
-### Front End / Back End:
+<h3>Front End / Back End:</h3>
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="Experience with TypeScript: Learning"><!-- ------------------------------- TYPESCRIPT -->
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Experience with Angular: Learning"><!-- ---------------------------------------- ANGULAR -->
 
-### Database:
+<h3>Database:</h3>
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experience with MySQL: 5/10 - Learning"><!-- --------------------------------------- MYSQL -->
 
-### Desktop Programming and Data Analysis Languages:
+<h3>Desktop Programming and Data Analysis Languages:</h3>
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experience with C: 6/10 - Learning"><!-- --------------------------------------------------- C -->
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experience with C++: 5/10 - Learning"><!-- ------------------------------------- C++ -->
@@ -57,19 +57,19 @@
 
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experience with R: 5/10 - Learning"><!-- ----------------------------------------------------- R -->
 
-### Mobile Programming Languages (Games):
+<h3>Mobile Programming Languages (Games):</h3>
 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experience with Dart: Learning"><!-- ------------------------------------------------- DART -->
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experience with Lua: 6/10 - Learning"><!-- --------------------------------------------- LUA -->
 
-### Platforms, Softwares and IDEs:
+<h3>Platforms, Softwares and IDEs:</h3>
 
-#### Platforms:
+<h4>Platforms:</h4>
 
 <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" title="Experience with Wordpress: 5/10"><!-- -------------------------------------- WORDPRESS -->
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoCoWlor=white" title="Experience with Github: 7/10"><!-- ---------------------------------------------- GITHUB -->
 
-#### IDEs:
+<h4>IDEs:</h4>
 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="Experience with Eclipse: 6/10"><!-- -------------------------------------------- ECLIPSE -->
 <img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=for-the-badge" title="Experience with NetBeans: 5/10"><!-- ---------------------------------- NETBEANS -->
@@ -85,18 +85,18 @@
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge" title="Experience with Visual Studio: 5/10"><!-- --------------------------- VISUAL STUDIO
 -->
 
-#### Other Softwares:
+<h4>Other Softwares:</h4>
 
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=windows&logoColor=white" title="Experience with Office: 6/10">
 
-## 📞 Contact:
+<h2>📞 Contact:</h2>
 
 <a href="https://www.linkedin.com/in/kwat1/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/kevin.wilson.a.t/" title="Instagram" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn"/></a>
 
-## 📖 2024 Courses
+<h2>📖 2024 Courses</h2>
 
 <table width="100%">
   <tr> <td colspan=2> Course </td> <td> Beginning </td> <td> Completion </td> <td> Status </td> </tr>
@@ -130,7 +130,7 @@
   
   <tr title="Java Basic Course- Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------ JAVA BASIC COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-      Java - Basic </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (45%)</td>
+      Java - Basic </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (48%)</td>
   </tr>   
   <tr title="WordPress Course: Module 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 1 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
@@ -216,10 +216,8 @@
       Lua Game Programming </td> <td> &nbsp; </td> <td> 11/23 </td> <td> &nbsp; </td> <td> ➖🔒 </td>
   </tr>
 </table>
-
-##
-
-# 📊 GitHub Stats
+<br>
+<h1>📊 GitHub Stats</h1>
 
 <div align="center">
   <img height="196em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=github&theme=dark" /> <!-- ----------------------------------------------------------- GITHUB STATS AND RANK -->
@@ -231,7 +229,7 @@
   <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinWilsonAT&theme=dark" /> <!-- -------------------------------------------------------- GITHUB TOP LANGUAGES BY COMMIT -->
 </div>
 
-## 🏆 GitHub Trophies
+<h2>🏆 GitHub Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=3&margin-w=25&margin-h=20&no-frame=true&no-bg=true" /> <!-- ------------------------------- GITHUB TROPHIES -->

@@ -146,7 +146,7 @@
   </tr>
   <tr title="C++ Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ C++ COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
-      C++ - Basic </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (5,83%) </td>
+      C++ - Basic </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (6,36%) </td>
   </tr>
   <tr title="C# Basic Introductory Course - LearnCafe"> <!-- ------------------------------------------------------------------------------------------------------------- C# COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>

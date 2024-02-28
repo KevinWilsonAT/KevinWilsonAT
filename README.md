@@ -5,8 +5,6 @@
      <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&color=fff&duration=600&pause=1500&lines=Olá, sou o Kevin;Sou Dev Front End;Sou Dev Back End;Sou Dev de Softwares;">
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=KevinWilsonAT&label=Visitantes&color=0e75b6&style=flat" alt="KevinWilsonAT" /> </p>
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <p align="left">

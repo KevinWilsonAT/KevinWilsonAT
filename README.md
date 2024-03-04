@@ -151,7 +151,7 @@
   </tr>
   <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter"> <!-- ------------------------------------------------------------------------------------ PÓS GRADUAÇÃO CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL -->
     <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
-      Ciência de Dados e Inteligência Artificial </td> <td> 360h </td> <td> 03/24 </td> <td>  </td> <td> ⏳📖 - Iniciando </td>
+      Ciência de Dados e Inteligência Artificial </td> <td> 360h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando </td>
   </tr>
   <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)"> <!-- ----------------------------------------------------------------------------------------------- CURSO DE REACT BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>

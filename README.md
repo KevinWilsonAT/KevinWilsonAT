@@ -147,7 +147,7 @@
   </tr>
   <tr title="Curso de C++ - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ CURSO DE C++ -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
-      C++ - Básico </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (7,42%) </td>
+      C++ - Básico </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (7,95%) </td>
   </tr>
   <tr title="Curso Introdutório de C# - LearnCafe"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE C# BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>

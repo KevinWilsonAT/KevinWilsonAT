@@ -219,7 +219,7 @@
 </table>
 <br>
 
-</h1>📊 Status do GitHub</h1>
+<h1>📊 Status do GitHub</h1>
 
 <div align="center">
   <img height="196em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=github&theme=dark" /> <!-- ---------------------------------------------------------- STATUS E RANK GITHUB -->

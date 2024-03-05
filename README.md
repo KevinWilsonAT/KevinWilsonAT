@@ -218,6 +218,7 @@
   </tr>
 </table>
 <br>
+
 </h1>📊 Status do GitHub</h1>
 
 <div align="center">

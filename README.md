@@ -125,9 +125,9 @@
     <td colspan=5></td>
   </tr>
 
-  <tr title="Jornada: Intensivão de Python - Hashtag Treinamentos"> <!-- -------------------------------------------------------------------------------------------------------- INTENSIVÃO DE JAVASCRIPT CONCLUÍDO -->
+  <tr title="Jornada: Intensivão de Python - Hashtag Treinamentos"> <!-- -------------------------------------------------------------------------------------------------------- INTENSIVÃO DE PYTHON CONCLUÍDO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-      Intensivão de Python </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> ⏩📖 - Estudando </td> 
+      Intensivão de Python </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> ⏩📖 - Estudando (25%)</td> 
   </tr>
   <tr title="Curso de Java Básico - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------ CURSO DE JAVA BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>

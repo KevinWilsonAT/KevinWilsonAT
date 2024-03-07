@@ -130,7 +130,7 @@
 
   <tr title="Journey: Python Intensive Course - Hashtag Treinamentos"> <!-- -------------------------------------------------------------------------------------------- PYTHON INSTENSIVE COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-      Python Intensive Course </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> ⏩📖 - Studying (25%)</td> 
+      Python Intensive Course </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> ⏩📖 - Studying (75%)</td> 
   </tr>
   <tr title="Java Basic Course- Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------ JAVA BASIC COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
@@ -146,7 +146,7 @@
   </tr>   
     <tr title="Python 3 Course: Módulo 3 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 3 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-      Python 3 - Module 3 - Intermediary </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (27%) </td>
+      Python 3 - Module 3 - Intermediary </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (29%) </td>
   </tr>
   <tr title="C++ Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ C++ COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>

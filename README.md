@@ -75,6 +75,7 @@
 <img src="https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?logo=codeblocks&logoColor=fff&style=for-the-badge" title="Experiência com Code::Blocks: 5/10"><!-- ----------------------------------- CODE::BLOCKS -->
 <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experiência com PHPStorm: 6/10"><!-- ----------------------------------------------- PHPSTORM -->
 <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experiência com PyCharm: 6/10"><!-- ------------------------------------------------- PYCHARM -->
+<img src="https://img.shields.io/badge/Jupyter-orange.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Experiência com Jupyter: 5/10"><!-- ------------------------------------------------- JUPYTER -->
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experiência com VS Code: 7/10"><!-- ------------------------ VS CODE -->
 <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experiência com Solar 2D: 7/10"><!-- --------------------------------------------- SOLAR -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experiência com Git: 5/10"><!-- -------------------------------------------------------------- GIT -->

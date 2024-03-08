@@ -125,15 +125,15 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python 3 - Module 1 and 2 - Basic </td> <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Completed (2/5) </td>
   </tr>
+  <tr title="Journey: Python Intensive Course - Hashtag Treinamentos"> <!-- -------------------------------------------------------------------------------------------- PYTHON INSTENSIVE COURSE -->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
+      Python Intensive Course </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> ⌛✔️ - Completed</td> 
+  </tr>
      
   <tr>
     <td colspan=5></td>
   </tr>
 
-  <tr title="Journey: Python Intensive Course - Hashtag Treinamentos"> <!-- -------------------------------------------------------------------------------------------- PYTHON INSTENSIVE COURSE -->
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-      Python Intensive Course </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> ⏩📖 - Studying (75%)</td> 
-  </tr>
   <tr title="Java Basic Course- Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------ JAVA BASIC COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
       Java - Basic </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (75%)</td>

@@ -57,6 +57,7 @@
 
 <h3>Linguagens de Programação Mobile (Games):</h3>
 
+<img src="https://img.shields.io/badge/Flet-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Experiência com Flet: Em Aprendizado"><!-- --------------------------------------- LINGUAGEM FLET -->
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experiência com Dart: Em Aprendizado"><!-- ------------------------------------------------- LINGUAGEM DART -->
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experiência com Lua: 6/10 - Em Aprendizado"><!-- --------------------------------------------- LINGUAGEM LUA -->
 

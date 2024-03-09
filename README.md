@@ -122,7 +122,7 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python 3 - Módulos 1 e 2 - Básico </td> <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído (2/5) </td>
   </tr>
-  <tr title="Jornada: Intensivão de Python - Hashtag Treinamentos"> <!-- -------------------------------------------------------------------------------------------------------- INTENSIVÃO DE PYTHON CONCLUÍDO -->
+  <tr title="Jornada: Intensivão de Python - Hashtag Treinamentos"> <!-- --------------------------------------------------------------------------------------------------- INTENSIVÃO DE PYTHON CONCLUÍDO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Intensivão de Python </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> ⌛✔️ - Concluído </td> 
   </tr>
@@ -161,7 +161,7 @@
   </tr>
   <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- CURSO DE COMO ANUNCIAR NA INTERNET MÓDULO 1 -->
     <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
-      Como Anunciar Na Internet </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ⌛📖 - Iniciando </td>
+      Como Anunciar Na Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⌛📖 - Iniciando </td>
   </tr>
   <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)"> <!-- ----------------------------------------------------------------------------------------------- CURSO DE REACT BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>

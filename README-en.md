@@ -162,6 +162,10 @@
     <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
       Data Science and Artificial Intelligence </td> <td> 360h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Studying </td>
   </tr>
+  <tr title="How to announce in the Internet Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- HOW TO ANNOUNCE IN THE INTERNET COURSE -->
+    <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
+      How to announce in the Internet </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ⌛📖 -  Starting </td>
+  </tr>
   <tr title="React BasicCourse - Matheus Battisti (Hora de Codar)"> <!-- ------------------------------------------------------------------------------------------------- REACT BASIC COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>
       React - Basic </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
@@ -197,10 +201,6 @@
   <tr title="Git & GitHub Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- GIT / GITHUB COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/>
       Git / GitHub </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
-  </tr>
-  <tr title="How to announce in the Internet Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- HOW TO ANNOUNCE IN THE INTERNET COURSE -->
-    <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
-      How to announce in the Internet </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ -  Waiting </td>
   </tr>
   <tr title="PhotoShop Basic Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------- PHOTOSHOP BASIC COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="16px" height="16px"/> 

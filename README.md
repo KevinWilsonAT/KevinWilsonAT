@@ -76,7 +76,7 @@
 <img src="https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?logo=codeblocks&logoColor=fff&style=for-the-badge" title="Experiência com Code::Blocks: 5/10"><!-- ----------------------------------- CODE::BLOCKS -->
 <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experiência com PHPStorm: 6/10"><!-- ----------------------------------------------- PHPSTORM -->
 <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experiência com PyCharm: 6/10"><!-- ------------------------------------------------- PYCHARM -->
-<img src="https://img.shields.io/badge/Jupyter-orange.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Experiência com Jupyter: 5/10"><!-- ------------------------------------------------- JUPYTER -->
+<img src="https://img.shields.io/badge/Jupyter-orange.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Experiência com Jupyter: 5/10"><!-- --------------------------------------------- JUPYTER -->
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experiência com VS Code: 7/10"><!-- ------------------------ VS CODE -->
 <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experiência com Solar 2D: 7/10"><!-- --------------------------------------------- SOLAR -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experiência com Git: 5/10"><!-- -------------------------------------------------------------- GIT -->
@@ -161,7 +161,7 @@
   </tr>
   <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- CURSO DE COMO ANUNCIAR NA INTERNET MÓDULO 1 -->
     <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
-      Como Anunciar Na Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⌛📖 - Estudando (2%) </td>
+      Como Anunciar Na Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (2%) </td>
   </tr>
   <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)"> <!-- ----------------------------------------------------------------------------------------------- CURSO DE REACT BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>

@@ -140,7 +140,7 @@
   </tr>
   <tr title="JavaScript Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- JAVASCRIPT COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
-      JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (50%)</td>
+      JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (52%)</td>
   </tr>
   <tr title="WordPress Course: Module 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 1 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>

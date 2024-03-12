@@ -45,7 +45,7 @@
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experiência com MySQL: 5/10 - Em Aprendizado"><!-- --------------------------------------- PLATAFORMA MYSQL -->
 
-<h3>Linguagens de Programação Desktop e Analise de Dados:</h3>
+<h3>Desktop e Analise de Dados:</h3>
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experiência com C: 6/10 - Em Aprendizado"><!-- --------------------------------------------------- LINGUAGEM C -->
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: 5/10 - Em Aprendizado"><!-- ------------------------------------- LINGUAGEM C++ -->
@@ -55,7 +55,7 @@
 
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experiência com R: 5/10 -Em Aprendizado"><!-- ------------------------------------------------------ LINGUAGEM R -->
 
-<h3>Linguagens de Programação Mobile (Games):</h3>
+<h3>Mobile:</h3>
 
 <img src="https://img.shields.io/badge/Flet-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Experiência com Flet: Em Aprendizado"><!-- --------------------------------------- LINGUAGEM FLET -->
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experiência com Dart: Em Aprendizado"><!-- ------------------------------------------------- LINGUAGEM DART -->

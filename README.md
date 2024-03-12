@@ -106,6 +106,10 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
       Intensivão de JavaScript </td> <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Concluído </td> 
   </tr>
+  <tr title="Jornada: Intensivão de Python - Hashtag Treinamentos"> <!-- --------------------------------------------------------------------------------------------------- INTENSIVÃO DE PYTHON CONCLUÍDO -->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
+      Intensivão de Python </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> 🌟✔️ - Concluído </td> 
+  </tr>
   <tr title="Curso Básico de C - Pietro Martins"> <!-- --------------------------------------------------------------------------------------------------------------------- CURSO DE C BÁSICO CONCLUÍDO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/>
       C - Básico </td> <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
@@ -121,10 +125,6 @@
   <tr title="Curso de Python 3: Módulos 1 e 2 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------ CURSO DE PYTHON MÓDULO 1 E 2 CONCLUÍDO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python 3 - Módulos 1 e 2 - Básico </td> <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído (2/5) </td>
-  </tr>
-  <tr title="Jornada: Intensivão de Python - Hashtag Treinamentos"> <!-- --------------------------------------------------------------------------------------------------- INTENSIVÃO DE PYTHON CONCLUÍDO -->
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-      Intensivão de Python </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> ⌛✔️ - Concluído </td> 
   </tr>
   
   <tr>

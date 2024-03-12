@@ -106,7 +106,7 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
       Intensivão de JavaScript </td> <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Concluído </td> 
   </tr>
-  <tr title="Jornada: Intensivão de Python - Hashtag Treinamentos"> <!-- --------------------------------------------------------------------------------------------------- INTENSIVÃO DE PYTHON CONCLUÍDO -->
+  <tr title="Intensivão de Python - Hashtag Treinamentos"> <!-- ------------------------------------------------------------------------------------------------------------ INTENSIVÃO DE PYTHON CONCLUÍDO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Intensivão de Python </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> 🌟✔️ - Concluído </td> 
   </tr>

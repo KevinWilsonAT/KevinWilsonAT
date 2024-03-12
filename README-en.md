@@ -108,6 +108,10 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
       JavaScript intensive course </td> <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Completed </td> 
   </tr>
+  <tr title="Journey: Python Intensive Course - Hashtag Treinamentos"> <!-- -------------------------------------------------------------------------------------------- PYTHON INSTENSIVE COURSE -->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
+      Python Intensive Course </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> 🌟✔️ - Completed</td> 
+  </tr>
   <tr title="C Basic Course - Pietro Martins"> <!-- --------------------------------------------------------------------------------------------------------------------------- C BASIC COURSE COMPLETED -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/>
       C - Basic </td> <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Completed </td>
@@ -124,10 +128,6 @@
   <tr title="Python 3 Course: Modules 1 and 2 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------ PYTHON COURSE MODULE 1 AND 2 COMPLETED -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python 3 - Module 1 and 2 - Basic </td> <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Completed (2/5) </td>
-  </tr>
-  <tr title="Journey: Python Intensive Course - Hashtag Treinamentos"> <!-- -------------------------------------------------------------------------------------------- PYTHON INSTENSIVE COURSE -->
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-      Python Intensive Course </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> ⌛✔️ - Completed</td> 
   </tr>
      
   <tr>

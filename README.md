@@ -24,17 +24,17 @@
 
 <h3>Front End:</h3>
 
-<img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" title="Experiência com HTML: 8/10 - Em Aprendizado"><!-- ----------------------------------------- LINGUAGEM HTML -->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experiência com CSS: 8/10 - Em Aprendizado"><!-- -------------------------------------------- LINGUAGEM CSS -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Experiência com JavaScript: 7/10 - Em Aprendizado"><!-- ------------------------- LINGUAGEM JS -->
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experiência com Tailwind: Em Aprendizado"><!-- ------------------------------ FRAMEWORK TAILWIND -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experiência com React: Em Aprendizado"><!-- ---------------------------------------------- FRAMEWORK REACT-->
+<img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" title="Experiência com HTML: 8/10 - Em Aprendizado"><!-- ---------------------------------------- LINGUAGEM HTML -->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experiência com CSS: 8/10 - Em Aprendizado"><!-- ------------------------------------------- LINGUAGEM CSS -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Experiência com JavaScript: 7/10 - Em Aprendizado"><!-- ------------------------ LINGUAGEM JS -->
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experiência com Tailwind: Em Aprendizado"><!-- ----------------------------- FRAMEWORK TAILWIND -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experiência com React: Em Aprendizado"><!-- --------------------------------------------- FRAMEWORK REACT-->
 
 <h3>Back End:</h3>
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experiência com Node.js: Em aprendizado"><!-- ----------------------------------------- FRAMEWORK NODE.JS -->
-<img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experiência com Nest.js: Em aprendizado"><!-- ----------------------------------------- FRAMEWORK NEST.JS -->
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experiência com PHP: 6/10 - Em aprendizado"><!-- ---------------------------------------------- LINGUAGEM PHP -->
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experiência com Node.js: Em aprendizado"><!-- ---------------------------------------- FRAMEWORK NODE.JS -->
+<img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experiência com Nest.js: Em aprendizado"><!-- ---------------------------------------- FRAMEWORK NEST.JS -->
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experiência com PHP: 6/10 - Em aprendizado"><!-- --------------------------------------------- LINGUAGEM PHP -->
 
 <h3>Front End / Back End:</h3>
 

@@ -104,28 +104,28 @@
   <tr> <td colspan=2> Course </td> <td> Beginning </td> <td> Completion </td> <td> Status </td> </tr>
   <tr> <td colspan=5></td> </tr>
      
-  <tr title="JavaScript intensive course - Hashtag Treinamentos"> <!-- -------------------------------------------------------------------------------------------------------- JAVASCRIPT INTENSIVE COURSE COMPLETED -->
+  <tr title="JavaScript intensive course - Hashtag Treinamentos"> <!-- ------------------------------------------------------------------------------------------ JAVASCRIPT INTENSIVE COURSE COMPLETED -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
       JavaScript intensive course </td> <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Completed </td> 
   </tr>
-  <tr title="Journey: Python Intensive Course - Hashtag Treinamentos"> <!-- -------------------------------------------------------------------------------------------- PYTHON INSTENSIVE COURSE -->
+  <tr title="Journey: Python Intensive Course - Hashtag Treinamentos"> <!-- ------------------------------------------------------------------------------------- PYTHON INSTENSIVE COURSE COMPLETED -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python Intensive Course </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> 🌟✔️ - Completed</td> 
   </tr>
-  <tr title="C Basic Course - Pietro Martins"> <!-- --------------------------------------------------------------------------------------------------------------------------- C BASIC COURSE COMPLETED -->
+  <tr title="C Basic Course - Pietro Martins"> <!-- ------------------------------------------------------------------------------------------------------------- C BASIC COURSE COMPLETED -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/>
       C - Basic </td> <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Completed </td>
   </tr>
-  <tr title="R Introductory Course- LabData"> <!-- ---------------------------------------------------------------------------------------------------------------------------- R INTRODUCTORY COURSE COMPLETED -->
+  <tr title="R Introductory Course- LabData"> <!-- --------------------------------------------------------------------------------------------------------------- R INTRODUCTORY COURSE COMPLETED -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
       R - Introduction </td> <td> 8h </td> <td> 02/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Completed </td>
   </tr>
-  <tr title="PHP Basic Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------- PHP BASIC COURSE COMPLETED -->
+  <tr title="PHP Basic Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------- PHP BASIC COURSE COMPLETED -->
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
       PHP - Basic </td> <td> 40h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ⌛✔️ - Completed </td>
   </tr>
-  <tr title="Python 3 Course: Modules 1 and 2 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------ PYTHON COURSE MODULE 1 AND 2 COMPLETED -->
+  <tr title="Python 3 Course: Modules 1 and 2 - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 1/2 COMPLETED -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python 3 - Module 1 and 2 - Basic </td> <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Completed (2/5) </td>
   </tr>

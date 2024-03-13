@@ -134,6 +134,10 @@
     <td colspan=5></td>
   </tr>
 
+  <tr title="How to announce in the Internet Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------- HOW TO ANNOUNCE IN THE INTERNET COURSE -->
+    <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
+      How to announce in the Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 -  Studying (7%) </td>
+  </tr>
   <tr title="Java Basic Course- Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------- JAVA BASIC COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
       Java - Basic </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (78%)</td>
@@ -161,10 +165,6 @@
   <tr title="Post-graduation: Data Science and Artificial Intelligence - Uninter"> <!-- ---------------------------------------------------------------------------------- POST-GRADUATION DATA SCIENCE AND ARTIFICIAL INTELLIGENCE -->
     <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
       Data Science and Artificial Intelligence </td> <td> 360h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Studying </td>
-  </tr>
-  <tr title="How to announce in the Internet Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------- HOW TO ANNOUNCE IN THE INTERNET COURSE -->
-    <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
-      How to announce in the Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 -  Studying (4%) </td>
   </tr>
   <tr title="React BasicCourse - Matheus Battisti (Hora de Codar)"> <!-- ------------------------------------------------------------------------------------------------- REACT BASIC COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>

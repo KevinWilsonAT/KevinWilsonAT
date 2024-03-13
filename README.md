@@ -131,6 +131,10 @@
     <td colspan=5></td>
   </tr>
 
+  <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- CURSO DE COMO ANUNCIAR NA INTERNET MÓDULO 1 -->
+    <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
+      Como Anunciar Na Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (7%) </td>
+  </tr>
   <tr title="Curso de Java Básico - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------ CURSO DE JAVA BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
       Java - Básico </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (78%)</td>
@@ -158,10 +162,6 @@
   <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter"> <!-- ------------------------------------------------------------------------------------ PÓS GRADUAÇÃO CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL -->
     <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
       Ciência de Dados e Inteligência Artificial </td> <td> 360h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando </td>
-  </tr>
-  <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- CURSO DE COMO ANUNCIAR NA INTERNET MÓDULO 1 -->
-    <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
-      Como Anunciar Na Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (4%) </td>
   </tr>
   <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)"> <!-- ----------------------------------------------------------------------------------------------- CURSO DE REACT BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>

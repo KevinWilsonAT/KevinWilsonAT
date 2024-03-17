@@ -71,7 +71,7 @@
 <h4>IDEs:</h4>
 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="Experiência com Eclipse: 6/10"><!-- -------------------------------------------------- ECLIPSE -->
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=for-the-badge" title="Experiência com NetBeans: 5/10"><!-- ---------------------------------------- NETBEANS -->
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=for-the-badge" title="Experiência com NetBeans: 6/10"><!-- ---------------------------------------- NETBEANS -->
 <img src="https://img.shields.io/badge/Dev_C%2B%2B-00599C?&style=for-the-badge&logo=cplusplus&logoColor=fff" title="Experiência com Dev C++: 6/10"><!-- --------------------------------------------- DEV C++ -->
 <img src="https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?logo=codeblocks&logoColor=fff&style=for-the-badge" title="Experiência com Code::Blocks: 5/10"><!-- ----------------------------------- CODE::BLOCKS -->
 <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experiência com PHPStorm: 6/10"><!-- ----------------------------------------------- PHPSTORM -->
@@ -135,6 +135,10 @@
     <td colspan=5></td>
   </tr>
 
+  <tr title="Curso de Java POO - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------- CURSO DE JAVA ORIENTADO A OBJETOS -->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
+      Java - POO </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+  </tr>
   <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- CURSO DE COMO ANUNCIAR NA INTERNET MÓDULO 1 -->
     <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
       Como Anunciar Na Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (7%) </td>
@@ -155,13 +159,13 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
       C++ - Básico </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (8,48%) </td>
   </tr>
-  <tr title="Curso Introdutório de C# - LearnCafe"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE C# BÁSICO -->
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
-      C# - Básico </td> <td> 10h </td> <td> 02/24 </td> <td>  </td> <td> ⌛📖 - Iniciando </td>
-  </tr>
   <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter"> <!-- ------------------------------------------------------------------------------------ PÓS GRADUAÇÃO CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL -->
     <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
       Ciência de Dados e Inteligência Artificial </td> <td> 360h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando </td>
+  </tr>
+  <tr title="Curso Introdutório de C# - LearnCafe"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE C# BÁSICO -->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
+      C# - Básico </td> <td> 10h </td> <td> 02/24 </td> <td>  </td> <td> ⌛📖 - Iniciando </td>
   </tr>
   <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)"> <!-- ----------------------------------------------------------------------------------------------- CURSO DE REACT BÁSICO -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>
@@ -190,10 +194,6 @@
   <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------- CURSO DE PHP MODERNO MÓDULO 1 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
       PHP Moderno - Módulo 1 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-  </tr>
-  <tr title="Curso de Java POO - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------- CURSO DE JAVA ORIENTADO A OBJETOS -->
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-      Java - POO </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
   </tr>
   <tr title="Curso de Git e GitHub - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- CURSO DE GIT / GITHUB -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/>

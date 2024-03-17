@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experience with C++: 5/10 - Learning"><!-- ------------------------------------- C++ -->
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experience with C#: Learning"><!-- ------------------------------------------------- C# -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experience with Python: 7/10 - Learning"><!-- ------------------------------------ PYTHON -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experience with Java: 5/10 - Learning"><!-- --------------------------------------- JAVA -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experience with Java: 6/10 - Learning"><!-- --------------------------------------- JAVA -->
 
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experience with R: 5/10 - Learning"><!-- ----------------------------------------------------- R -->
 
@@ -73,7 +73,7 @@
 <h4>IDEs:</h4>
 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="Experience with Eclipse: 6/10"><!-- -------------------------------------------- ECLIPSE -->
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=for-the-badge" title="Experience with NetBeans: 5/10"><!-- ---------------------------------- NETBEANS -->
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=for-the-badge" title="Experience with NetBeans: 6/10"><!-- ---------------------------------- NETBEANS -->
 <img src="https://img.shields.io/badge/Dev_C%2B%2B-00599C?&style=for-the-badge&logo=cplusplus&logoColor=fff" title="Experience with Dev C++: 6/10"><!-- --------------------------------------- DEV C++ -->
 <img src="https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?logo=codeblocks&logoColor=fff&style=for-the-badge" title="Experience with Code::Blocks: 5/10"><!-- ----------------------------- CODE::BLOCKS -->
 <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experience with PHPStorm: 6/10"><!-- ----------------------------------------- PHPSTORM -->
@@ -125,22 +125,26 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
       PHP - Basic </td> <td> 40h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ⌛✔️ - Completed </td>
   </tr>
-  <tr title="Python 3 Course: Modules 1 and 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 1/2 COMPLETED -->
+  <tr title="Python 3 Course: Modules 1 and 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 1 to 2 COMPLETED -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python 3 - Module 1 and 2 - Basic </td> <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Completed (2/5) </td>
   </tr>
-     
+  <tr title="Java Basic Course- Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------- JAVA BASIC COURSE COMPLETED-->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
+      Java - Basic </td> <td> 40h </td> <td> 02/24 </td> <td> 03/24 </td> <td> ⌛✔️ - Completed </td>
+  </tr>
+  
   <tr>
     <td colspan=5></td>
   </tr>
 
+  <tr title="Java POO Course - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED JAVA COURSE -->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
+      Java - POO </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 -  Studying (0%) </td>
+  </tr>
   <tr title="How to announce in the Internet Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------- HOW TO ANNOUNCE IN THE INTERNET COURSE -->
     <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
       How to announce in the Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 -  Studying (7%) </td>
-  </tr>
-  <tr title="Java Basic Course- Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------- JAVA BASIC COURSE -->
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-      Java - Basic </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (84%)</td>
   </tr>
   <tr title="JavaScript Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- JAVASCRIPT COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
@@ -158,15 +162,15 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
       C++ - Basic </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (8,48%) </td>
   </tr>
-  <tr title="C# Basic Introductory Course - LearnCafe"> <!-- ------------------------------------------------------------------------------------------------------------- C# COURSE -->
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
-      C# - Basic </td> <td> 10h </td> <td> 02/24 </td> <td>  </td> <td> ⌛📖 - Starting </td>
-  </tr>
   <tr title="Post-graduation: Data Science and Artificial Intelligence - Uninter"> <!-- ---------------------------------------------------------------------------------- POST-GRADUATION DATA SCIENCE AND ARTIFICIAL INTELLIGENCE -->
     <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
       Data Science and Artificial Intelligence </td> <td> 360h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Studying </td>
   </tr>
-  <tr title="React BasicCourse - Matheus Battisti (Hora de Codar)"> <!-- ------------------------------------------------------------------------------------------------- REACT BASIC COURSE -->
+  <tr title="C# Basic Introductory Course - LearnCafe"> <!-- ------------------------------------------------------------------------------------------------------------- C# COURSE -->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
+      C# - Basic </td> <td> 10h </td> <td> 02/24 </td> <td>  </td> <td> ⌛📖 - Starting </td>
+  </tr>
+  <tr title="React Basic Course - Matheus Battisti (Hora de Codar)"> <!-- ------------------------------------------------------------------------------------------------- REACT BASIC COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>
       React - Basic </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
   </tr>
@@ -193,10 +197,6 @@
   <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------- MODERN PHP COURSE MODULE 1 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
       Modern PHP Course - Module 1 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
-  </tr>
-  <tr title="Java POO Course - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED JAVA COURSE -->
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-      Java - POO </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
   </tr>
   <tr title="Git & GitHub Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- GIT / GITHUB COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/>

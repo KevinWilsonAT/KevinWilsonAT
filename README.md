@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: 5/10 - Em Aprendizado"><!-- ------------------------------------- LINGUAGEM C++ -->
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"><!-- ------------------------------------------------- LINGUAGEM C# -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 7/10 - Em Aprendizado"><!-- ------------------------------------ LINGUAGEM PYTHON -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: 5/10 - Em Aprendizado"><!-- --------------------------------------- LINGUAGEM JAVA -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: 6/10 - Em Aprendizado"><!-- --------------------------------------- LINGUAGEM JAVA -->
 
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experiência com R: 5/10 -Em Aprendizado"><!-- ------------------------------------------------------ LINGUAGEM R -->
 
@@ -126,6 +126,10 @@
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python 3 - Módulos 1 e 2 - Básico </td> <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído (2/5) </td>
   </tr>
+  <tr title="Curso de Java Básico - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------ CURSO DE JAVA BÁSICO CONCLUÍDO -->
+    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
+      Java - Básico </td> <td> 40h </td> <td> 02/24 </td> <td> 03/24 </td> <td> ⌛✔️ - Concluído </td>
+  </tr>
   
   <tr>
     <td colspan=5></td>
@@ -134,10 +138,6 @@
   <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- CURSO DE COMO ANUNCIAR NA INTERNET MÓDULO 1 -->
     <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
       Como Anunciar Na Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (7%) </td>
-  </tr>
-  <tr title="Curso de Java Básico - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------ CURSO DE JAVA BÁSICO -->
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-      Java - Básico </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (84%)</td>
   </tr>
   <tr title="Curso de JavaScript - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE JAVASCRIPT -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>

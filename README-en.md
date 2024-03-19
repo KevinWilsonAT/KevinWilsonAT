@@ -144,7 +144,7 @@
   </tr>
   <tr title="How to announce in the Internet Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------- HOW TO ANNOUNCE IN THE INTERNET COURSE -->
     <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
-      How to announce in the Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 -  Studying (9%) </td>
+      How to announce in the Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 -  Studying (11%) </td>
   </tr>
   <tr title="JavaScript Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- JAVASCRIPT COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
@@ -239,7 +239,9 @@
 <h2>🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=3&margin-w=25&margin-h=20&no-frame=true&no-bg=true" /> <!-- ------------------------------- GITHUB TROPHIES -->
+  <img src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=3&margin-w=25&margin-h=20&no-frame=true&no-bg=true" /> <!-- ---------------------------------------------- GITHUB TROPHIES -->
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<p align="center">
+     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>

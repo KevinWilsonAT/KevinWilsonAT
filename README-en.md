@@ -78,7 +78,7 @@
 <img src="https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?logo=codeblocks&logoColor=fff&style=for-the-badge" title="Experience with Code::Blocks: 5/10"><!-- ----------------------------- CODE::BLOCKS -->
 <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experience with PHPStorm: 6/10"><!-- ----------------------------------------- PHPSTORM -->
 <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experience with PyCharm: 6/10"><!-- ------------------------------------------- PYCHARM -->
-<img src="https://img.shields.io/badge/Jupyter-orange.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Experience with Jupyter: 5/10"><!-- ------------------------------------------------- JUPYTER -->
+<img src="https://img.shields.io/badge/Jupyter-orange.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Experience with Jupyter: 5/10"><!-- --------------------------------------- JUPYTER -->
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experience with VS Code: 7/10"><!-- ------------------ VS CODE -->
 <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experience with Solar 2D: 7/10"><!-- --------------------------------------- SOLAR -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experience with Git: 5/10"><!-- -------------------------------------------------------- GIT -->
@@ -148,7 +148,7 @@
   </tr>
   <tr title="JavaScript Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- JAVASCRIPT COURSE -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
-      JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (52%)</td>
+      JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (55%)</td>
   </tr>
   <tr title="WordPress Course: Module 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 1 -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>

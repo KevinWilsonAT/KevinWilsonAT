@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: 5/10 - Em Aprendizado"><!-- ------------------------------------- LINGUAGEM C++ -->
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"><!-- ------------------------------------------------- LINGUAGEM C# -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 7/10 - Em Aprendizado"><!-- ------------------------------------ LINGUAGEM PYTHON -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: 6/10 - Em Aprendizado"><!-- --------------------------------------- LINGUAGEM JAVA -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: 7/10 - Em Aprendizado"><!-- --------------------------------------- LINGUAGEM JAVA -->
 
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experiência com R: 5/10 -Em Aprendizado"><!-- ------------------------------------------------------ LINGUAGEM R -->
 

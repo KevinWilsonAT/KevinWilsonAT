@@ -98,9 +98,6 @@ em qualquer nível de experiência.
 
 <h2>📖 Cursos para 2024</h2>
 
-<details>
-     <summary>Ver o progresso dos cursos:</summary>
-     <br>
 <table width="100%">
   <tr> <td colspan=2> Curso </td> <td> Início </td> <td> Conclusão </td> <td> Status </td> </tr>
   <tr> <td colspan=5></td> </tr>
@@ -222,7 +219,6 @@ em qualquer nível de experiência.
       Programação Jogos em Lua </td> <td> &nbsp; </td> <td> 11/23 </td> <td> &nbsp; </td> <td> ➖🔒 </td>
   </tr>
 </table>
-</details>
 <br>
 
 <h1>📊 Status do GitHub</h1>

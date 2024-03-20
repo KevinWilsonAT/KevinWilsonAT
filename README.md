@@ -9,16 +9,16 @@
 
 <p align="left">
 
-  <img width="24px" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"> | <a href="README-en.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"></a>
+<img width="24px" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"> | <a href="README-en.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"></a>
   
-  Formado em Análise de Sistemas em 2017, pós-graduado em Docência em Sistemas de Informação em 2023 e cursando pós-graduação em Ciência
-  de Dados e Inteligência Artificial em 2024.
+Formado em Análise de Sistemas em 2017, pós-graduado em Docência em Sistemas de Informação em 2023 e cursando pós-graduação em Ciência
+de Dados e Inteligência Artificial em 2024.
   
-  Sou Desenvolvedor Web e Desenvolvedor de Software há 1 ano. Acredito que no aprendizado, além da eficiência na programação, também é 
-  necessário ser alguém que esteja sempre disposto a <strong>aprender</strong>, <strong>interagir</strong>, <strong>inovar</strong>, <strong>se adaptar para crescer</strong>.
+Sou Desenvolvedor Web e Desenvolvedor de Software há 1 ano. Acredito que no aprendizado, além da eficiência na programação, também é 
+necessário ser alguém que esteja sempre disposto a <strong>aprender</strong>, <strong>interagir</strong>, <strong>inovar</strong>, <strong>se adaptar para crescer</strong>.
     
-  Para mim, uma boa programação deve ser limpa e de fácil leitura, com códigos compreensíveis a desenvolvedores
-  em qualquer nível de experiência.
+Para mim, uma boa programação deve ser limpa e de fácil leitura, com códigos compreensíveis a desenvolvedores
+em qualquer nível de experiência.
 
 <h2>💻 Linguagens e ferramentas</h2>
 
@@ -98,6 +98,9 @@
 
 <h2>📖 Cursos para 2024</h2>
 
+<details>
+     <summary>Ver o progresso dos cursos:</summary>
+     <br>
 <table width="100%">
   <tr> <td colspan=2> Curso </td> <td> Início </td> <td> Conclusão </td> <td> Status </td> </tr>
   <tr> <td colspan=5></td> </tr>
@@ -219,6 +222,7 @@
       Programação Jogos em Lua </td> <td> &nbsp; </td> <td> 11/23 </td> <td> &nbsp; </td> <td> ➖🔒 </td>
   </tr>
 </table>
+</details>
 <br>
 
 <h1>📊 Status do GitHub</h1>

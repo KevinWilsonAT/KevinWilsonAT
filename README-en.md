@@ -138,6 +138,16 @@ at any experience level.
      <tr>
           <td colspan=5></td>
      </tr>
+     <tr title="English Course (Basic): Module 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- ENGLISH COURSE M1 -->
+          <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
+               English - Módulo 1 - Basic </td> <td> 20h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
+     </tr>
+     <!--
+     <tr title="English Course (Basic): Module 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- ENGLISH COURSE M2 --><!--
+          <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
+               English - Module 2 - Basic </td> <td> 20h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
+     </tr>
+     -->
      <tr title="Java POO Course - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED JAVA COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
                Java - POO </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 -  Studying (12%) </td>

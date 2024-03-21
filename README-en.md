@@ -101,13 +101,12 @@ at any experience level.
 <h2>📖 2024 Courses</h2>
 
 <table width="100%">
-  <tr> <td colspan=2> Course </td> <td> Beginning </td> <td> Completion </td> <td> Status </td> </tr>
-  <tr> <td colspan=5></td> </tr>
-     
-  <tr title="JavaScript intensive course - Hashtag Treinamentos"> <!-- --------------------------------------------------------------------------------------------------- JAVASCRIPT INTENSIVE COURSE COMPLETED -->
-    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
-      JavaScript intensive course </td> <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Completed </td> 
-  </tr>
+     <tr> <td colspan=2> Course </td> <td> Beginning </td> <td> Completion </td> <td> Status </td> </tr>
+     <tr> <td colspan=5></td> </tr>
+     <tr title="JavaScript intensive course - Hashtag Treinamentos"> <!-- --------------------------------------------------------------------------------------------------- JAVASCRIPT INTENSIVE COURSE COMPLETED -->
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
+               JavaScript intensive course </td> <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Completed </td>
+     </tr>
   <tr title="Journey: Python Intensive Course - Hashtag Treinamentos"> <!-- ---------------------------------------------------------------------------------------------- PYTHON INSTENSIVE COURSE COMPLETED -->
     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
       Python Intensive Course </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> 🌟✔️ - Completed</td> 

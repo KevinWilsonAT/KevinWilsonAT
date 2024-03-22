@@ -140,12 +140,12 @@ at any experience level.
      </tr>
      <tr title="English Course (Basic): Module 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- ENGLISH COURSE M1 -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-               English - Módulo 1 - Basic </td> <td> 20h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Reviewing (0%) </td>
+               English - Módulo 1 - Basic </td> <td> 20h </td> <td> 03/24 </td> <td>  </td> <td> ✨📖 - Perfecting (7%) </td>
      </tr>
      <!--
      <tr title="English Course (Basic): Module 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- ENGLISH COURSE M2 --><!--
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-               English - Module 2 - Basic </td> <td> 20h </td> <td> 03/24 </td> <td>  </td> <td> 🔄📖 - Reviewing (0%) </td>
+               English - Module 2 - Basic </td> <td> 20h </td> <td> 03/24 </td> <td>  </td> <td> ✨📖 - Perfecting (0%) </td>
      </tr>
      -->
      <tr title="Java POO Course - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED JAVA COURSE -->

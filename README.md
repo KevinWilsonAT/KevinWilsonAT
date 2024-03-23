@@ -156,7 +156,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de JavaScript - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- CURSO DE JAVASCRIPT -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
-               JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (61%) </td>
+               JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (67%) </td>
      </tr>
      <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE WORDPRESS MÓDULO 1 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>

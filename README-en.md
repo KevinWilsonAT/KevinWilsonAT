@@ -94,140 +94,140 @@ at any experience level.
 <h2>📞 Contact:</h2>
 
 <a href="https://www.linkedin.com/in/kwat1/" title="LinkedIn" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <!-- ------------------------------------ LINKEDIN -->
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <!-- ------------------------------------------------------- LINKEDIN -->
 <a href="https://www.instagram.com/kevin.wilson.a.t/" title="Instagram" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <!-- ---------------------------------- INSTAGRAM -->
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <!-- ---------------------------------------------------- INSTAGRAM -->
 <a href="mailto:kevin.dkc.wat@gmail.com" title="Gmail" target="_blank">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <!-- ---------------------------------------------- GMAIL -->
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <!-- ---------------------------------------------------------------- GMAIL -->
 <a href="mailto:kevin.dkc.wat@outlook.com" title="Outlook" target="_blank">
-     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a> <!-- -------------------- OUTLOOK -->
+     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a> <!-- -------------------------------------- OUTLOOK -->
      
 <h2>📖 2024 Courses</h2>
 
 <table width="100%">
      <tr> <td colspan=2> Course </td> <td> Beginning </td> <td> Completion </td> <td> Status </td> </tr>
      <tr> <td colspan=5></td> </tr>
-     <tr title="JavaScript intensive course - Hashtag Treinamentos"> <!-- --------------------------------------------------------------------------------------------------- JAVASCRIPT INTENSIVE COURSE COMPLETED -->
+     <tr title="JavaScript intensive course - Hashtag Treinamentos"> <!-- ---------------------------------------------------------------------------------------------------------------------- JAVASCRIPT INTENSIVE COURSE COMPLETED -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
                JavaScript intensive course </td> <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Completed </td>
      </tr>
-     <tr title="Journey: Python Intensive Course - Hashtag Treinamentos"> <!-- ---------------------------------------------------------------------------------------------- PYTHON INSTENSIVE COURSE COMPLETED -->
+     <tr title="Journey: Python Intensive Course - Hashtag Treinamentos"> <!-- ----------------------------------------------------------------------------------------------------------------- PYTHON INSTENSIVE COURSE COMPLETED -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
                Python Intensive Course </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> 🌟✔️ - Completed</td> 
      </tr>
-     <tr title="C Basic Course - Pietro Martins"> <!-- ---------------------------------------------------------------------------------------------------------------------- C BASIC COURSE COMPLETED -->
+     <tr title="C Basic Course - Pietro Martins"> <!-- ----------------------------------------------------------------------------------------------------------------------------------------- C BASIC COURSE COMPLETED -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/>
                C - Basic </td> <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Completed </td>
      </tr>
-     <tr title="R Introductory Course- LabData"> <!-- ----------------------------------------------------------------------------------------------------------------------- R INTRODUCTORY COURSE COMPLETED -->
+     <tr title="R Introductory Course- LabData"> <!-- ------------------------------------------------------------------------------------------------------------------------------------------ R INTRODUCTORY COURSE COMPLETED -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
                R - Introduction </td> <td> 8h </td> <td> 02/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Completed </td>
      </tr>
-     <tr title="PHP Basic Course - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------- PHP BASIC COURSE COMPLETED -->
+     <tr title="PHP Basic Course - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------------------------- PHP BASIC COURSE COMPLETED -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
                PHP - Basic </td> <td> 40h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ⌛✔️ - Completed </td>
      </tr>
-     <tr title="Python 3 Course: Modules 1 and 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 1 to 2 COMPLETED -->
+     <tr title="Python 3 Course: Modules 1 and 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 1 to 2 COMPLETED -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
                Python 3 - Module 1 and 2 - Basic </td> <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Completed (2/5) </td>
      </tr>
-     <tr title="Java Basic Course- Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------- JAVA BASIC COURSE COMPLETED-->
+     <tr title="Java Basic Course- Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------------------------- JAVA BASIC COURSE COMPLETED -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
                Java - Basic </td> <td> 40h </td> <td> 02/24 </td> <td> 03/24 </td> <td> ⌛✔️ - Completed </td>
      </tr>
      <tr>
           <td colspan=5></td>
      </tr>
-     <tr title="English Course (Basic): Module 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- ENGLISH COURSE M1 -->
+     <tr title="English Course (Basic): Module 1 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M1 -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
                English - Module 1 - Basic </td> <td> 20h </td> <td> 03/24 </td> <td>  </td> <td> ✨📖 - Perfecting (11%) </td>
      </tr>
      <!--
-     <tr title="English Course (Basic): Module 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------- ENGLISH COURSE M2 --><!--
+     <tr title="English Course (Basic): Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M2 --><!--
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
                English - Module 2 - Basic </td> <td> 20h </td> <td> 03/24 </td> <td>  </td> <td> ✨📖 - Perfecting (0%) </td>
      </tr>
      -->
-     <tr title="Java POO Course - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED JAVA COURSE -->
+     <tr title="Java POO Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED JAVA COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
                Java - POO </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 -  Studying (12%) </td>
      </tr>
-     <tr title="How to announce in the Internet Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------- HOW TO ANNOUNCE IN THE INTERNET COURSE -->
+     <tr title="How to announce in the Internet Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- HOW TO ANNOUNCE IN THE INTERNET COURSE -->
           <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
-               How to announce in the Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 -  Studying (11%) </td>
+               How to announce in the Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 -  Studying (16%) </td>
      </tr>
-     <tr title="JavaScript Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------- JAVASCRIPT COURSE -->
+     <tr title="JavaScript Course - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------------------- JAVASCRIPT COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
                JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (67%)</td>
      </tr>
-     <tr title="WordPress Course: Module 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 1 -->
+     <tr title="WordPress Course: Module 1 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 1 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
                WordPress - Module 1 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Studying (51%) </td>
      </tr>
-     <tr title="Python 3 Course: Módulo 3 - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 3 -->
+     <tr title="Python 3 Course: Módulo 3 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------------ PYTHON COURSE MODULE 3 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
                Python 3 - Module 3 - Intermediary </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (39%) </td>
      </tr>
-     <tr title="C++ Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ C++ COURSE -->
+     <tr title="C++ Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------------------------- C++ COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
                C++ - Basic </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (9,00%) </td>
      </tr>
-     <tr title="Post-graduation: Data Science and Artificial Intelligence - Uninter"> <!-- ---------------------------------------------------------------------------------- POST-GRADUATION DATA SCIENCE AND ARTIFICIAL INTELLIGENCE -->
+     <tr title="Post-graduation: Data Science and Artificial Intelligence - Uninter"> <!-- ----------------------------------------------------------------------------------------------------- POST-GRADUATION DATA SCIENCE AND ARTIFICIAL INTELLIGENCE -->
           <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
                Data Science and Artificial Intelligence </td> <td> 360h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Studying </td>
      </tr>
-     <tr title="C# Basic Introductory Course - LearnCafe"> <!-- ------------------------------------------------------------------------------------------------------------- C# COURSE -->
+     <tr title="C# Basic Introductory Course - LearnCafe"> <!-- -------------------------------------------------------------------------------------------------------------------------------- C# COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
                C# - Basic </td> <td> 10h </td> <td> 02/24 </td> <td>  </td> <td> ⌛📖 - Starting </td>
      </tr>
-     <tr title="React Basic Course - Matheus Battisti (Hora de Codar)"> <!-- ------------------------------------------------------------------------------------------------- REACT BASIC COURSE -->
+     <tr title="React Basic Course - Matheus Battisti (Hora de Codar)"> <!-- -------------------------------------------------------------------------------------------------------------------- REACT BASIC COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>
                React - Basic </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
      </tr>
-     <tr title="MySQL Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------ MYSQL COURSE -->
+     <tr title="MySQL Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------------------------- MYSQL COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/>
                MySQL </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
      </tr>
-     <tr title="WordPress Course: Module 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 2 -->
+     <tr title="WordPress Course: Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 2 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
                WordPress - Module 2 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
      </tr>
-     <tr title="WordPress Course: Module 3 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 3 -->
+     <tr title="WordPress Course: Module 3 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 3 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
                WordPress - Module 3 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
      </tr>
-     <tr title="WordPress Course: Module 4 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 4 -->
+     <tr title="WordPress Course: Module 4 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 4 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
                Wordpress - Module 4 </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
      </tr>
-     <tr title="PHP POO Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED PHP COURSE -->
+     <tr title="PHP POO Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED PHP COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
                PHP - POO </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
      </tr>
-     <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------- MODERN PHP COURSE MODULE 1 -->
+     <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------------- MODERN PHP COURSE MODULE 1 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
                Modern PHP Course - Module 1 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
      </tr>
-     <tr title="Git & GitHub Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- GIT / GITHUB COURSE -->
+     <tr title="Git & GitHub Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------------------ GIT / GITHUB COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/>
                Git / GitHub </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ⏩📖 - Studying (20%) </td>
      </tr>
-     <tr title="PhotoShop Basic Course - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------- PHOTOSHOP BASIC COURSE -->
+     <tr title="PhotoShop Basic Course - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------------------- PHOTOSHOP BASIC COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="16px" height="16px"/> 
                Photoshop - Basic </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
      </tr>
-     <tr title="Python 3 Course: Module 4 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 4 -->
+     <tr title="Python 3 Course: Module 4 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------------ PYTHON COURSE MODULE 4 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
                Python 3 - Module 4 </td> <td> 40h </td> <td> N/A </td> <td>  </td> <td> ➖⌛ - Waiting Course to be published </td>
      </tr>
-     <tr title="Python 3 Course: Module 5 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 5 -->
+     <tr title="Python 3 Course: Module 5 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------------ PYTHON COURSE MODULE 5 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
                Python 3 - Module 5 </td> <td> 40h </td> <td> N/A </td> <td>  </td> <td> ➖⌛ - Waiting Course to be published </td>
      </tr>
      <tr>
           <td colspan=5></td>
      </tr>
-     <tr title="Lua Game Programming Course - Eureka Santa Catarina"> <!-- -------------------------------------------------------------------------------------------------- LUA GAME PROGRAMMING COURSE -->
+     <tr title="Lua Game Programming Course - Eureka Santa Catarina"> <!-- --------------------------------------------------------------------------------------------------------------------- LUA GAME PROGRAMMING COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="16px" height="16px"/>
                Lua Game Programming </td> <td> &nbsp; </td> <td> 11/23 </td> <td> &nbsp; </td> <td> ➖🔒 </td>
      </tr>

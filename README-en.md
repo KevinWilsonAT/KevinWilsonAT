@@ -18,7 +18,7 @@ and Artificial Intelligence in 2024.
 I'm a Web and Sotfware Developer since 2023. I believe that in learning, in addition to programming efficiency,
 it is also necessary to be someone who is always willing to <strong>learn</strong>, <strong>interact</strong>, <strong>innovate</strong>, <strong >adapt to grow</strong>.
 
-For me, a good programming is done with clean and easy to read codes , which are understandable to developers
+For me, a good programming is done with clean and easy to read codes, which are understandable to developers
 at any experience level.
 </p>
 
@@ -162,7 +162,7 @@ at any experience level.
      </tr>
      <tr title="WordPress Course: Module 1 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 1 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
-               WordPress - Module 1 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Studying (51%) </td>
+               WordPress - Module 1 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Studying (53%) </td>
      </tr>
      <tr title="Python 3 Course: Módulo 3 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------------ PYTHON COURSE MODULE 3 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>

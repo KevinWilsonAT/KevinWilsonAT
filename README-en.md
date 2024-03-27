@@ -154,7 +154,7 @@ at any experience level.
      </tr>
      <tr title="How to announce in the Internet Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- HOW TO ANNOUNCE IN THE INTERNET COURSE -->
           <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
-               How to announce in the Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 -  Studying (16%) </td>
+               How to announce in the Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 -  Studying (19%) </td>
      </tr>
      <tr title="JavaScript Course - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------------------- JAVASCRIPT COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>

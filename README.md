@@ -208,7 +208,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de Git e GitHub - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------- CURSO DE GIT / GITHUB -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/>
-               Git / GitHub </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ✨📖 - Aperfeiçoando (60%) </td>
+               Git / GitHub </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ✨📖 - Aperfeiçoando (66%) </td>
      </tr>
      <tr title="Curso de PhotoShop Básico - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- CURSO DE PHOTOSHOP BÁSICO -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="16px" height="16px"/> 

@@ -138,7 +138,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de Inglês Básico: Módulo 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE INGLÊS -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-               Inglês - Módulo 1 - Básico </td> <td> 20h </td> <td> 03/24 </td> <td>  </td> <td> ✨📖 - Aperfeiçoando (42%) </td>
+               Inglês - Módulo 1 - Básico </td> <td> 20h </td> <td> 03/24 </td> <td>  </td> <td> ✨📖 - Aperfeiçoando (50%) </td>
      </tr>
      <!--
      <tr title="Curso de Inglês Básico: Módulo 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE INGLÊS --><!--

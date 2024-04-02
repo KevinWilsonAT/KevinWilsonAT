@@ -140,7 +140,7 @@ at any experience level.
      </tr>
      <tr title="English Course (Basic): Module 1 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M1 -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-               English - Module 1 - Basic </td> <td> 20h </td> <td> 03/24 </td> <td>  </td> <td> ✨📖 - Perfecting (42%) </td>
+               English - Module 1 - Basic </td> <td> 20h </td> <td> 03/24 </td> <td>  </td> <td> ✨📖 - Perfecting (50%) </td>
      </tr>
      <!--
      <tr title="English Course (Basic): Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M2 --><!--

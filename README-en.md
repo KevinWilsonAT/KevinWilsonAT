@@ -170,7 +170,7 @@ at any experience level.
      </tr>
      <tr title="C++ Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------------------------- C++ COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
-               C++ - Basic </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (9,54%) </td>
+               C++ - Basic </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Studying (11%) </td>
      </tr>
      <tr title="Post-graduation: Data Science and Artificial Intelligence - Uninter"> <!-- ----------------------------------------------------------------------------------------------------- POST-GRADUATION DATA SCIENCE AND ARTIFICIAL INTELLIGENCE -->
           <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>

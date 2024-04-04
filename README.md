@@ -133,6 +133,10 @@ em qualquer nível de experiência.
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
                Java - Básico </td> <td> 40h </td> <td> 02/24 </td> <td> 03/24 </td> <td> ⌛✔️ - Concluído </td>
      </tr>
+     <tr title="Curso de Git e GitHub - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------- CURSO DE GIT / GITHUB CONCLUÍDO -->
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/>
+               Git / GitHub </td> <td> 40h </td> <td> 03/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
+     </tr>
      <tr>
           <td colspan=5></td>
      </tr>
@@ -205,10 +209,6 @@ em qualquer nível de experiência.
      <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------ CURSO DE PHP MODERNO MÓDULO 1 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
                PHP Moderno - Módulo 1 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-     </tr>
-     <tr title="Curso de Git e GitHub - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------- CURSO DE GIT / GITHUB -->
-          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/>
-               Git / GitHub </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ✨📖 - Aperfeiçoando (80%) </td>
      </tr>
      <tr title="Curso de PhotoShop Básico - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- CURSO DE PHOTOSHOP BÁSICO -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="16px" height="16px"/> 

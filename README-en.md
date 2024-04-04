@@ -229,7 +229,7 @@ at any experience level.
      </tr>
      <tr title="Lua Game Programming Course - Eureka Santa Catarina"> <!-- --------------------------------------------------------------------------------------------------------------------- LUA GAME PROGRAMMING COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="16px" height="16px"/>
-               Lua Game Programming </td> <td> &nbsp; </td> <td> 11/23 </td> <td> &nbsp; </td> <td> ➖🔒 </td>
+               Lua Game Programming </td> <td> &nbsp; </td> <td> Nov.2023 </td> <td> &nbsp; </td> <td> ➖🔒 </td>
      </tr>
 </table>
 <br>

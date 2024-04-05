@@ -227,7 +227,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de Programação Jogos Em Lua - Eureka Santa Catarina"> <!-- -------------------------------------------------------------------------------------------------- CURSO DE PROGRAMAÇÃO DE JOGOS EM LUA -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="16px" height="16px"/>
-               Programação Jogos em Lua </td> <td> &nbsp; </td> <td> 11/23 </td> <td> &nbsp; </td> <td> ➖🔒 </td>
+               Programação Jogos em Lua </td> <td> &nbsp; </td> <td> 11/23 </td> <td> &nbsp; </td> <td> ➖🔒 - Trancado </td>
      </tr>
 </table>
 <br>

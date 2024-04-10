@@ -139,19 +139,17 @@ at any experience level.
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/>
                Git / GitHub </td> <td> 40h </td> <td> March 2024 </td> <td> April 2024 </td> <td> ⌛✔️ - Completed </td>
      </tr>
+     <tr title="English Course (Basic): Module 1 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M1 COMPLETED -->
+          <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
+               English - Module 1 - Basic </td> <td> 20h </td> <td> March 2024 </td> <td> April 2024 </td> <td> ⌛✔️ - Completed </td>
+     </tr>
      <tr>
           <td colspan=5></td>
      </tr>
-     <tr title="English Course (Basic): Module 1 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M1 -->
-          <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-               English - Module 1 - Basic </td> <td> 20h </td> <td> March 2024 </td> <td>  </td> <td> ✨📖 - Perfecting (80%) </td>
-     </tr>
-     <!--
-     <tr title="English Course (Basic): Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M2 --><!--
+     <tr title="English Course (Basic): Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M2 -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
                English - Module 2 - Basic </td> <td> 20h </td> <td> March 2024 </td> <td>  </td> <td> ✨📖 - Perfecting (0%) </td>
      </tr>
-     -->
      <tr title="Java POO Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED JAVA COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
                Java - POO </td> <td> 40h </td> <td> March 2024 </td> <td>  </td> <td> ⏩📖 -  Studying (31%) </td>

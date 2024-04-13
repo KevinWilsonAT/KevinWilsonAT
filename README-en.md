@@ -152,7 +152,7 @@ at any experience level.
      </tr>
      <tr title="Java POO Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED JAVA COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-               Java - POO </td> <td> 40h </td> <td> March 2024 </td> <td>  </td> <td> ⏩📖 -  Studying (31%) </td>
+               Java - POO </td> <td> 40h </td> <td> March 2024 </td> <td>  </td> <td> ⏩📖 -  Studying (34%) </td>
      </tr>
      <tr title="How to announce in the Internet Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- HOW TO ANNOUNCE IN THE INTERNET COURSE -->
           <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
@@ -160,7 +160,7 @@ at any experience level.
      </tr>
      <tr title="JavaScript Course - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------------------- JAVASCRIPT COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
-               JavaScript </td> <td> 40h </td> <td> Feb. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (67%)</td>
+               JavaScript </td> <td> 40h </td> <td> Feb. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (82%)</td>
      </tr>
      <tr title="WordPress Course: Module 1 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 1 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
@@ -168,11 +168,11 @@ at any experience level.
      </tr>
      <tr title="Python 3 Course: Módulo 3 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------------ PYTHON COURSE MODULE 3 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-               Python 3 - Module 3 - Intermediary </td> <td> 40h </td> <td> Feb. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (50%) </td>
+               Python 3 - Module 3 - Intermediary </td> <td> 40h </td> <td> Feb. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (52%) </td>
      </tr>
      <tr title="C++ Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------------------------- C++ COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
-               C++ - Basic </td> <td> 60h </td> <td> Feb. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (11%) </td>
+               C++ - Basic </td> <td> 60h </td> <td> Feb. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (11,50%) </td>
      </tr>
      <tr title="Post-graduation: Data Science and Artificial Intelligence - Uninter"> <!-- ----------------------------------------------------------------------------------------------------- POST-GRADUATION DATA SCIENCE AND ARTIFICIAL INTELLIGENCE -->
           <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>

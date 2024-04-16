@@ -146,7 +146,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de Inglês Básico: Módulo 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE INGLÊS -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-               Inglês - Módulo 2 - Básico </td> <td> 20h </td> <td> 04/24 </td> <td>  </td> <td> ✨📖 - Aperfeiçoando (0%) </td>
+               Inglês - Módulo 2 - Básico </td> <td> 20h </td> <td> 04/24 </td> <td>  </td> <td> ✨📖 - Aperfeiçoando (3%) </td>
      </tr>
      <tr title="Curso de Java POO - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------- CURSO DE JAVA ORIENTADO A OBJETOS -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>

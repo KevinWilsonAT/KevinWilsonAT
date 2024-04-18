@@ -166,7 +166,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de Python 3: Módulo 3 - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 3 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-               Python 3 - Módulo 3 - Intermediário </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (52%) </td>
+               Python 3 - Módulo 3 - Intermediário </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (55%) </td>
      </tr>
      <tr title="Curso de C++ - CFB Cursos"> <!-- ---------------------------------------------------------------------------------------------------------------------------------- CURSO DE C++ -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>

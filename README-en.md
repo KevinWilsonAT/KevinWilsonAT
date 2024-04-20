@@ -143,8 +143,16 @@ at any experience level.
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
                English - Module 1 - Basic </td> <td> 20h </td> <td> March 2024 </td> <td> April 2024 </td> <td> ⌛✔️ - Completed </td>
      </tr>
+     <tr title="JavaScript Course - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------------------- JAVASCRIPT COURSE -->
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
+               JavaScript </td> <td> 40h </td> <td> Feb. 2024 </td> April 2024 <td>  </td> <td> ⌛✔️ - Completed</td>
+     </tr>
      <tr>
           <td colspan=5></td>
+     </tr>
+     <tr title="PHP POO Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED PHP COURSE -->
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
+               PHP - POO </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
      </tr>
      <tr title="English Course (Basic): Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M2 -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
@@ -157,10 +165,6 @@ at any experience level.
      <tr title="How to announce in the Internet Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- HOW TO ANNOUNCE IN THE INTERNET COURSE -->
           <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
                How to announce in the Internet </td> <td> 40h </td> <td> March 2024 </td> <td>  </td> <td> ⏩📖 -  Studying (28%) </td>
-     </tr>
-     <tr title="JavaScript Course - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------------------- JAVASCRIPT COURSE -->
-          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
-               JavaScript </td> <td> 40h </td> <td> Feb. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (91%)</td>
      </tr>
      <tr title="WordPress Course: Module 1 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 1 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
@@ -201,10 +205,6 @@ at any experience level.
      <tr title="WordPress Course: Module 4 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 4 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
                Wordpress - Module 4 </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
-     </tr>
-     <tr title="PHP POO Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED PHP COURSE -->
-          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-               PHP - POO </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
      </tr>
      <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------------- MODERN PHP COURSE MODULE 1 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>

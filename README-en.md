@@ -143,16 +143,16 @@ at any experience level.
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
                English - Module 1 - Basic </td> <td> 20h </td> <td> March 2024 </td> <td> April 2024 </td> <td> ⌛✔️ - Completed </td>
      </tr>
-     <tr title="JavaScript Course - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------------------- JAVASCRIPT COURSE -->
+     <tr title="JavaScript Course - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------------------- JAVASCRIPT COURSE COMPLETED -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
-               JavaScript </td> <td> 40h </td> <td> Feb. 2024 </td> April 2024 <td>  </td> <td> ⌛✔️ - Completed</td>
+               JavaScript </td> <td> 40h </td> <td> Feb. 2024 </td> <td> April 2024 </td> <td> ⌛✔️ - Completed </td>
      </tr>
      <tr>
           <td colspan=5></td>
      </tr>
      <tr title="PHP POO Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED PHP COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-               PHP - POO </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
+               PHP - POO </td> <td> 40h </td> <td> April 2024 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
      </tr>
      <tr title="English Course (Basic): Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M2 -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>

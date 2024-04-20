@@ -141,8 +141,16 @@ em qualquer nível de experiência.
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
                Inglês - Módulo 1 - Básico </td> <td> 20h </td> <td> 03/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
      </tr>
+     <tr title="Curso de JavaScript - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- CURSO DE JAVASCRIPT -->
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
+               JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⌛✔️ - Concluído </td>
+     </tr>
      <tr>
           <td colspan=5></td>
+     </tr>
+     <tr title="Curso de PHP POO - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE PHP ORIENTADO A OBJETOS -->
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
+               PHP - POO </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
      </tr>
      <tr title="Curso de Inglês Básico: Módulo 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE INGLÊS -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
@@ -155,10 +163,6 @@ em qualquer nível de experiência.
      <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------- CURSO DE COMO ANUNCIAR NA INTERNET MÓDULO 1 -->
           <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
                Como Anunciar Na Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (28%) </td>
-     </tr>
-     <tr title="Curso de JavaScript - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- CURSO DE JAVASCRIPT -->
-          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
-               JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (91%) </td>
      </tr>
      <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------- CURSO DE WORDPRESS MÓDULO 1 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
@@ -199,10 +203,6 @@ em qualquer nível de experiência.
      <tr title="Curso de WordPress: Módulo 4 - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------- CURSO DE WORDPRESS MÓDULO 4 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
                Wordpress - Módulo 4 </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-     </tr>
-     <tr title="Curso de PHP POO - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE PHP ORIENTADO A OBJETOS -->
-          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-               PHP - POO </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
      </tr>
      <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------ CURSO DE PHP MODERNO MÓDULO 1 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>

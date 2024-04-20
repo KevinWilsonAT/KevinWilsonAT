@@ -141,16 +141,16 @@ em qualquer nível de experiência.
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
                Inglês - Módulo 1 - Básico </td> <td> 20h </td> <td> 03/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
      </tr>
-     <tr title="Curso de JavaScript - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- CURSO DE JAVASCRIPT -->
+     <tr title="Curso de JavaScript - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- CURSO DE JAVASCRIPT CONCLUÍDO -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
-               JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⌛✔️ - Concluído </td>
+               JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
      </tr>
      <tr>
           <td colspan=5></td>
      </tr>
      <tr title="Curso de PHP POO - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE PHP ORIENTADO A OBJETOS -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-               PHP - POO </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+               PHP - POO </td> <td> 40h </td> <td> 04/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
      </tr>
      <tr title="Curso de Inglês Básico: Módulo 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE INGLÊS -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>

@@ -34,7 +34,7 @@ em qualquer nível de experiência.
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experiência com Node.js: Em aprendizado"><!-- ---------------------- FRAMEWORK NODE.JS -->
 <img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experiência com Nest.js: Em aprendizado"><!-- ---------------------- FRAMEWORK NEST.JS -->
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experiência com PHP: 6/10 - Em aprendizado"><!-- --------------------------- LINGUAGEM PHP -->
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experiência com PHP: 7/10 - Em aprendizado"><!-- --------------------------- LINGUAGEM PHP -->
 
 <h3>Front End / Back End:</h3>
 

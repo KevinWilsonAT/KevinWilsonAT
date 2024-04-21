@@ -2,7 +2,7 @@
      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </p>
 <p align="center">
-     <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&color=fff&duration=600&pause=1500&lines=Olá, sou o Kevin;Sou Dev Front End;Sou Dev Back End;Sou Dev de Softwares;">
+     <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&color=fff&duration=600&pause=1500&lines=Olá, eu sou o Kevin;Sou Dev Front End Jr;Sou Dev Back End Jr;Sou Dev Softwares Jr;">
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
@@ -150,7 +150,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de PHP POO - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE PHP ORIENTADO A OBJETOS -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-               PHP - POO </td> <td> 40h </td> <td> 04/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+               PHP - POO </td> <td> 40h </td> <td> 04/24 </td> <td>  </td> <td> ⏩📖 - Estudando (43%) </td>
      </tr>
      <tr title="Curso de Inglês Básico: Módulo 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE INGLÊS -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>

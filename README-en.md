@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-     <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&color=fff&duration=600&pause=1500&lines=Hi, I'm Kevin;I'm a Front End Dev;I'm a Back End Dev;I'm a Software Dev;">
+     <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&color=fff&duration=600&pause=1500&lines=Hello, I'm Kevin;I'm a Front End Dev;I'm a Back End Dev;I'm a Software Dev;">
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
@@ -36,7 +36,7 @@ at any experience level.
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experience with Node.js: Learning"><!-- ----------------------------------------- NODE.JS -->
 <img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experience with Nest.js: Learning"><!-- ----------------------------------------- NEST.JS -->
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experience with PHP: 6/10 - Learning"><!-- ---------------------------------------------- PHP -->
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experience with PHP: 7/10 - Learning"><!-- ---------------------------------------------- PHP -->
 
 <h3>Front End / Back End:</h3>
 
@@ -152,7 +152,7 @@ at any experience level.
      </tr>
      <tr title="PHP POO Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED PHP COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-               PHP - POO </td> <td> 40h </td> <td> April 2024 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
+               PHP - POO </td> <td> 40h </td> <td> April 2024 </td> <td>  </td> <td> ⏩📖 - Studying (43%) </td>
      </tr>
      <tr title="English Course (Basic): Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M2 -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>

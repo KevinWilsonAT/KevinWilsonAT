@@ -148,17 +148,17 @@ em qualquer nível de experiência.
      <tr>
           <td colspan=5></td>
      </tr>
-     <tr title="Curso de PHP POO - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE PHP ORIENTADO A OBJETOS -->
-          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-               PHP - POO </td> <td> 40h </td> <td> 04/24 </td> <td>  </td> <td> ⏩📖 - Estudando (43%) </td>
-     </tr>
      <tr title="Curso de Inglês Básico: Módulo 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE INGLÊS -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
                Inglês - Módulo 2 - Básico </td> <td> 20h </td> <td> 04/24 </td> <td>  </td> <td> ✨📖 - Aperfeiçoando (12%) </td>
      </tr>
+     <tr title="Curso de PHP POO - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE PHP ORIENTADO A OBJETOS -->
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
+               PHP - POO </td> <td> 40h </td> <td> 04/24 </td> <td>  </td> <td> ⏩📖 - Estudando (46%) </td>
+     </tr>
      <tr title="Curso de Java POO - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------- CURSO DE JAVA ORIENTADO A OBJETOS -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-               Java - POO </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (43%) </td>
+               Java - POO </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (46%) </td>
      </tr>
      <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------- CURSO DE COMO ANUNCIAR NA INTERNET MÓDULO 1 -->
           <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>

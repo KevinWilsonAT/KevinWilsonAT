@@ -188,7 +188,7 @@ at any experience level.
      </tr>
      <tr title="C# Basic Introductory Course - LearnCafe"> <!-- -------------------------------------------------------------------------------------------------------------------------------- C# COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
-               C# - Basic </td> <td> 10h </td> <td> Feb. 2024 </td> <td>  </td> <td> ➖⌛ - Waiting </td>
+               C# - Basic </td> <td> 10h </td> <td> <!-- start --> </td> <td>  </td> <td> ➖⌛ - Waiting </td>
      </tr>
      <tr title="React Basic Course - Matheus Battisti (Hora de Codar)"> <!-- -------------------------------------------------------------------------------------------------------------------- REACT BASIC COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>

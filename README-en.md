@@ -182,9 +182,9 @@ at any experience level.
           <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
                Data Science and Artificial Intelligence </td> <td> 360h </td> <td> March 2024 </td> <td>  </td> <td> ⏩📖 - Studying </td>
      </tr>
-     <tr title="PHP OOP Course using Code Igniter 3 - "> <!-- ------------------------------------------------------------------------------------------------------ PHP OOP COURSE + CODE IGNITER 3 -->
+     <tr title="PHP OOP Course using Code Igniter 3 - GoPHP"> <!-- ----------------------------------------------------------------------------------------------------------------------------- PHP OOP COURSE + CODE IGNITER 3 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/>
-               PHP OOP with Code Igniter 3 </td> <td> 40h </td> <td> <!-- inicio --> </td> <td>  </td> <td> ➖⌛ - Waiting </td>
+               PHP OOP with Code Igniter 3 </td> <td> 16h </td> <td> <!-- start --> </td> <td>  </td> <td> ➖⌛ - Waiting </td>
      </tr>
      <tr title="C# Basic Introductory Course - LearnCafe"> <!-- -------------------------------------------------------------------------------------------------------------------------------- C# COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>

@@ -180,6 +180,10 @@ em qualquer nível de experiência.
           <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
                Ciência de Dados e Inteligência Artificial </td> <td> 360h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando </td>
      </tr>
+     <tr title="Curso de PHP POO usando Code Igniter 3 - João Ribeiro"> <!-- ------------------------------------------------------------------------------------------------------ CURSO DE PHP POO + CODE IGNITER 3 -->
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/>
+               PHP POO com Code Igniter </td> <td> 40h </td> <td> <!-- inicio --> </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+     </tr>
      <tr title="Curso Introdutório de C# - LearnCafe"> <!-- ----------------------------------------------------------------------------------------------------------------------- CURSO DE C# BÁSICO -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
                C# - Básico </td> <td> 10h </td> <td> 02/24 </td> <td>  </td> <td> ➖⌛ - Aguardando </td>

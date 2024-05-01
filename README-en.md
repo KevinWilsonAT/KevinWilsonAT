@@ -157,7 +157,7 @@ at any experience level.
      </tr>
      <tr title="PHP OOP Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED PHP COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-               PHP - OOP </td> <td> 40h </td> <td> April 2024 </td> <td>  </td> <td> ⏩📖 - Studying (56%) </td>
+               PHP - OOP </td> <td> 40h </td> <td> April 2024 </td> <td>  </td> <td> ⏩📖 - Studying (62%) </td>
      </tr>
      <tr title="Java OOP Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED JAVA COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>

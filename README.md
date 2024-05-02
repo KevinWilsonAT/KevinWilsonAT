@@ -154,7 +154,7 @@ em qualquer nível de experiência.
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
                Inglês - Módulo 2 - Básico </td> <td> 20h </td> <td> 04/24 </td> <td>  </td> <td> ✨📖 - Aperfeiçoando (35%) </td>
      </tr>
-     <tr title="Instesivão de Framework Bootstrap - Matheus Battisti"> <!-- ------------------------------------------------------------------------------------------------------- INTENSIVÃO DE BOOTSTRAP -->
+     <tr title="Intensivão de Framework Bootstrap - Matheus Battisti"> <!-- ------------------------------------------------------------------------------------------------------- INTENSIVÃO DE BOOTSTRAP -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
                Bootstrap </td> <td> 5h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
      </tr>

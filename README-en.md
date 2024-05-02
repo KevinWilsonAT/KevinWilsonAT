@@ -29,15 +29,16 @@ at any experience level.
 <img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" title="Experience with HTML: 8/10 - Learning"><!-- ----------------------------------------- HTML -->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experience with CSS: 8/10 - Learning"><!-- -------------------------------------------- CSS -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Experience with JavaScript: 7/10 - Learning"><!-- ------------------------- JS -->
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experience with Tailwind: Learning"><!-- ------------------------------ TAILWIND -->
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Experience with Bootstrap: Learning"><!-- ----------------------------------- BOOTSTRAP -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experience with React: Learning"><!-- ---------------------------------------------- REACT-->
+<!--<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experience with Tailwind: Learning"><!-- ------------------------------ TAILWIND -->
 
 <h3>Back End:</h3>
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experience with Node.js: Learning"><!-- ----------------------------------------- NODE.JS -->
 <img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experience with Nest.js: Learning"><!-- ----------------------------------------- NEST.JS -->
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experience with PHP: 7/10 - Learning"><!-- ---------------------------------------------- PHP -->
-<img src="https://img.shields.io/badge/CodeIgniter_3-EF4223?&style=for-the-badge&logo=codeigniter&logoColor=white" title="Experience with Code Igniter 3: Learning"><!-- ----------------------- FRAMEWORK CODE IGNITER 3 -->
+<img src="https://img.shields.io/badge/CodeIgniter_3-EF4223?&style=for-the-badge&logo=codeigniter&logoColor=white" title="Experience with Code Igniter 3: Learning"><!-- ----------------------- CODE IGNITER 3 -->
 
 <h3>Front End / Back End:</h3>
 

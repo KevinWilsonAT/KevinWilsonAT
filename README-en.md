@@ -109,7 +109,7 @@ at any experience level.
 <table width="100%">
      <tr> <td colspan=2> Course </td> <td> Beginning </td> <td> Completion </td> <td> Status </td> </tr>
      <tr> <td colspan=5></td> </tr>
-     <tr title="JavaScript intensive course - Hashtag Treinamentos"> <!-- ---------------------------------------------------------------------------------------------------------------------- JAVASCRIPT INTENSIVE COURSE COMPLETED -->
+     <tr title="JavaScript Intensive Course - Hashtag Treinamentos"> <!-- ---------------------------------------------------------------------------------------------------------------------- JAVASCRIPT INTENSIVE COURSE COMPLETED -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
                JavaScript intensive course </td> <td> 8h </td> <td> Jan. 2024 </td> <td> Feb. 2024 </td> <td> 🌟✔️ - Completed </td>
      </tr>
@@ -155,6 +155,10 @@ at any experience level.
      <tr title="English Course (Basic): Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M2 -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
                English - Module 2 - Basic </td> <td> 20h </td> <td> April 2024 </td> <td>  </td> <td> ✨📖 - Perfecting (35%) </td>
+     </tr>
+     <tr title="Bootstrap Framework Intensive Course - Matheus Battisti"> <!-- ---------------------------------------------------------------------------------------------------------------- BOOTSTRAP INTENSIVE COURSE -->
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
+               Bootstrap </td> <td> 5h </td> <td> May 24 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
      </tr>
      <tr title="PHP OOP Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED PHP COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>

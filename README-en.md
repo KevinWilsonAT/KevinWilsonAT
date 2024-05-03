@@ -36,14 +36,14 @@ at any experience level.
 <h3>Back End:</h3>
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experience with Node.js: Learning"><!-- ----------------------------------------- NODE.JS -->
-<img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experience with Nest.js: Learning"><!-- ----------------------------------------- NEST.JS -->
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experience with PHP: 7/10 - Learning"><!-- ---------------------------------------------- PHP -->
 <img src="https://img.shields.io/badge/CodeIgniter_3-EF4223?&style=for-the-badge&logo=codeigniter&logoColor=white" title="Experience with Code Igniter 3: Learning"><!-- ----------------------- CODE IGNITER 3 -->
-
+<!--<img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experience with Nest.js: Learning"><!-- ----------------------------------------- NEST.JS -->
+<!--
 <h3>Front End / Back End:</h3>
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="Experience with TypeScript: Learning"><!-- ------------------------------- TYPESCRIPT -->
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Experience with Angular: Learning"><!-- ---------------------------------------- ANGULAR -->
+<!--<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Experience with Angular: Learning"><!-- ---------------------------------------- ANGULAR -->
 
 <h3>Database:</h3>
 
@@ -53,17 +53,16 @@ at any experience level.
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experience with C: 6/10 - Learning"><!-- --------------------------------------------------- C -->
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experience with C++: 5/10 - Learning"><!-- ------------------------------------- C++ -->
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experience with C#: Learning"><!-- ------------------------------------------------- C# -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experience with Python: 7/10 - Learning"><!-- ------------------------------------ PYTHON -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experience with Java: 7/10 - Learning"><!-- --------------------------------------- JAVA -->
-
+<!--<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experience with C#: Learning"><!-- ------------------------------------------------- C# -->
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experience with R: 5/10 - Learning"><!-- ----------------------------------------------------- R -->
 
 <h3>Mobile:</h3>
 
 <img src="https://img.shields.io/badge/Flet-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Experiência com Flet: Em Aprendizado"><!-- --------------------------------- FLET -->
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experience with Dart: Learning"><!-- ------------------------------------------------- DART -->
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experience with Lua: 6/10 - Learning"><!-- --------------------------------------------- LUA -->
+<!--<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experience with Dart: Learning"><!-- ------------------------------------------------- DART -->
 
 <h3>Platforms, Softwares and IDEs:</h3>
 

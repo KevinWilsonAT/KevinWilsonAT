@@ -117,70 +117,70 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso Básico de C - Pietro Martins"> <!-- ------------------------------------------------------------------------------------------------------------------------- CURSO DE C BÁSICO CONCLUÍDO -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/>
-               C - Básico </td> <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
+               Curso de C - Básico </td> <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
      </tr>
      <tr title="Curso Introdutório de R - LabData"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE R BÁSICO CONCLUÍDO -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
-               R - Introdução </td> <td> 8h </td> <td> 02/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
+               Curso Introdutório de R </td> <td> 8h </td> <td> 02/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
      </tr>
      <tr title="Curso de PHP Básico - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- CURSO DE PHP BÁSICO CONCLUÍDO -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-               PHP - Básico </td> <td> 40h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído </td>
+               Curso de PHP - Básico </td> <td> 40h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído </td>
      </tr>
      <tr title="Curso de Python 3: Módulos 1 e 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 1 E 2 CONCLUÍDO -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-               Python 3 - Módulos 1 e 2 - Básico </td> <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído (2/5) </td>
+               Curso de Python 3 - Módulos 1 e 2 - Básico </td> <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído (2/5) </td>
      </tr>
      <tr title="Curso de Java Básico - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------- CURSO DE JAVA BÁSICO CONCLUÍDO -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-               Java - Básico </td> <td> 40h </td> <td> 02/24 </td> <td> 03/24 </td> <td> ⌛✔️ - Concluído </td>
+               Curso de Java - Básico </td> <td> 40h </td> <td> 02/24 </td> <td> 03/24 </td> <td> ⌛✔️ - Concluído </td>
      </tr>
      <tr title="Curso de Git e GitHub - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------- CURSO DE GIT / GITHUB CONCLUÍDO -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/>
-               Git / GitHub </td> <td> 40h </td> <td> 03/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
+               Curso de Git / GitHub </td> <td> 40h </td> <td> 03/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
      </tr>
      <tr title="Curso de Inglês Básico: Módulo 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE INGLÊS CONCLUÍDO -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-               Inglês - Módulo 1 - Básico </td> <td> 20h </td> <td> 03/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
+               Curso de Inglês - Módulo 1 - Básico </td> <td> 20h </td> <td> 03/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
      </tr>
      <tr title="Curso de JavaScript - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- CURSO DE JAVASCRIPT CONCLUÍDO -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
-               JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
+               Curso de JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
      </tr>
      <tr>
           <td colspan=5></td>
      </tr>
      <tr title="Curso de Inglês Básico: Módulo 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE INGLÊS -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-               Inglês - Módulo 2 - Básico </td> <td> 20h </td> <td> 04/24 </td> <td>  </td> <td> ✨📖 - Aperfeiçoando (35%) </td>
+               Curso de Inglês - Módulo 2 - Básico </td> <td> 20h </td> <td> 04/24 </td> <td>  </td> <td> ✨📖 - Aperfeiçoando (35%) </td>
      </tr>
      <tr title="Intensivão de Framework Bootstrap - Matheus Battisti"> <!-- ------------------------------------------------------------------------------------------------------- INTENSIVÃO DE BOOTSTRAP -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
-               Bootstrap </td> <td> 5h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+               Intensivão de Bootstrap </td> <td> 5h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (14,30%) </td>
      </tr>
      <tr title="Curso de PHP POO - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE PHP ORIENTADO A OBJETOS -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-               PHP - POO </td> <td> 40h </td> <td> 04/24 </td> <td>  </td> <td> ⏩📖 - Estudando (62%) </td>
+               Curso de PHP POO </td> <td> 40h </td> <td> 04/24 </td> <td>  </td> <td> ⏩📖 - Estudando (62%) </td>
      </tr>
      <tr title="Curso de Java POO - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------- CURSO DE JAVA ORIENTADO A OBJETOS -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-               Java - POO </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (62%) </td>
+               Curso de Java POO </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (62%) </td>
      </tr>
      <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------- CURSO DE COMO ANUNCIAR NA INTERNET MÓDULO 1 -->
           <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
-               Como Anunciar Na Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (33%) </td>
+               Curso de Como Anunciar Na Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (33%) </td>
      </tr>
      <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------- CURSO DE WORDPRESS MÓDULO 1 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
-               WordPress - Módulo 1 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (63%) </td>
+               Curso de WordPress - Módulo 1 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (63%) </td>
      </tr>
      <tr title="Curso de Python 3: Módulo 3 - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 3 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-               Python 3 - Módulo 3 - Intermediário </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (59%) </td>
+               Curso de Python 3 - Módulo 3 - Intermediário </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (59%) </td>
      </tr>
      <tr title="Curso de C++ - CFB Cursos"> <!-- ---------------------------------------------------------------------------------------------------------------------------------- CURSO DE C++ -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
-               C++ - Básico </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (12,50%) </td>
+               Curso de C++ Básico </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (12,50%) </td>
      </tr>
      <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter"> <!-- ---------------------------------------------------------------------------------------- PÓS GRADUAÇÃO CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL -->
           <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
@@ -188,47 +188,47 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de PHP POO usando Code Igniter 3 - GoPHP"> <!-- ------------------------------------------------------------------------------------------------------------ CURSO DE PHP POO + CODE IGNITER 3 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/>
-               PHP POO com Code Igniter </td> <td> 16h </td> <td> <!-- inicio --> </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+               Curso de PHP POO com Code Igniter </td> <td> 16h </td> <td> <!-- inicio --> </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
      </tr>
      <tr title="Curso Introdutório de C# - LearnCafe"> <!-- ----------------------------------------------------------------------------------------------------------------------- CURSO DE C# BÁSICO -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
-               C# - Básico </td> <td> 10h </td> <td> <!-- inicio --> </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+               Curso de C# Básico </td> <td> 10h </td> <td> <!-- inicio --> </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
      </tr>
      <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)"> <!-- --------------------------------------------------------------------------------------------------- CURSO DE REACT BÁSICO -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>
-               React - Básico </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+               Curso de React Básico </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
      </tr>
      <tr title="Curso de MySQL - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------------- CURSO DE MYSQL -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/>
-               MySQL </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+               Curso de MySQL </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
      </tr>
      <tr title="Curso de WordPress: Módulo 2 - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------- CURSO DE WORDPRESS MÓDULO 2 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
-               WordPress - Módulo 2 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+               Curso de WordPress - Módulo 2 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
      </tr>
      <tr title="Curso de WordPress: Módulo 3 - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------- CURSO DE WORDPRESS MÓDULO 3 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
-               WordPress - Módulo 3 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+               Curso de WordPress - Módulo 3 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
      </tr>
      <tr title="Curso de WordPress: Módulo 4 - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------- CURSO DE WORDPRESS MÓDULO 4 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
-               Wordpress - Módulo 4 </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+               Curso de Wordpress - Módulo 4 </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
      </tr>
      <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------ CURSO DE PHP MODERNO MÓDULO 1 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-               PHP Moderno - Módulo 1 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+               Curso de PHP Moderno - Módulo 1 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
      </tr>
      <tr title="Curso de PhotoShop Básico - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- CURSO DE PHOTOSHOP BÁSICO -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="16px" height="16px"/> 
-               Photoshop - Básico </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+               Curso de Photoshop Básico </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
      </tr>
      <tr title="Curso de Python 3: Módulo 4 - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 4 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-               Python 3 - Módulo 4 </td> <td> 40h </td> <td> N/A </td> <td>  </td> <td> ➖⌛ - Aguardando Curso ser publicado </td>
+               Curso de Python 3 - Módulo 4 </td> <td> 40h </td> <td> N/A </td> <td>  </td> <td> ➖⌛ - Aguardando Curso ser publicado </td>
      </tr>
      <tr title="Curso de Python 3: Módulo 5 - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 5 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-               Python 3 - Módulo 5 </td> <td> 40h </td> <td> N/A </td> <td>  </td> <td> ➖⌛ - Aguardando Curso ser publicado </td>
+               Curso de Python 3 - Módulo 5 </td> <td> 40h </td> <td> N/A </td> <td>  </td> <td> ➖⌛ - Aguardando Curso ser publicado </td>
      </tr>
      <tr>
           <td colspan=5></td>

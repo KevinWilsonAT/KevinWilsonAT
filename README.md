@@ -34,14 +34,14 @@ em qualquer nível de experiência.
 <h3>Back End:</h3>
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experiência com Node.js: Em aprendizado"><!-- ---------------------- FRAMEWORK NODE.JS -->
-<img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experiência com Nest.js: Em aprendizado"><!-- ---------------------- FRAMEWORK NEST.JS -->
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experiência com PHP: 7/10 - Em aprendizado"><!-- --------------------------- LINGUAGEM PHP -->
 <img src="https://img.shields.io/badge/CodeIgniter_3-EF4223?&style=for-the-badge&logo=codeigniter&logoColor=white" title="Experiência com Code Igniter 3: Em aprendizado"><!-- ---- FRAMEWORK CODE IGNITER 3 -->
-
+<!--<img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experiência com Nest.js: Em aprendizado"><!-- ---------------------- FRAMEWORK NEST.JS -->
+<!--
 <h3>Front End / Back End:</h3>
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="Experiência com TypeScript: Em Aprendizado"><!-- ------------- LINGUAGEM TYPESCRIPT -->
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Experiência com Angular: Em Aprendizado"><!-- ---------------------- FRAMEWORK ANGULAR -->
+<!--<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Experiência com Angular: Em Aprendizado"><!-- ---------------------- FRAMEWORK ANGULAR -->
 
 <h3>Banco de Dados:</h3>
 
@@ -51,16 +51,15 @@ em qualquer nível de experiência.
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experiência com C: 6/10 - Em Aprendizado"><!-- --------------------------------- LINGUAGEM C -->
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: 5/10 - Em Aprendizado"><!-- ------------------- LINGUAGEM C++ -->
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"><!-- ------------------------------- LINGUAGEM C# -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 7/10 - Em Aprendizado"><!-- ------------------ LINGUAGEM PYTHON -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: 7/10 - Em Aprendizado"><!-- --------------------- LINGUAGEM JAVA -->
-
+<!--<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"><!-- ------------------------------- LINGUAGEM C# -->
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experiência com R: 5/10 -Em Aprendizado"><!-- ------------------------------------ LINGUAGEM R -->
 
 <h3>Mobile:</h3>
 
 <img src="https://img.shields.io/badge/Flet-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Experiência com Flet: Em Aprendizado"><!-- --------------------- FRAMEWORK FLET -->
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experiência com Dart: Em Aprendizado"><!-- ------------------------------- LINGUAGEM DART -->
+<!--<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experiência com Dart: Em Aprendizado"><!-- ------------------------------- LINGUAGEM DART -->
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experiência com Lua: 6/10 - Em Aprendizado"><!-- --------------------------- LINGUAGEM LUA -->
 
 <h3>Plataformas, Softwares e IDEs:</h3>

@@ -155,7 +155,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Intensivão de Framework Bootstrap - Matheus Battisti"> <!-- ------------------------------------------------------------------------------------------------------- INTENSIVÃO DE BOOTSTRAP -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
-               Intensivão de Bootstrap </td> <td> 5h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (14,30%) </td>
+               Intensivão de Bootstrap </td> <td> 5h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (20,00%) </td>
      </tr>
      <tr title="Curso de PHP POO - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE PHP ORIENTADO A OBJETOS -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>

@@ -148,7 +148,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Intensivão de Framework Bootstrap - Matheus Battisti"> <!-- ------------------------------------------------------------------------------------------------------- INTENSIVÃO DE BOOTSTRAP -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
-               Intensivão de Bootstrap </td> <td> 5h </td> <td> 05/24 </td> <td>   </td> <td> ✔️✔️ - Concluído </td>
+               Intensivão de Bootstrap </td> <td> 5h </td> <td> 05/24 </td> <td> 05/24 </td> <td> ✔️✔️ - Concluído </td>
      </tr>
      <tr>
           <td colspan=5></td>

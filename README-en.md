@@ -29,7 +29,7 @@ at any experience level.
 <img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" title="Experience with HTML: 8/10 - Learning"><!-- ----------------------------------------- HTML -->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experience with CSS: 8/10 - Learning"><!-- -------------------------------------------- CSS -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Experience with JavaScript: 7/10 - Learning"><!-- ------------------------- JS -->
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Experience with Bootstrap: Learning"><!-- ----------------------------------- BOOTSTRAP -->
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Experience with Bootstrap: 6/10 -Learning"><!-- ----------------------------- BOOTSTRAP -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experience with React: Learning"><!-- ---------------------------------------------- REACT-->
 <!--<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experience with Tailwind: Learning"><!-- ------------------------------ TAILWIND -->
 
@@ -148,16 +148,16 @@ at any experience level.
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
                JavaScript Course </td> <td> 40h </td> <td> Feb. 2024 </td> <td> April 2024 </td> <td> ⌛✔️ - Completed </td>
      </tr>
+     <tr title="Bootstrap Framework Intensive Course - Matheus Battisti"> <!-- ---------------------------------------------------------------------------------------------------------------- BOOTSTRAP INTENSIVE COURSE -->
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
+               Bootstrap Course </td> <td> 5h </td> <td> May 2024 </td> <td> May 2024 </td> <td> ✔️✔️ - Completed </td>
+     </tr>
      <tr>
           <td colspan=5></td>
      </tr>
      <tr title="English Course (Basic): Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M2 -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
                English - Module 2 - Basic Course </td> <td> 20h </td> <td> April 2024 </td> <td>  </td> <td> ✨📖 - Perfecting (41%) </td>
-     </tr>
-     <tr title="Bootstrap Framework Intensive Course - Matheus Battisti"> <!-- ---------------------------------------------------------------------------------------------------------------- BOOTSTRAP INTENSIVE COURSE -->
-          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
-               Bootstrap Course </td> <td> 5h </td> <td> May 24 </td> <td>  </td> <td> ⏩📖 - Studying (49%) </td>
      </tr>
      <tr title="PHP OOP Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED PHP COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>

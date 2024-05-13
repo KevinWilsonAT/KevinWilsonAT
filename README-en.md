@@ -248,7 +248,7 @@ at any experience level.
 <h1>📊 GitHub Stats</h1>
 
 <div align="center">
-     <img height="196em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=github&theme=dark" /> <!-- ---------------------------------------------------------- GITHUB STATS AND RANK -->
+     <img height="196em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=rank&theme=dark" /> <!-- ---------------------------------------------------------- GITHUB STATS AND RANK -->
      <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWilsonAT&langs_count=20&layout=compact&show_icons=true&theme=dark&locale=en" alt="KevinWilsonAT" />  <!-- --- GITHUB TOP LANGUAGES (20) -->
      <br>
      <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinWilsonAT&theme=dark" /> <!-- ------------------------------------------------------------- GITHUB STATS GRAPHIC YEAR -->

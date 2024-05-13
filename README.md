@@ -159,7 +159,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de Bootstrap 5 - CFB Cursos"> <!-- --------------------------------------------------------------------------------------------------------------------------- CURSO DE BOOTSTRAP 5 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
-               Curso de Bootstrap 5 </td> <td> 8h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (20%) </td>
+               Curso de Bootstrap 5 </td> <td> 8h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (24%) </td>
      </tr>
      <tr title="Curso de PHP POO - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE PHP ORIENTADO A OBJETOS -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>

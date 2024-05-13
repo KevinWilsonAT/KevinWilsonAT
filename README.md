@@ -163,11 +163,11 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de PHP POO - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE PHP ORIENTADO A OBJETOS -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-               Curso de PHP POO </td> <td> 40h </td> <td> 04/24 </td> <td>  </td> <td> ⏩📖 - Estudando (68%) </td>
+               Curso de PHP POO </td> <td> 40h </td> <td> 04/24 </td> <td>  </td> <td> ⏩📖 - Estudando (71%) </td>
      </tr>
      <tr title="Curso de Java POO - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------- CURSO DE JAVA ORIENTADO A OBJETOS -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-               Curso de Java POO </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (68%) </td>
+               Curso de Java POO </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (71%) </td>
      </tr>
      <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------- CURSO DE COMO ANUNCIAR NA INTERNET MÓDULO 1 -->
           <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>

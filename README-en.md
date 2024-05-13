@@ -161,7 +161,7 @@ at any experience level.
      </tr>
      <tr title="Bootstrap 5 Framework Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ BOOTSTRAP 5 COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
-               Bootstrap 5 Course </td> <td> 8h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (20%) </td>
+               Bootstrap 5 Course </td> <td> 8h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (24%) </td>
      </tr>
      <tr title="PHP OOP Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED PHP COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>

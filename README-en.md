@@ -101,7 +101,7 @@ at any experience level.
 <a href="mailto:kevin.dkc.wat@gmail.com" title="Gmail" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <!-- ---------------------------------------------------------------- GMAIL -->
 <a href="mailto:kevin.dkc.wat@outlook.com" title="Outlook" target="_blank">
-     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a> <!-- -------------------------------------- OUTLOOK -->
+     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a> <!-- -------------------------------------- OUTLOOK -->
      
 <h2>📖 2024 Courses</h2>
 
@@ -157,7 +157,7 @@ at any experience level.
      </tr>
      <tr title="English Course (Basic): Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M2 -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-               English - Module 2 - Basic Course </td> <td> 20h </td> <td> April 2024 </td> <td>  </td> <td> ✨📖 - Perfecting (61%) </td>
+               English - Module 2 - Basic Course </td> <td> 20h </td> <td> April 2024 </td> <td>  </td> <td> ✨📖 - Perfecting (67%) </td>
      </tr>
      <tr title="Bootstrap 5 Framework Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ BOOTSTRAP 5 COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
@@ -181,7 +181,7 @@ at any experience level.
      </tr>
      <tr title="Python 3 Course: Módulo 3 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------------ PYTHON COURSE MODULE 3 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-               Python 3 - Module 3 - Intermediary Course </td> <td> 40h </td> <td> Feb. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (60%) </td>
+               Python 3 - Module 3 - Intermediary Course </td> <td> 40h </td> <td> Feb. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (62%) </td>
      </tr>
      <tr title="C++ Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------------------------- C++ COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>

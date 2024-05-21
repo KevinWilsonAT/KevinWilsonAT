@@ -157,23 +157,23 @@ at any experience level.
      </tr>
      <tr title="English Course (Basic): Module 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE M2 -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-               English - Module 2 - Basic Course </td> <td> 20h </td> <td> April 2024 </td> <td>  </td> <td> ✨📖 - Perfecting (67%) </td>
+               English - Module 2 - Basic Course </td> <td> 20h </td> <td> April 2024 </td> <td>  </td> <td> ✨📖 - Perfecting (74%) </td>
      </tr>
      <tr title="Bootstrap 5 Framework Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ BOOTSTRAP 5 COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
-               Bootstrap 5 Course </td> <td> 8h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (38%) </td>
+               Bootstrap 5 Course </td> <td> 8h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (40%) </td>
      </tr>
      <tr title="PHP OOP Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED PHP COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-               PHP - OOP Course </td> <td> 40h </td> <td> April 2024 </td> <td>  </td> <td> ⏩📖 - Studying (75%) </td>
+               PHP - OOP Course </td> <td> 40h </td> <td> April 2024 </td> <td>  </td> <td> ⏩📖 - Studying (78%) </td>
      </tr>
      <tr title="Java OOP Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED JAVA COURSE -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-               Java - OOP Course </td> <td> 40h </td> <td> March 2024 </td> <td>  </td> <td> ⏩📖 -  Studying (75%) </td>
+               Java - OOP Course </td> <td> 40h </td> <td> March 2024 </td> <td>  </td> <td> ⏩📖 -  Studying (78%) </td>
      </tr>
      <tr title="How to announce in the Internet Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- HOW TO ANNOUNCE IN THE INTERNET COURSE -->
           <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
-               How to announce in the Internet Course </td> <td> 40h </td> <td> March 2024 </td> <td>  </td> <td> ⏩📖 -  Studying (38%) </td>
+               How to announce in the Internet Course </td> <td> 40h </td> <td> March 2024 </td> <td>  </td> <td> ⏩📖 -  Studying (40%) </td>
      </tr>
      <tr title="WordPress Course: Module 1 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 1 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>

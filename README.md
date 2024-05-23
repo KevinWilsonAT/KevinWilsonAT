@@ -155,15 +155,15 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de Inglês Básico: Módulo 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE INGLÊS -->
           <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-               Curso de Inglês - Módulo 2 - Básico </td> <td> 20h </td> <td> 04/24 </td> <td>  </td> <td> ✨📖 - Aperfeiçoando (77%) </td>
+               Curso de Inglês - Módulo 2 - Básico </td> <td> 20h </td> <td> 04/24 </td> <td>  </td> <td> ✨📖 - Aperfeiçoando (81%) </td>
      </tr>
      <tr title="Curso de Bootstrap 5 - CFB Cursos"> <!-- --------------------------------------------------------------------------------------------------------------------------- CURSO DE BOOTSTRAP 5 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
-               Curso de Bootstrap 5 </td> <td> 8h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (42%) </td>
+               Curso de Bootstrap 5 </td> <td> 8h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (43%) </td>
      </tr>
      <tr title="Curso de PHP POO - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE PHP ORIENTADO A OBJETOS -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-               Curso de PHP POO </td> <td> 40h </td> <td> 04/24 </td> <td>  </td> <td> ⏩📖 - Estudando (78%) </td>
+               Curso de PHP POO </td> <td> 40h </td> <td> 04/24 </td> <td>  </td> <td> ⏩📖 - Estudando (81%) </td>
      </tr>
      <tr title="Curso de Java POO - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------- CURSO DE JAVA ORIENTADO A OBJETOS -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
@@ -175,7 +175,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------- CURSO DE WORDPRESS MÓDULO 1 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
-               Curso de WordPress - Módulo 1 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (68%) </td>
+               Curso de WordPress - Módulo 1 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (70%) </td>
      </tr>
      <tr title="Curso de Python 3: Módulo 3 - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 3 -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
@@ -183,7 +183,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de C++ - CFB Cursos"> <!-- ---------------------------------------------------------------------------------------------------------------------------------- CURSO DE C++ -->
           <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
-               Curso de C++ Básico </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (14,00%) </td>
+               Curso de C++ Básico </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (14%) </td>
      </tr>
      <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter"> <!-- ---------------------------------------------------------------------------------------- PÓS GRADUAÇÃO CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL -->
           <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>

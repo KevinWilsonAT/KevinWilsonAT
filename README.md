@@ -153,20 +153,20 @@ em qualquer nível de experiência.
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
                     Intensivão de Bootstrap </td> <td> 5h </td> <td> 05/24 </td> <td> 05/24 </td> <td> ✔️✔️ - Concluído </td>
           </tr>
+          <tr title="Curso de PHP POO - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE PHP ORIENTADO A OBJETOS -->
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
+                    Curso de PHP POO </td> <td> 40h </td> <td> 04/24 </td> <td> 05/24 </td> <td> ✔️✔️ - Concluído </td>
+          </tr>
+          <tr title="Curso de Java POO - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------- CURSO DE JAVA ORIENTADO A OBJETOS -->
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
+                    Curso de Java POO </td> <td> 40h </td> <td> 03/24 </td> <td> 05/24 </td> <td> ✔️✔️ - Concluído </td>
+          </tr>
           <tr>
                <td colspan=5></td>
           </tr>
           <tr title="Curso de Bootstrap 5 - CFB Cursos"> <!-- --------------------------------------------------------------------------------------------------------------------------- CURSO DE BOOTSTRAP 5 -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
                     Curso de Bootstrap 5 </td> <td> 8h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (47%) </td>
-          </tr>
-          <tr title="Curso de PHP POO - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE PHP ORIENTADO A OBJETOS -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-                    Curso de PHP POO </td> <td> 40h </td> <td> 04/24 </td> <td>  </td> <td> ⏩📖 - Estudando (88%) </td>
-          </tr>
-          <tr title="Curso de Java POO - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------- CURSO DE JAVA ORIENTADO A OBJETOS -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-                    Curso de Java POO </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (88%) </td>
           </tr>
           <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------- CURSO DE COMO ANUNCIAR NA INTERNET MÓDULO 1 -->
                <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
@@ -190,15 +190,19 @@ em qualquer nível de experiência.
           </tr>
           <tr title="Curso de PHP POO usando Code Igniter 3 - GoPHP"> <!-- ------------------------------------------------------------------------------------------------------------ CURSO DE PHP POO + CODE IGNITER 3 -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/>
-                    Curso de PHP POO com Code Igniter </td> <td> 16h </td> <td> <!-- inicio --> </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+                    Curso de PHP POO com Code Igniter 3</td> <td> 16h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+          </tr>
+          <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)"> <!-- --------------------------------------------------------------------------------------------------- CURSO DE REACT BÁSICO -->
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>
+                    Curso de React Básico </td> <td> 20h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+          </tr>
+          <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP"> <!-- ------------------------------------------------------------------------------------------------------------ CURSO DE PHP POO + CODE IGNITER 3 -->
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/>
+                    Curso de PHP POO com Code Igniter 4</td> <td> 16h </td> <td> <!-- inicio --> </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
           </tr>
           <tr title="Curso Introdutório de C# - LearnCafe"> <!-- ----------------------------------------------------------------------------------------------------------------------- CURSO DE C# BÁSICO -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
                     Curso de C# Básico </td> <td> 10h </td> <td> <!-- inicio --> </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-          </tr>
-          <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)"> <!-- --------------------------------------------------------------------------------------------------- CURSO DE REACT BÁSICO -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>
-                    Curso de React Básico </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
           </tr>
           <tr title="Curso de MySQL - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------------- CURSO DE MYSQL -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/>

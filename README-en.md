@@ -155,20 +155,20 @@ at any experience level.
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
                     Bootstrap Course </td> <td> 5h </td> <td> May 2024 </td> <td> May 2024 </td> <td> ✔️✔️ - Completed </td>
           </tr>
+          <tr title="PHP OOP Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED PHP COURSE -->
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
+                    PHP - OOP Course </td> <td> 40h </td> <td> April 2024 </td> <td> May 2024 </td> <td> ✔️✔️ - Completed </td>
+          </tr>
+          <tr title="Java OOP Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED JAVA COURSE -->
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
+                    Java - OOP Course </td> <td> 40h </td> <td> March 2024 </td> <td> May 2024 </td> <td> ✔️✔️ - Completed </td>
+          </tr>
           <tr>
                <td colspan=5></td>
           </tr>
           <tr title="Bootstrap 5 Framework Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ BOOTSTRAP 5 COURSE -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
                     Bootstrap 5 Course </td> <td> 8h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (47%) </td>
-          </tr>
-          <tr title="PHP OOP Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED PHP COURSE -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-                    PHP - OOP Course </td> <td> 40h </td> <td> April 2024 </td> <td>  </td> <td> ⏩📖 - Studying (88%) </td>
-          </tr>
-          <tr title="Java OOP Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED JAVA COURSE -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-                    Java - OOP Course </td> <td> 40h </td> <td> March 2024 </td> <td>  </td> <td> ⏩📖 -  Studying (88%) </td>
           </tr>
           <tr title="How to announce in the Internet Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- HOW TO ANNOUNCE IN THE INTERNET COURSE -->
                <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
@@ -192,15 +192,19 @@ at any experience level.
           </tr>
           <tr title="PHP OOP Course using Code Igniter 3 - GoPHP"> <!-- ----------------------------------------------------------------------------------------------------------------------------- PHP OOP COURSE + CODE IGNITER 3 -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/>
-                    PHP OOP Course with Code Igniter 3 </td> <td> 16h </td> <td> <!-- start --> </td> <td>  </td> <td> ➖⌛ - Waiting </td>
+                    PHP OOP Course with Code Igniter 3 </td> <td> 16h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
+          </tr>
+          <tr title="React Basic Course - Matheus Battisti (Hora de Codar)"> <!-- -------------------------------------------------------------------------------------------------------------------- REACT BASIC COURSE -->
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>
+                    React - Basic Course </td> <td> 20h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
+          </tr>
+          <tr title="PHP OOP Course using Code Igniter 4 - GoPHP"> <!-- ----------------------------------------------------------------------------------------------------------------------------- PHP OOP COURSE + CODE IGNITER 3 -->
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/>
+                    PHP OOP Course with Code Igniter 4 </td> <td> 16h </td> <td> <!-- start --> </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>
           <tr title="C# Basic Introductory Course - LearnCafe"> <!-- -------------------------------------------------------------------------------------------------------------------------------- C# COURSE -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
                     C# - Basic Course </td> <td> 10h </td> <td> <!-- start --> </td> <td>  </td> <td> ➖⌛ - Waiting </td>
-          </tr>
-          <tr title="React Basic Course - Matheus Battisti (Hora de Codar)"> <!-- -------------------------------------------------------------------------------------------------------------------- REACT BASIC COURSE -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>
-                    React - Basic Course </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>
           <tr title="MySQL Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------------------------- MYSQL COURSE -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/>

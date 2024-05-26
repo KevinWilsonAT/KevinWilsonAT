@@ -158,6 +158,10 @@ at any experience level.
           <tr>
                <td colspan=5></td>
           </tr>
+          <tr title="English Course: Intermediary - Prime Cursos"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE Module 1 to 2 COMPLETED -->
+               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
+                    English Course: Intermediary </td> <td> 50h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
+          </tr>
           <tr title="Bootstrap 5 Framework Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ BOOTSTRAP 5 COURSE -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
                     Bootstrap 5 Course </td> <td> 8h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (47%) </td>

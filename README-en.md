@@ -129,7 +129,7 @@ at any experience level.
           </tr>
           <tr title="PHP Basic Course - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------------------------- PHP BASIC COURSE COMPLETED -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-                    PHP - Basic Course </td> <td> 40h </td> <td> Jan. 2024 </td> <td> Feb. 2024 </td> <td> ⌛✔️ - Completed </td>
+                    PHP - Basic and OOP Course </td> <td> 80h </td> <td> Jan. 2024 </td> <td> May 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
           <tr title="Python 3 Course: Modules 1 and 2 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- PYTHON COURSE MODULE 1 to 2 COMPLETED -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
@@ -137,7 +137,7 @@ at any experience level.
           </tr>
           <tr title="Java Basic Course- Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------------------------- JAVA BASIC COURSE COMPLETED -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-                    Java - Basic Course </td> <td> 40h </td> <td> Feb. 2024 </td> <td> March 2024 </td> <td> ⌛✔️ - Completed </td>
+                    Java - Basic and OOP Course </td> <td> 80h </td> <td> Feb. 2024 </td> <td> May 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
           <tr title="Git & GitHub Course - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------------------ GIT / GITHUB COURSE COMPLETED -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/>
@@ -154,14 +154,6 @@ at any experience level.
           <tr title="Bootstrap Framework Intensive Course - Matheus Battisti"> <!-- ---------------------------------------------------------------------------------------------------------------- BOOTSTRAP INTENSIVE COURSE -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
                     Bootstrap Course </td> <td> 5h </td> <td> May 2024 </td> <td> May 2024 </td> <td> ✔️✔️ - Completed </td>
-          </tr>
-          <tr title="PHP OOP Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED PHP COURSE -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-                    PHP - OOP Course </td> <td> 40h </td> <td> April 2024 </td> <td> May 2024 </td> <td> ✔️✔️ - Completed </td>
-          </tr>
-          <tr title="Java OOP Course - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------------------------- OBJECT ORIENTED JAVA COURSE -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-                    Java - OOP Course </td> <td> 40h </td> <td> March 2024 </td> <td> May 2024 </td> <td> ✔️✔️ - Completed </td>
           </tr>
           <tr>
                <td colspan=5></td>

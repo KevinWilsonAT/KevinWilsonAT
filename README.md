@@ -156,6 +156,10 @@ em qualquer nível de experiência.
           <tr>
                <td colspan=5></td>
           </tr>
+          <tr title="Curso de Inglês Intermediário - Prime Cursos"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE INGLÊS MÓDULO 1 E 2 CONCLUÍDO -->
+               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
+                    Curso de Inglês - Intermediário </td> <td> 50h </td> <td> 05/24 </td> <td> </td> <td> ⏩📖 - Estudando (0%) </td>
+          </tr>
           <tr title="Curso de Bootstrap 5 - CFB Cursos"> <!-- --------------------------------------------------------------------------------------------------------------------------- CURSO DE BOOTSTRAP 5 -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
                     Curso de Bootstrap 5 </td> <td> 8h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (47%) </td>

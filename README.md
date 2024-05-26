@@ -127,7 +127,7 @@ em qualquer nível de experiência.
           </tr>
           <tr title="Curso de PHP Básico - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- CURSO DE PHP BÁSICO CONCLUÍDO -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-                    Curso de PHP - Básico </td> <td> 40h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído </td>
+                    Curso de PHP - Básico e POO </td> <td> 80h </td> <td> 01/24 </td> <td> 05/24 </td> <td> ⌛✔️ - Concluído </td>
           </tr>
           <tr title="Curso de Python 3: Módulos 1 e 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 1 E 2 CONCLUÍDO -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
@@ -135,7 +135,7 @@ em qualquer nível de experiência.
           </tr>
           <tr title="Curso de Java Básico - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------- CURSO DE JAVA BÁSICO CONCLUÍDO -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-                    Curso de Java - Básico </td> <td> 40h </td> <td> 02/24 </td> <td> 03/24 </td> <td> ⌛✔️ - Concluído </td>
+                    Curso de Java - Básico e POO </td> <td> 80h </td> <td> 02/24 </td> <td> 05/24 </td> <td> ⌛✔️ - Concluído </td>
           </tr>
           <tr title="Curso de Git e GitHub - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------- CURSO DE GIT / GITHUB CONCLUÍDO -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/>
@@ -152,14 +152,6 @@ em qualquer nível de experiência.
           <tr title="Intensivão de Framework Bootstrap - Matheus Battisti"> <!-- ------------------------------------------------------------------------------------------------------- INTENSIVÃO DE BOOTSTRAP -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
                     Intensivão de Bootstrap </td> <td> 5h </td> <td> 05/24 </td> <td> 05/24 </td> <td> ✔️✔️ - Concluído </td>
-          </tr>
-          <tr title="Curso de PHP POO - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE PHP ORIENTADO A OBJETOS -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-                    Curso de PHP POO </td> <td> 40h </td> <td> 04/24 </td> <td> 05/24 </td> <td> ✔️✔️ - Concluído </td>
-          </tr>
-          <tr title="Curso de Java POO - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------- CURSO DE JAVA ORIENTADO A OBJETOS -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-                    Curso de Java POO </td> <td> 40h </td> <td> 03/24 </td> <td> 05/24 </td> <td> ✔️✔️ - Concluído </td>
           </tr>
           <tr>
                <td colspan=5></td>

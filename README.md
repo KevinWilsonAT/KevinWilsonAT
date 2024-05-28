@@ -1,34 +1,33 @@
 <p align="center">
-     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </p>
 <p align="center">
-     <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&color=fff&duration=600&pause=1500&lines=Olá, eu sou o Kevin;Sou Dev Front End Jr;Sou Dev Back End Jr;Sou Dev Softwares Jr;">
+   <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&color=fff&duration=600&pause=1500&lines=Olá, eu sou o Kevin;Sou Dev Front End Jr;Sou Dev Back End Jr;Sou Dev Softwares Jr;">
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <p align="left">
-
-<img width="24px" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"> | <a href="README-en.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"></a>
-  
+   <img width="24px" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"> | <a href="README-en.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"></a>
+</p>
 Formado em Análise de Sistemas em 2017, pós-graduado em Docência em Sistemas de Informação em 2023 e cursando pós-graduação em Ciência
 de Dados e Inteligência Artificial em 2024.
-  
+
 Sou Desenvolvedor Web e Desenvolvedor de Software há 1 ano. Acredito que no aprendizado, além da eficiência na programação, também é 
 necessário ser alguém que esteja sempre disposto a <strong>aprender</strong>, <strong>interagir</strong>, <strong>inovar</strong>, <strong>se adaptar para crescer</strong>.
-    
+  
 Para mim, uma boa programação deve ser limpa e de fácil leitura, com códigos compreensíveis a desenvolvedores
 em qualquer nível de experiência.
-
+   
 <h2>💻 Linguagens e ferramentas</h2>
-
+   
 <h3>Front End:</h3>
 
 <img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" title="Experiência com HTML: 8/10 - Em Aprendizado"><!-- ---------------------- LINGUAGEM HTML -->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experiência com CSS: 8/10 - Em Aprendizado"><!-- ------------------------- LINGUAGEM CSS -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Experiência com JavaScript: 7/10 - Em Aprendizado"><!-- ------ LINGUAGEM JS -->
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Experiência com Bootstrap: 6/10 - Em Aprendizado"><!-- --------- FRAMEWORK BOOTSTRAP -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experiência com React: 5/10 - Em Aprendizado"><!-- --------------------------- FRAMEWORK REACT-->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experiência com React: 5/10 - Em Aprendizado"><!-- -------------------- FRAMEWORK REACT-->
 <!--<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experiência com Tailwind: Em Aprendizado">--><!-- ----------- FRAMEWORK TAILWIND -->
 
 <h3>Back End:</h3>
@@ -89,7 +88,6 @@ em qualquer nível de experiência.
 <h4>Outros Softwares:</h4>
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=windows&logoColor=white" title="Experiência com Office: 6/10"><!-- ------------------------ MS OFFICE -->
 
-
 <h2>📞 Contato:</h2>
 
 <a href="https://www.linkedin.com/in/kwat1/" title="LinkedIn" target="_blank">
@@ -102,168 +100,182 @@ em qualquer nível de experiência.
      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a> <!-- ------------------------- OUTLOOK -->
 
 <h2>📖 Cursos para 2024</h2>
+   
+<details>
+  <summary>Cursos Concluidos</summary>
+  <table width="100%">
+      <thead>
+          <tr> <th colspan="2"> Curso </th> <th> Início </th> <th> Conclusão </th> <th> Status </th> </tr>
+      </thead>
+      <tbody>
+          <tr> <td colspan=5></td> </tr>
+          <tr title="Intensivão de Javascript - Hashtag Treinamentos">
+              <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/> Intensivão de JavaScript </td>
+              <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Concluído </td>
+          </tr>
+          <tr title="Intensivão de Python - Hashtag Treinamentos">
+              <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Intensivão de Python </td>
+              <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> 🌟✔️ - Concluído </td>
+          </tr>
+          <tr title="Curso Básico de C - Pietro Martins">
+              <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de C - Básico </td>
+              <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
+          </tr>
+          <tr title="Curso Introdutório de R - LabData">
+              <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/> Curso Introdutório de R </td>
+              <td> 8h </td> <td> 02/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
+          </tr>
+          <tr title="Curso de PHP Básico - Curso Em Vídeo">
+              <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP - Básico e POO </td>
+              <td> 80h </td> <td> 01/24 </td> <td> 05/24 </td> <td> ⌛✔️ - Concluído </td>
+          </tr>
+          <tr title="Curso de Python 3: Módulos 1 e 2 - Curso Em Vídeo">
+              <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M1 e M2 - Básico </td>
+              <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído (2 / 5) </td>
+          </tr>
+          <tr title="Curso de Java Básico - Curso Em Vídeo">
+              <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/> Curso de Java - Básico e POO </td>
+              <td> 80h </td> <td> 02/24 </td> <td> 05/24 </td> <td> ⌛✔️ - Concluído </td>
+          </tr>
+          <tr title="Curso de Git e GitHub - Curso Em Vídeo">
+              <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/> Curso de Git / GitHub </td>
+              <td> 40h </td> <td> 03/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
+          </tr>
+          <tr title="Curso de Inglês Básico: Módulo 1 - Curso Em Vídeo">
+              <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Módulos 1 e 2 - Básico </td>
+              <td> 40h </td> <td> 03/24 </td> <td> 05/24 </td> <td> ⌛✔️ - Concluído (2 / 3) </td>
+          </tr>
+          <tr title="Curso de JavaScript - Curso Em Vídeo">
+              <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/> Curso de JavaScript </td>
+              <td> 40h </td> <td> 02/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
+          </tr>
+          <tr title="Intensivão de Framework Bootstrap - Matheus Battisti">
+              <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/> Intensivão de Bootstrap </td>
+              <td> 5h </td> <td> 05/24 </td> <td> 05/24 </td> <td> ✔️✔️ - Concluído </td>
+          </tr>
+      </tbody>
+  </table>
+</details>
+
+<hr>
 
 <table width="100%">
-     <thead>
-          <tr> <th colspan=2> Curso </th> <th> Início </th> <th> Conclusão </th> <th> Status </th> </tr>
-     </thead>
-     <tbody>
-          <tr> <td colspan=5></td> </tr>
-          <tr title="Intensivão de Javascript - Hashtag Treinamentos"> <!-- ------------------------------------------------------------------------------------------------------------ INTENSIVÃO DE JAVASCRIPT CONCLUÍDO -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
-                    Intensivão de JavaScript </td> <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Concluído </td>
-          </tr>
-          <tr title="Intensivão de Python - Hashtag Treinamentos"> <!-- ---------------------------------------------------------------------------------------------------------------- INTENSIVÃO DE PYTHON CONCLUÍDO -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-                    Intensivão de Python </td> <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> 🌟✔️ - Concluído </td>
-          </tr>
-          <tr title="Curso Básico de C - Pietro Martins"> <!-- ------------------------------------------------------------------------------------------------------------------------- CURSO DE C BÁSICO CONCLUÍDO -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/>
-                    Curso de C - Básico </td> <td> 15h </td> <td> 01/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
-          </tr>
-          <tr title="Curso Introdutório de R - LabData"> <!-- -------------------------------------------------------------------------------------------------------------------------- CURSO DE R BÁSICO CONCLUÍDO -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/>
-                    Curso Introdutório de R </td> <td> 8h </td> <td> 02/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
-          </tr>
-          <tr title="Curso de PHP Básico - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- CURSO DE PHP BÁSICO CONCLUÍDO -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-                    Curso de PHP - Básico e POO </td> <td> 80h </td> <td> 01/24 </td> <td> 05/24 </td> <td> ⌛✔️ - Concluído </td>
-          </tr>
-          <tr title="Curso de Python 3: Módulos 1 e 2 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 1 E 2 CONCLUÍDO -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-                    Curso de Python 3 - Módulos 1 e 2 - Básico </td> <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído (2/5) </td>
-          </tr>
-          <tr title="Curso de Java Básico - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------- CURSO DE JAVA BÁSICO CONCLUÍDO -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/>
-                    Curso de Java - Básico e POO </td> <td> 80h </td> <td> 02/24 </td> <td> 05/24 </td> <td> ⌛✔️ - Concluído </td>
-          </tr>
-          <tr title="Curso de Git e GitHub - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------------- CURSO DE GIT / GITHUB CONCLUÍDO -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/>
-                    Curso de Git / GitHub </td> <td> 40h </td> <td> 03/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
-          </tr>
-          <tr title="Curso de Inglês Básico: Módulo 1 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE INGLÊS MÓDULO 1 E 2 CONCLUÍDO -->
-               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-                    Curso de Inglês - Módulos 1 e 2 - Básico </td> <td> 40h </td> <td> 03/24 </td> <td> 05/24 </td> <td> ⌛✔️ - Concluído (2/3) </td>
-          </tr>
-          <tr title="Curso de JavaScript - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------- CURSO DE JAVASCRIPT CONCLUÍDO -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/>
-                    Curso de JavaScript </td> <td> 40h </td> <td> 02/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
-          </tr>
-          <tr title="Intensivão de Framework Bootstrap - Matheus Battisti"> <!-- ------------------------------------------------------------------------------------------------------- INTENSIVÃO DE BOOTSTRAP -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
-                    Intensivão de Bootstrap </td> <td> 5h </td> <td> 05/24 </td> <td> 05/24 </td> <td> ✔️✔️ - Concluído </td>
-          </tr>
-          <tr>
-               <td colspan=5></td>
-          </tr>
-          <tr title="Curso de Inglês Intermediário - Prime Cursos"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE INGLÊS MÓDULO 1 E 2 CONCLUÍDO -->
-               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-                    Curso de Inglês - Intermediário </td> <td> 50h </td> <td> 05/24 </td> <td> </td> <td> ⏩📖 - Estudando (4%) </td>
-          </tr>
-          <tr title="Curso de Bootstrap 5 - CFB Cursos"> <!-- --------------------------------------------------------------------------------------------------------------------------- CURSO DE BOOTSTRAP 5 -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
-                    Curso de Bootstrap 5 </td> <td> 8h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (49%) </td>
-          </tr>
-          <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------- CURSO DE COMO ANUNCIAR NA INTERNET MÓDULO 1 -->
-               <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
-                    Curso de Como Anunciar Na Internet </td> <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (40%) </td>
-          </tr>
-          <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------- CURSO DE WORDPRESS MÓDULO 1 -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
-                    Curso de WordPress - Módulo 1 </td> <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (72%) </td>
-          </tr>
-          <tr title="Curso de Python 3: Módulo 3 - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 3 -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-                    Curso de Python 3 - Módulo 3 - Intermediário </td> <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (64%) </td>
-          </tr>
-          <tr title="Curso de C++ - CFB Cursos"> <!-- ---------------------------------------------------------------------------------------------------------------------------------- CURSO DE C++ -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/>
-                    Curso de C++ Básico </td> <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (14%) </td>
-          </tr>
-          <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter"> <!-- ---------------------------------------------------------------------------------------- PÓS GRADUAÇÃO CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL -->
-               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/>
-                    Ciência de Dados e Inteligência Artificial </td> <td> 360h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando </td>
-          </tr>
-          <tr title="Curso de PHP POO usando Code Igniter 3 - GoPHP"> <!-- ------------------------------------------------------------------------------------------------------------ CURSO DE PHP POO + CODE IGNITER 3 -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/>
-                    Curso de PHP POO com Code Igniter 3</td> <td> 16h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (3%) </td>
-          </tr>
-          <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)"> <!-- --------------------------------------------------------------------------------------------------- CURSO DE REACT BÁSICO -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>
-                    Curso de React Básico </td> <td> 20h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (2%) </td>
-          </tr>
-          <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP"> <!-- ------------------------------------------------------------------------------------------------------------ CURSO DE PHP POO + CODE IGNITER 3 -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/>
-                    Curso de PHP POO com Code Igniter 4</td> <td> 16h </td> <td> <!-- inicio --> </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-          </tr>
-          <tr title="Curso Introdutório de C# - LearnCafe"> <!-- ----------------------------------------------------------------------------------------------------------------------- CURSO DE C# BÁSICO -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/>
-                    Curso de C# Básico </td> <td> 10h </td> <td> <!-- inicio --> </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-          </tr>
-          <tr title="Curso de MySQL - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------------------------- CURSO DE MYSQL -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/>
-                    Curso de MySQL </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-          </tr>
-          <tr title="Curso de WordPress: Módulo 2 - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------- CURSO DE WORDPRESS MÓDULO 2 -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
-                    Curso de WordPress - Módulo 2 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-          </tr>
-          <tr title="Curso de WordPress: Módulo 3 - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------- CURSO DE WORDPRESS MÓDULO 3 -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
-                    Curso de WordPress - Módulo 3 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-          </tr>
-          <tr title="Curso de WordPress: Módulo 4 - Curso Em Vídeo"> <!-- -------------------------------------------------------------------------------------------------------------- CURSO DE WORDPRESS MÓDULO 4 -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
-                    Curso de Wordpress - Módulo 4 </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-          </tr>
-          <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------ CURSO DE PHP MODERNO MÓDULO 1 -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/>
-                    Curso de PHP Moderno - Módulo 1 </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-          </tr>
-          <tr title="Curso de PhotoShop Básico - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- CURSO DE PHOTOSHOP BÁSICO -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="16px" height="16px"/> 
-                    Curso de Photoshop Básico </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-          </tr>
-          <tr title="Curso de Python 3: Módulo 4 - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 4 -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-                    Curso de Python 3 - Módulo 4 </td> <td> 40h </td> <td> N/A </td> <td>  </td> <td> ➖⌛ - Aguardando Curso ser publicado </td>
-          </tr>
-          <tr title="Curso de Python 3: Módulo 5 - Curso Em Vídeo"> <!-- --------------------------------------------------------------------------------------------------------------- CURSO DE PYTHON MÓDULO 5 -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-                    Curso de Python 3 - Módulo 5 </td> <td> 40h </td> <td> N/A </td> <td>  </td> <td> ➖⌛ - Aguardando Curso ser publicado </td>
-          </tr>
-          <tr>
-               <td colspan=5></td>
-          </tr>
-          <tr title="Curso de Inglês Básico: Módulo 3 - Curso Em Vídeo"> <!-- ---------------------------------------------------------------------------------------------------------- CURSO DE INGLÊS -->
-               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-                    Curso de Inglês - Módulo 3 - Básico </td> <td> 20h </td> <td> N/A </td> <td>  </td> <td> ➖⌛ - Aguardando Curso ser publicado </td>
-          </tr>
-          <tr title="Curso de Programação Jogos Em Lua - Eureka Santa Catarina"> <!-- -------------------------------------------------------------------------------------------------- CURSO DE PROGRAMAÇÃO DE JOGOS EM LUA -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="16px" height="16px"/>
-                    Programação Jogos em Lua </td> <td> &nbsp; </td> <td> 11/23 </td> <td> &nbsp; </td> <td> ➖🔒 - Trancado </td>
-          </tr>
-     </tbody>
+ <thead>
+     <tr> <th colspan="2"> Curso </th> <th> Início </th> <th> Conclusão </th> <th> Status </th> </tr>
+ </thead>
+ <tbody>
+     <tr>
+         <td colspan=5></td>
+     </tr>
+     <tr title="Curso de Inglês Intermediário - Prime Cursos">
+         <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Intermediário </td>
+         <td> 50h </td> <td> 05/24 </td> <td> </td> <td> ⏩📖 - Estudando (4%) </td>
+     </tr>
+     <tr title="Curso de Bootstrap 5 - CFB Cursos">
+         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/> Curso de Bootstrap 5 </td>
+         <td> 8h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (49%) </td>
+     </tr>
+     <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">
+         <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>
+         <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (40%) </td>
+     </tr>
+     <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo">
+         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>
+         <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (72%) </td>
+     </tr>
+     <tr title="Curso de Python 3: Módulo 3 - Curso Em Vídeo">
+         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M3 - Intermediário </td>
+         <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (64%) </td>
+     </tr>
+     <tr title="Curso de C++ - CFB Cursos">
+         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
+         <td> 60h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (14%) </td>
+     </tr>
+     <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter">
+         <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Ciência de Dados e Inteligência Artificial </td>
+         <td> 360h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando </td>
+     </tr>
+     <tr title="Curso de PHP POO usando Code Igniter 3 - GoPHP">
+         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 3 </td>
+         <td> 16h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (3%) </td>
+     </tr>
+     <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
+         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
+         <td> 20h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (2%) </td>
+     </tr>
+     <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">
+         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 4 </td>
+         <td> 16h </td> <td> <!-- inicio --> </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+     </tr>
+     <tr title="Curso Introdutório de C# - LearnCafe">
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico </td> <td> 10h </td>
+          <td> <!-- inicio --> </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+     </tr>
+     <tr title="Curso de MySQL - Curso Em Vídeo">
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> Curso de MySQL </td>
+          <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+     </tr>
+     <tr title="Curso de WordPress: Módulo 2 - Curso Em Vídeo">
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 2 </td>
+          <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+     </tr>
+     <tr title="Curso de WordPress: Módulo 3 - Curso Em Vídeo">
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 3 </td>
+          <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+     </tr>
+     <tr title="Curso de WordPress: Módulo 4 - Curso Em Vídeo">
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de Wordpress - Módulo 4 </td>
+          <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+     </tr>
+     <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo">
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP Moderno - Módulo 1 </td>
+          <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+     </tr>
+     <tr title="Curso de PhotoShop Básico - Curso Em Vídeo">
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="16px" height="16px"/> Curso de Photoshop Básico </td>
+          <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+     </tr>
+      <!--
+     <tr title="Curso de Python 3: Módulo 4 - Curso Em Vídeo">
+     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
+         Curso de Python 3 - Módulo 4 </td> <td> 40h </td> <td> N/A </td> <td>  </td> <td> ➖⌛ - Aguardando Curso ser publicado </td>
+     </tr>
+     <tr title="Curso de Python 3: Módulo 5 - Curso Em Vídeo">
+     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
+         Curso de Python 3 - Módulo 5 </td> <td> 40h </td> <td> N/A </td> <td>  </td> <td> ➖⌛ - Aguardando Curso ser publicado </td>
+     </tr>
+     <tr title="Curso de Inglês Básico: Módulo 3 - Curso Em Vídeo"> 
+         <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
+             Curso de Inglês - Módulo 3 - Básico </td> <td> 20h </td> <td> N/A </td> <td>  </td> <td> ➖⌛ - Aguardando Curso ser publicado </td>
+         </tr>-->
+     <tr>
+         <td colspan=5></td>
+     </tr>
+     <tr title="Curso de Programação Jogos Em Lua - Eureka Santa Catarina">
+          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="16px" height="16px"/> Programação Jogos em Lua </td>
+          <td> &nbsp; </td> <td> 11/23 </td> <td> &nbsp; </td> <td> ➖🔒 - Trancado </td>
+     </tr>
+ </tbody>
 </table>
-<br>
-<h1>📊 Status do GitHub</h1>
 
+<br>
+   
+<h1>📊 Status do GitHub</h1>
 <div align="center">
-     <img height="196em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=rank&theme=dark" /> <!-- ---------------------------------------------------------- STATUS E RANK GITHUB -->
-     <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWilsonAT&langs_count=20&layout=compact&show_icons=true&theme=dark&locale=en" alt="KevinWilsonAT" />  <!-- --- TOP LINGUAGENS GITHUB (20) -->
-     <br>
-     <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinWilsonAT&theme=dark" /> <!-- ------------------------------------------------------------- STATUS E GRÁFICO ANUAL GITHUB -->
-     <br>
-     <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinWilsonAT&theme=dark" /> <!-- ---------------------------------------------------------- TOP LINGUAGENS GITHUB POR REPOSITORIO -->
-     <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinWilsonAT&theme=dark" /> <!-- -------------------------------------------------------- TOP LINGUAGENS GITHUB POR COMMIT -->
+   <img height="196em" src="https://github-readme-stats.vercel.app/api?username=KevinWilsonAT&show_icons=true&rank_icon=rank&theme=dark" /> <!-- ---------------------------------------------------------- STATUS E RANK GITHUB -->
+   <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWilsonAT&langs_count=20&layout=compact&show_icons=true&theme=dark&locale=en" alt="KevinWilsonAT" />  <!-- --- TOP LINGUAGENS GITHUB (20) -->
+   <br>
+   <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinWilsonAT&theme=dark" /> <!-- ------------------------------------------------------------- STATUS E GRÁFICO ANUAL GITHUB -->
+   <br>
+   <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinWilsonAT&theme=dark" /> <!-- ---------------------------------------------------------- TOP LINGUAGENS GITHUB POR REPOSITORIO -->
+   <img height="196em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinWilsonAT&theme=dark" /> <!-- -------------------------------------------------------- TOP LINGUAGENS GITHUB POR COMMIT -->
 </div>
 
 <h2>🏆 Troféus do GitHub</h2>
 
 <div align="center">
-     <img src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=3&margin-w=25&margin-h=20&no-frame=true&no-bg=true" /> <!-- ---------------------------------------------- TROFEUS GITHUB -->
+  <img src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=3&margin-w=25&margin-h=20&no-frame=true&no-bg=true" /> <!-- ---------------------------------------------- TROFEUS GITHUB -->
 </div>
-
 <p align="center">
-     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>

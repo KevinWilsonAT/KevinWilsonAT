@@ -30,14 +30,14 @@ at any experience level.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experience with CSS: 8/10 - Learning"><!-- -------------------------------------------- CSS -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Experience with JavaScript: 7/10 - Learning"><!-- ------------------------- JS -->
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Experience with Bootstrap: 6/10 - Learning"><!-- ---------------------------- BOOTSTRAP -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experience with React: Learning"><!-- ---------------------------------------------- REACT-->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experience with React: 5/10 - Learning"><!-- ---------------------------------------------- REACT-->
 <!--<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experience with Tailwind: Learning"><!-- ------------------------------ TAILWIND -->
 
 <h3>Back End:</h3>
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experience with Node.js: Learning"><!-- ----------------------------------------- NODE.JS -->
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experience with PHP: 7/10 - Learning"><!-- ---------------------------------------------- PHP -->
-<img src="https://img.shields.io/badge/CodeIgniter_3-EF4223?&style=for-the-badge&logo=codeigniter&logoColor=white" title="Experience with Code Igniter 3: Learning"><!-- ----------------------- CODE IGNITER 3 -->
+<img src="https://img.shields.io/badge/CodeIgniter_3-EF4223?&style=for-the-badge&logo=codeigniter&logoColor=white" title="Experience with Code Igniter 3: 5/10 - Learning"><!-- ----------------------- CODE IGNITER 3 -->
 <!--<img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experience with Nest.js: Learning"><!-- ----------------------------------------- NEST.JS -->
 <!--
 <h3>Front End / Back End:</h3>
@@ -160,11 +160,11 @@ at any experience level.
           </tr>
           <tr title="English Course: Intermediary - Prime Cursos"> <!-- ----------------------------------------------------------------------------------------------------------------------- ENGLISH COURSE Module 1 to 2 COMPLETED -->
                <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/>
-                    English Course: Intermediary </td> <td> 50h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
+                    English Course: Intermediary </td> <td> 50h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (4%) </td>
           </tr>
           <tr title="Bootstrap 5 Framework Course - CFB Cursos"> <!-- ------------------------------------------------------------------------------------------------------------------------------ BOOTSTRAP 5 COURSE -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/>
-                    Bootstrap 5 Course </td> <td> 8h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (47%) </td>
+                    Bootstrap 5 Course </td> <td> 8h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (49%) </td>
           </tr>
           <tr title="How to announce in the Internet Course - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------- HOW TO ANNOUNCE IN THE INTERNET COURSE -->
                <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/>
@@ -172,7 +172,7 @@ at any experience level.
           </tr>
           <tr title="WordPress Course: Module 1 - Curso Em Vídeo"> <!-- ----------------------------------------------------------------------------------------------------------------------------- WORDPRESS COURSE MODULE 1 -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/>
-                    WordPress - Module 1 Course </td> <td> 40h </td> <td> Jan. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (70%) </td>
+                    WordPress - Module 1 Course </td> <td> 40h </td> <td> Jan. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (72%) </td>
           </tr>
           <tr title="Python 3 Course: Módulo 3 - Curso Em Vídeo"> <!-- ------------------------------------------------------------------------------------------------------------------------------ PYTHON COURSE MODULE 3 -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
@@ -188,11 +188,11 @@ at any experience level.
           </tr>
           <tr title="PHP OOP Course using Code Igniter 3 - GoPHP"> <!-- ----------------------------------------------------------------------------------------------------------------------------- PHP OOP COURSE + CODE IGNITER 3 -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/>
-                    PHP OOP Course with Code Igniter 3 </td> <td> 16h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
+                    PHP OOP Course with Code Igniter 3 </td> <td> 16h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (3%) </td>
           </tr>
           <tr title="React Basic Course - Matheus Battisti (Hora de Codar)"> <!-- -------------------------------------------------------------------------------------------------------------------- REACT BASIC COURSE -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>
-                    React - Basic Course </td> <td> 20h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
+                    React - Basic Course </td> <td> 20h </td> <td> May 2024 </td> <td>  </td> <td> ⏩📖 - Studying (2%) </td>
           </tr>
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP"> <!-- ----------------------------------------------------------------------------------------------------------------------------- PHP OOP COURSE + CODE IGNITER 3 -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/>

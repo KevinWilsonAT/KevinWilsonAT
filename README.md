@@ -169,11 +169,11 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de Inglês Intermediário - Prime Cursos">
          <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Intermediário </td>
-         <td> 50h </td> <td> 05/24 </td> <td> </td> <td> ⏩📖 - Estudando (11%) </td>
+         <td> 50h </td> <td> 05/24 </td> <td> </td> <td> ⏩📖 - Estudando (14%) </td>
      </tr>
      <tr title="Curso de Bootstrap 5 - CFB Cursos">
          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/> Curso de Bootstrap 5 </td>
-         <td> 8h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (53%) </td>
+         <td> 8h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (57%) </td>
      </tr>
      <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">
          <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>
@@ -181,11 +181,11 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo">
          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>
-         <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (74%) </td>
+         <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (79%) </td>
      </tr>
      <tr title="Curso de Python 3: Módulo 3 - Curso Em Vídeo">
          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M3 - Intermediário </td>
-         <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (64%) </td>
+         <td> 40h </td> <td> 02/24 </td> <td>  </td> <td> ⏩📖 - Estudando (66%) </td>
      </tr>
      <tr title="Curso de C++ - CFB Cursos">
          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
@@ -197,11 +197,11 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de PHP POO usando Code Igniter 3 - GoPHP">
          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 3 </td>
-         <td> 16h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (3%) </td>
+         <td> 16h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (6%) </td>
      </tr>
      <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
-         <td> 20h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (2%) </td>
+         <td> 20h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (3%) </td>
      </tr>
      <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">
          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 4 </td>

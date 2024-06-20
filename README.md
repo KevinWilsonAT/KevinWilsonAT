@@ -169,15 +169,15 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de Inglês Intermediário - Prime Cursos">
          <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Intermediário </td>
-         <td> 50h </td> <td> 05/24 </td> <td> </td> <td> ⏩📖 - Estudando (50%) </td>
+         <td> 50h </td> <td> 05/24 </td> <td> </td> <td> ⏩📖 - Estudando (54%) </td>
      </tr>
      <tr title="Curso de Bootstrap 5 - CFB Cursos">
          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/> Curso de Bootstrap 5 </td>
-         <td> 8h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (57%) </td>
+         <td> 8h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (67%) </td>
      </tr>
      <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">
          <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>
-         <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (48%) </td>
+         <td> 40h </td> <td> 03/24 </td> <td>  </td> <td> ⏩📖 - Estudando (50%) </td>
      </tr>
      <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo">
          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>

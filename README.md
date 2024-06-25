@@ -173,7 +173,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de Bootstrap 5 - CFB Cursos">
          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/> Curso de Bootstrap 5 </td>
-         <td> 8h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (82%) </td>
+         <td> 8h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (92%) </td>
      </tr>
      <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">
          <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>

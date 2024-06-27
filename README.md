@@ -26,7 +26,7 @@ em qualquer nível de experiência.
 <img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" title="Experiência com HTML: 8/10 - Em Aprendizado"><!-- ---------------------- LINGUAGEM HTML -->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experiência com CSS: 8/10 - Em Aprendizado"><!-- ------------------------- LINGUAGEM CSS -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Experiência com JavaScript: 7/10 - Em Aprendizado"><!-- ------ LINGUAGEM JS -->
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Experiência com Bootstrap: 6/10 - Em Aprendizado"><!-- --------- FRAMEWORK BOOTSTRAP -->
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Experiência com Bootstrap: 7/10 - Em Aprendizado"><!-- --------- FRAMEWORK BOOTSTRAP -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experiência com React: 5/10 - Em Aprendizado"><!-- -------------------- FRAMEWORK REACT-->
 <!--<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experiência com Tailwind: Em Aprendizado">--><!-- ----------- FRAMEWORK TAILWIND -->
 
@@ -181,7 +181,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo">
          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>
-         <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (79%) </td>
+         <td> 40h </td> <td> 01/24 </td> <td>  </td> <td> ⏩📖 - Estudando (83%) </td>
      </tr>
      <tr title="Curso de Python 3: Módulo 3 - Curso Em Vídeo">
          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M3 - Intermediário </td>
@@ -201,7 +201,7 @@ em qualquer nível de experiência.
      </tr>
      <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
-         <td> 20h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (7%) </td>
+         <td> 20h </td> <td> 05/24 </td> <td>  </td> <td> ⏩📖 - Estudando (10%) </td>
      </tr>
      <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">
          <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 4 </td>

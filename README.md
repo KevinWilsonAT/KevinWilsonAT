@@ -173,7 +173,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de MySQL - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> Curso de MySQL </td>
-            <td> 40h </td> <td> 06/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (20%) </td>
+            <td> 40h </td> <td> 06/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (25%) </td>
         </tr>
         <tr title="Curso de Inglês Intermediário - Prime Cursos">
             <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Intermediário </td>
@@ -181,7 +181,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>
-            <td> 40h </td> <td> 03/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (50%) </td>
+            <td> 40h </td> <td> 03/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (52%) </td>
         </tr>
         <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>
@@ -193,7 +193,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
-            <td> 60h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (18%) </td>
+            <td> 60h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (19%) </td>
         </tr>
         <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Ciência de Dados e Inteligência Artificial </td>

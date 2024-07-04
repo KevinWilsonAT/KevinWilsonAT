@@ -95,8 +95,8 @@ at any experience level.
 
 <a href="https://www.linkedin.com/in/kwat1/" title="LinkedIn" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <!-- ------------------------------------------------------- LINKEDIN -->
-<a href="https://www.instagram.com/kevin.wilson.a.t/" title="Instagram" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <!-- ---------------------------------------------------- INSTAGRAM -->
+<!-- <a href="https://www.instagram.com/kevin.wilson.a.t/" title="Instagram" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> --> <!-- ---------------------------------------------------- INSTAGRAM -->
 <a href="mailto:kevin.dkc.wat@gmail.com" title="Gmail" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <!-- ---------------------------------------------------------------- GMAIL -->
 <a href="mailto:kevin.dkc.wat@outlook.com" title="Outlook" target="_blank">
@@ -162,7 +162,7 @@ at any experience level.
           </tr>
           <tr> <td colspan=5></td> </tr>
           <tr title="English Course: Intermediary - Prime Cursos">
-               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English Course: Intermediary </td> <td> 50h </td> <td> May 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (64%) </td>
+               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English Course: Intermediary </td> <td> 50h </td> <td> May 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (99%) </td>
           </tr>
           <tr title="How to announce in the Internet Course - Curso Em Vídeo">
                <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> How to announce in the Internet Course </td> <td> 40h </td> <td> March 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 -  Studying (52%) </td>

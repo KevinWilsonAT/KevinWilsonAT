@@ -92,8 +92,8 @@ em qualquer nível de experiência.
 
 <a href="https://www.linkedin.com/in/kwat1/" title="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <!-- ------------------------------------------ LINKEDIN -->
-<a href="https://www.instagram.com/kevin.wilson.a.t/" title="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <!-- --------------------------------------- INSTAGRAM -->
+<!-- <a href="https://www.instagram.com/kevin.wilson.a.t/" title="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> --><!-- --------------------------------------- INSTAGRAM -->
 <a href="mailto:kevin.dkc.wat@gmail.com" title="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <!-- --------------------------------------------------- GMAIL -->
 <a href="mailto:kevin.dkc.wat@outlook.com" title="Outlook" target="_blank">
@@ -177,7 +177,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Inglês Intermediário - Prime Cursos">
             <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Intermediário </td>
-            <td> 50h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (64%) </td>
+            <td> 50h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (99%) </td>
         </tr>
         <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>

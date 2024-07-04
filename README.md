@@ -173,7 +173,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de MySQL - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> Curso de MySQL </td>
-            <td> 40h </td> <td> 06/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (30%) </td>
+            <td> 40h </td> <td> 06/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (50%) </td>
         </tr>
         <tr title="Curso de Inglês Intermediário - Prime Cursos">
             <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Intermediário </td>

@@ -158,7 +158,7 @@ at any experience level.
      </thead>
      <tbody>
           <tr title="MySQL Course - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> MySQL Course </td> <td> 40h </td> <td> June 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (65%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> MySQL Course </td> <td> 40h </td> <td> June 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (70%) </td>
           </tr>
           <tr> <td colspan=5></td> </tr>
           <tr title="English Course: Intermediary - Prime Cursos">

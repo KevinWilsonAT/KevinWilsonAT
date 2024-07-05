@@ -189,7 +189,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Python 3: Módulo 3 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M3 - Intermediário </td>
-            <td> 40h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (75%) </td>
+            <td> 40h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (77%) </td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>

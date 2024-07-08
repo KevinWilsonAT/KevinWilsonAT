@@ -94,13 +94,12 @@ at any experience level.
 <h2>📞 Contact:</h2>
 
 <a href="https://www.linkedin.com/in/kwat1/" title="LinkedIn" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <!-- ------------------------------------------------------- LINKEDIN -->
-<!-- <a href="https://www.instagram.com/kevin.wilson.a.t/" title="Instagram" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> --> <!-- ---------------------------------------------------- INSTAGRAM -->
-<a href="mailto:kevin.dkc.wat@gmail.com" title="Gmail" target="_blank">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <!-- ---------------------------------------------------------------- GMAIL -->
-<a href="mailto:kevin.dkc.wat@outlook.com" title="Outlook" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:tech_x.multi.dev2954@outlook.com" title="Outlook" target="_blank">
      <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a> <!-- -------------------------------------- OUTLOOK -->
+<a href="https://www.behance.net/techx_multidev" title="BeHance" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white
+    " alt="BeHance"/></a> <!-- ------------------------------------------ BEHANCE -->
      
 <h2>📖 2024 Courses</h2>
 

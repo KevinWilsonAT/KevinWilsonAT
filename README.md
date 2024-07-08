@@ -95,8 +95,7 @@ em qualquer nível de experiência.
 <a href="mailto:tech_x.multi.dev2954@outlook.com" title="Outlook" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a> <!-- ------------------------- OUTLOOK -->
 <a href="https://www.behance.net/techx_multidev" title="BeHance" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white
-    " alt="BeHance"/></a> <!-- ------------------------------------------ BEHANCE -->
+    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="BeHance"/></a> <!-- ------------------------------------------ BEHANCE -->
 
 <h2>📖 Cursos para 2024</h2>
    

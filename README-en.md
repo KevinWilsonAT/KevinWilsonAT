@@ -126,7 +126,7 @@ at any experience level.
           <tr title="PHP Basic Course - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP - Basic and OOP Course </td> <td> 80h </td> <td> Jan. 2024 </td> <td> May 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
-          <tr title="Python 3 Course: Modules 1 and 2 - Curso Em Vídeo"> PYTHON COURSE MODULE 1 to 2 COMPLETED -->
+          <tr title="Python 3 Course: Modules 1 and 2 - Curso Em Vídeo"> <!-- PYTHON COURSE MODULE 1 to 2 COMPLETED -->
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Python 3 - Module 1 and 2 - Basic Course </td> <td> 80h </td> <td> Dec. 2023 </td> <td> Feb. 2024 </td> <td> ⌛✔️ - Completed (2/5) </td>
           </tr>
           <tr title="Java Basic Course- Curso Em Vídeo">

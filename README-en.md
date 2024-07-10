@@ -163,7 +163,7 @@ at any experience level.
      <tbody>
           <tr> <td colspan=5></td> </tr>
           <tr title="WordPress Course: Module 1 - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 1 Course </td> <td> 40h </td> <td> Jan. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (83%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 1 Course </td> <td> 40h </td> <td> Jan. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (87%) </td>
           </tr>
           <tr title="Python 3 Course: Módulo 3 - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Python 3 - Module 3 - Intermediary Course </td> <td> 40h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (77%) </td>

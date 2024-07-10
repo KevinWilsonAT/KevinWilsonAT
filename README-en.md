@@ -150,6 +150,9 @@ at any experience level.
           <tr title="English Course: Intermediary - Prime Cursos">
                <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English Course: Intermediary </td> <td> 50h </td> <td> May 2024 </td> <td> July 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
+          <tr title="MySQL Course - Curso Em Vídeo">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> MySQL Course </td> <td> 40h </td> <td> June 2024 </td> <td> July 2024 </td> <td> ⌛✔️ - Completed </td>
+          </tr>
      </tbody>
      </table>
 </details>
@@ -159,9 +162,6 @@ at any experience level.
      </thead>
      <tbody>
           <tr> <td colspan=5></td> </tr>
-          <tr title="MySQL Course - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> MySQL Course </td> <td> 40h </td> <td> June 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (95%) </td>
-          </tr>
           <tr title="How to announce in the Internet Course - Curso Em Vídeo">
                <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> How to announce in the Internet Course </td> <td> 40h </td> <td> March 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 -  Studying (52%) </td>
           </tr>

@@ -177,10 +177,6 @@ em qualquer nível de experiência.
         <tr>
             <td colspan=5></td>
         </tr>
-        <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">
-            <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>
-            <td> 40h </td> <td> 03/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (52%) </td>
-        </tr>
         <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>
             <td> 40h </td> <td> 01/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (83%) </td>
@@ -189,17 +185,21 @@ em qualquer nível de experiência.
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M3 - Intermediário </td>
             <td> 40h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (77%) </td>
         </tr>
+        <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">
+            <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>
+            <td> 40h </td> <td> 03/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (52%) </td>
+        </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
             <td> 60h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (19%) </td>
         </tr>
-        <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter">
-            <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Ciência de Dados e Inteligência Artificial </td>
-            <td> 360h </td> <td> 03/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando </td>
-        </tr>
         <tr title="Curso de PHP POO usando Code Igniter 3 - GoPHP">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 3 </td>
             <td> 16h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (15%) </td>
+        </tr>
+        <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter">
+            <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Ciência de Dados e Inteligência Artificial </td>
+            <td> 360h </td> <td> 03/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando </td>
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>

@@ -95,8 +95,8 @@ at any experience level.
 
 <a href="https://www.linkedin.com/in/kwat1/" title="LinkedIn" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:tech_x.multi.dev2954@outlook.com" title="Outlook" target="_blank">
-     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a> <!-- -------------------------------------- OUTLOOK -->
+<a href="mailto:techx.dev.2024@gmail.com" title="Gmail" target="_blank">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <!-- -------------------------------------- GMAIL -->
 <a href="https://www.behance.net/techx_multidev" title="BeHance" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="BeHance"/></a> <!-- ------------------------------------------ BEHANCE -->
      

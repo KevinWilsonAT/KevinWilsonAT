@@ -177,6 +177,10 @@ em qualquer nível de experiência.
         <tr>
             <td colspan=5></td>
         </tr>
+        <tr title="WordPress para Iniciantes e Experientes - Descomplicando Sites">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress para Iniciantes e Experientes - Descomplicando Sites </td>
+            <td> 5h </td> <td> <!-- inicio --> </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
         <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>
             <td> 40h </td> <td> 01/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (89%) </td>

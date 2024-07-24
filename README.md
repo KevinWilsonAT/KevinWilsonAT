@@ -183,7 +183,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>
-            <td> 40h </td> <td> 01/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (97%) </td>
+            <td> 40h </td> <td> 01/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (99%) </td>
         </tr>
         <tr title="Curso de Python 3: Módulo 3 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M3 - Intermediário </td>
@@ -191,7 +191,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>
-            <td> 40h </td> <td> 03/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (57%) </td>
+            <td> 40h </td> <td> 03/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (60%) </td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
@@ -207,7 +207,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
-            <td> 20h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (10%) </td>
+            <td> 20h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (14%) </td>
         </tr>
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 4 </td>

@@ -127,9 +127,9 @@ em qualquer nível de experiência.
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP - Básico e POO </td>
                 <td> 80h </td> <td> 01/24 </td> <td> 05/24 </td> <td> ⌛✔️ - Concluído </td>
             </tr>
-            <tr title="Curso de Python 3: Módulos 1 e 2 - Curso Em Vídeo">
-                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M1 e M2 - Básico </td>
-                <td> 80h </td> <td> 12/23 </td> <td> 02/24 </td> <td> ⌛✔️ - Concluído (2 / 5) </td>
+            <tr title="Curso de Python 3: Módulos 1 a 3 - Curso Em Vídeo">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M1 a M3 - Básico e Intermediário</td>
+                <td> 120h </td> <td> 12/23 </td> <td> 08/24 </td> <td> ⌛✔️ - Concluído (3 / 5) </td>
             </tr>
             <tr title="Curso de Java Básico - Curso Em Vídeo">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/> Curso de Java - Básico e POO </td>
@@ -184,10 +184,6 @@ em qualquer nível de experiência.
         <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>
             <td> 40h </td> <td> 01/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (99%) </td>
-        </tr>
-        <tr title="Curso de Python 3: Módulo 3 - Curso Em Vídeo">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M3 - Intermediário </td>
-            <td> 40h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (95%) </td>
         </tr>
         <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>

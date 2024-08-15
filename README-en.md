@@ -126,8 +126,8 @@ at any experience level.
           <tr title="PHP Basic Course - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP - Basic and OOP Course </td> <td> 80h </td> <td> Jan. 2024 </td> <td> May 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
-          <tr title="Python 3 Course: Modules 1 and 2 - Curso Em Vídeo"> <!-- PYTHON COURSE MODULE 1 to 2 COMPLETED -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Python 3 - Module 1 and 2 - Basic Course </td> <td> 80h </td> <td> Dec. 2023 </td> <td> Feb. 2024 </td> <td> ⌛✔️ - Completed (2/5) </td>
+          <tr title="Python 3 Course: Modules 1, 2 and 3 - Curso Em Vídeo"> <!-- PYTHON COURSE MODULE 1 to 3 COMPLETED -->
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Python 3 - Module 1, 2 and 3 - Courses </td> <td> 120h </td> <td> Dec. 2023 </td> <td> Aug. 2024 </td> <td> ⌛✔️ - Completed (3/5) </td>
           </tr>
           <tr title="Java Basic Course- Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/> Java - Basic and OOP Course </td> <td> 80h </td> <td> Feb. 2024 </td> <td> May 2024 </td> <td> ⌛✔️ - Completed </td>
@@ -168,9 +168,6 @@ at any experience level.
           </tr>
           <tr title="WordPress Course: Module 1 - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 1 Course </td> <td> 40h </td> <td> Jan. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (99%) </td>
-          </tr>
-          <tr title="Python 3 Course: Módulo 3 - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Python 3 - Module 3 - Intermediary Course </td> <td> 40h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (95%) </td>
           </tr>
           <tr title="How to announce in the Internet Course - Curso Em Vídeo">
                <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> How to announce in the Internet Course </td> <td> 40h </td> <td> March 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 -  Studying (64%) </td>

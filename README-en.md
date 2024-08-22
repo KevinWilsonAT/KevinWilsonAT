@@ -173,7 +173,7 @@ at any experience level.
                <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> How to announce in the Internet Course </td> <td> 40h </td> <td> March 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 -  Studying (64%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (21%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (22%) </td>
           </tr>
           <tr title="PHP OOP Course using Code Igniter 3 - GoPHP">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td> <td> 16h </td> <td> May 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (15%) </td>

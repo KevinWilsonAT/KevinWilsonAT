@@ -189,13 +189,9 @@ em qualquer nível de experiência.
             <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>
             <td> 40h </td> <td> 03/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (64%) </td>
         </tr>
-        <tr title="Curso de C++ - CFB Cursos">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
-            <td> 60h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (22%) </td>
-        </tr>
         <tr title="Curso de PHP POO usando Code Igniter 3 - GoPHP">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 3 </td>
-            <td> 16h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (15%) </td>
+            <td> 16h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (18%) </td>
         </tr>
         <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Ciência de Dados e Inteligência Artificial </td>
@@ -269,6 +265,10 @@ em qualquer nível de experiência.
             -->
         <tr>
             <td colspan=5></td>
+        </tr>
+        <tr title="Curso de C++ - CFB Cursos">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
+            <td> 60h </td> <td> 02/24 </td> <td> &nbsp; </td> <td> ⏩📖 - Descontinuado (22%) </td>
         </tr>
         <tr title="Curso de Programação Jogos Em Lua - Eureka Santa Catarina">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="16px" height="16px"/> Programação Jogos em Lua </td>

@@ -237,7 +237,7 @@ at any experience level.
                <td colspan=5></td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> &nbsp; </td> <td> ⏩📖 - Discontinued (22%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> &nbsp; </td> <td> ⏹️ - Discontinued (22%) </td>
           </tr>
           <tr title="Lua Game Programming Course - Eureka Santa Catarina">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="16px" height="16px"/> Lua Game Programming </td> <td> &nbsp; </td> <td> Nov. 2023 </td> <td> &nbsp; </td> <td> ➖🔒 - Locked </td>

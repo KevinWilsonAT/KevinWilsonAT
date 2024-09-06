@@ -88,6 +88,12 @@ em qualquer nível de experiência.
 <h4>Outros Softwares:</h4>
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=windows&logoColor=white" title="Experiência com Office: 6/10"><!-- ------------------------ MS OFFICE -->
 
+<h4>Photo / Vídeo</h4>
+
+<img src="https://img.shields.io/badge/Camtasia-57A700?style=for-the-badge&logo=C&logoColor=white" title="Experiência com Camtasia: 6/10"><!-- ------------------------------------ CAMTASIA -->
+<img src="https://img.shields.io/badge/Photofiltre-DAE900?style=for-the-badge&logoColor=white" title="Experiência com Photofiltre: 6/10"><!-- ------------------------------------- PHOTOFILTRE -->
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" title="Experiência com Canva: 6/10"><!-- ------------------------------ CANVA -->
+
 <h2>📞 Contato:</h2>
 
 <a href="https://www.linkedin.com/in/kwat1/" title="LinkedIn" target="_blank">
@@ -163,6 +169,10 @@ em qualquer nível de experiência.
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> Curso de MySQL </td>
             <td> 40h </td> <td> 06/24 </td> <td> 07/24 </td> <td> ⌛✔️ - Concluído </td>
         </tr>
+        <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>
+            <td> 40h </td> <td> 01/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (99%) </td>
+        </tr>
         </tbody>
     </table>
 </details>
@@ -180,10 +190,6 @@ em qualquer nível de experiência.
         <tr title="WordPress para Iniciantes e Experientes - Descomplicando Sites">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress para Iniciantes e Experientes - Descomplicando Sites </td>
             <td> 5h </td> <td> <!-- inicio --> </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (0%) </td>
-        </tr>
-        <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>
-            <td> 40h </td> <td> 01/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (99%) </td>
         </tr>
         <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>

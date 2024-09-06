@@ -88,7 +88,7 @@ em qualquer nível de experiência.
 <h4>Outros Softwares:</h4>
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=windows&logoColor=white" title="Experiência com Office: 6/10"><!-- ------------------------ MS OFFICE -->
 
-<h4>Photo / Vídeo</h4>
+<h4>Foto / Vídeo</h4>
 
 <img src="https://img.shields.io/badge/Camtasia-57A700?style=for-the-badge&logo=C&logoColor=white" title="Experiência com Camtasia: 6/10"><!-- ------------------------------------ CAMTASIA -->
 <img src="https://img.shields.io/badge/Photofiltre-DAE900?style=for-the-badge&logoColor=white" title="Experiência com Photofiltre: 6/10"><!-- ------------------------------------- PHOTOFILTRE -->

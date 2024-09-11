@@ -170,7 +170,12 @@ at any experience level.
          <tr> <th colspan=2> Course </th> <th> Beginning </th> <th> Completion </th> <th> Status </th> </tr>
      </thead>
      <tbody>
-          <tr> <td colspan=5></td> </tr>
+          <tr>
+               <td colspan=5></td>
+          </tr>
+          <tr title="C++ Course - CFB Cursos">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (22%) </td>
+          </tr>
           <tr title="WordPress for Beginners and Experts - Descomplicando Sites">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress for Beginners and Experts - Descomplicando Sites </td>
             <td> 5h </td> <td> July 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (31%) </td>
@@ -241,9 +246,6 @@ at any experience level.
           -->
           <tr>
                <td colspan=5></td>
-          </tr>
-          <tr title="C++ Course - CFB Cursos">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> &nbsp; </td> <td> ⏹️ - Discontinued (22%) </td>
           </tr>
           <tr title="Lua Game Programming Course - Eureka Santa Catarina">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="16px" height="16px"/> Lua Game Programming </td> <td> &nbsp; </td> <td> Nov. 2023 </td> <td> &nbsp; </td> <td> ➖🔒 - Locked </td>

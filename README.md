@@ -203,7 +203,7 @@ em qualquer nível de experiência.
             <td> 60h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (22%) </td>
         </tr>
         <tr title="WordPress para Iniciantes e Experientes - Descomplicando Sites">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress para Iniciantes e Experientes - Descomplicando Sites </td>
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress para Iniciantes e Experientes </td>
             <td> 5h </td> <td> 07/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (94%) </td>
         </tr>
         <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">

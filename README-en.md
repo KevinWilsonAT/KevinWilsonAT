@@ -186,7 +186,7 @@ at any experience level.
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (22%) </td>
           </tr>
           <tr title="WordPress for Beginners and Experts - Descomplicando Sites">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress for Beginners and Experts - Descomplicando Sites </td>
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress for Beginners and Experts </td>
             <td> 5h </td> <td> July 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (94%) </td>
           </tr>
           <tr title="How to announce in the Internet Course - Curso Em Vídeo">

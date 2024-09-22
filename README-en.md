@@ -11,7 +11,7 @@
 
 <a href="README.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></a> | <img width="24px" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png">
 </p> 
-Graduated in Systems Analysis and Development in 2017, postgraduate in Teaching in Information Systems in 2023 and pursuing a postgraduate degree in Data Science
+Graduated in Systems Analysis and Development in 2017, and pursuing a postgraduate degree in Data Science
 and Artificial Intelligence in 2024.
 
 I'm a Web and Sotfware Developer since 2023. I believe that in learning, in addition to programming efficiency,

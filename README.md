@@ -212,7 +212,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de PHP POO usando Code Igniter 3 - GoPHP">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 3 </td>
-            <td> 16h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (24%) </td>
+            <td> 16h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (48%) </td>
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>

@@ -200,7 +200,7 @@ em qualquer nível de experiência.
             <td> 20h </td> <td> <!-- inicio --> </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (15%) </td>
         </tr>
         <tr title="Curso de Android Studio: Módulo 00 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 00 </td> <td> <!----> </td> <td> 09/24 </td> <td> <!-- end --> </td> <td> ⏩📖 - Estudando (27%) </td>
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 00 </td> <td> <!----> </td> <td> 09/24 </td> <td> <!-- end --> </td> <td> ⏩📖 - Estudando (45%) </td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
@@ -224,7 +224,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de WordPress: Módulo 3 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 3 </td>
-            <td> 40h </td> <td> <!-- inicio --> </td> <td> <!-- fim --> </td> <td> ➖⌛ - Aguardando </td>
+            <td> 40h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (6%) </td>
         </tr>
         <tr title="Curso de WordPress: Módulo 4 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de Wordpress - Módulo 4 </td>

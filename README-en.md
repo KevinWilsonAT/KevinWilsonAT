@@ -169,6 +169,7 @@ at any experience level.
      </tbody>
      </table>
 </details>
+
 <table width="100%">
      <thead>
          <tr> <th colspan=2> Course </th> <th> Beginning </th> <th> Completion </th> <th> Status </th> </tr>
@@ -184,7 +185,7 @@ at any experience level.
                <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English - Module 3 - Basic Course </td> <td> 20h </td> <td> <!-- start --> </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (15%) </td>
           </tr>
           <tr title="Android Studio Course: Module 00 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 00 </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (27%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 00 </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (45%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (22%) </td>
@@ -202,7 +203,7 @@ at any experience level.
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Data Science and Artificial Intelligence </td> <td> 360h </td> <td> March 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying </td>
           </tr>
           <tr title="WordPress Course: Module 3 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 3 Course </td> <td> 40h </td> <td> <!-- start --> </td> <td> <!-- end --> </td> <td> ➖⌛ - Waiting </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 3 Course </td> <td> 40h </td> <td> Sept. 2023 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (6%) </td>
           </tr>
           <tr title="WordPress Course: Module 4 - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Wordpress - Module 4 Course </td> <td> 20h </td> <td> <!-- start --> </td> <td> <!-- end --> </td> <td> ➖⌛ - Waiting </td>

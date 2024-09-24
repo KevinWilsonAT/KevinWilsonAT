@@ -197,7 +197,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Inglês Básico: Módulo 3 - Curso Em Vídeo"> 
             <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Módulo 3 - Básico </td>
-            <td> 20h </td> <td> <!-- inicio --> </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (15%) </td>
+            <td> 20h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (19%) </td>
         </tr>
         <tr title="Curso de Android Studio: Módulo 00 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 00 </td> <td> <!----> </td> <td> 09/24 </td> <td> <!-- end --> </td> <td> ⏩📖 - Estudando (45%) </td>

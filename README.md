@@ -59,6 +59,8 @@ em qualquer nível de experiência.
 
 <img src="https://img.shields.io/badge/Flet-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Experiência com Flet: Em Aprendizado"><!-- --------------------- FRAMEWORK FLET -->
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experiência com Lua: 6/10 - Em Aprendizado"><!-- --------------------------- LINGUAGEM LUA -->
+<!-- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
+" title="Experiência com Kotlin: - Em Aprendizado"><!-- --------------------------- LINGUAGEM KOTLIN -->
 <!--<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experiência com Dart: Em Aprendizado"><!-- ------------------------------- LINGUAGEM DART -->
 
 <h3>Plataformas, Softwares e IDEs:</h3>
@@ -81,6 +83,8 @@ em qualquer nível de experiência.
 <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experiência com Solar 2D: 7/10"><!-- --------------------------- SOLAR -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experiência com Git: Em Aprendizado"><!-- ---------------------------------- GIT -->
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" title="Experiência com RStudio: 5/10"><!-- -------------------------------- R STUDIO -->
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" title="Experiência com Android Studio: 5/10"><!-- --------------- ANDROID STUDIO
+-->
 <!--
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge" title="Experiência com Visual Studio: 5/10"><!-- --------------- VISUAL STUDIO
 -->
@@ -177,6 +181,9 @@ em qualquer nível de experiência.
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress para Iniciantes e Experientes </td>
             <td> 5h </td> <td> 07/24 </td> <td> 09/24 </td> <td> ⌛✔️ - Concluído </td>
         </tr>
+        <tr title="Curso de Android Studio: Módulo 00 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 00 </td> <td> 20h </td> <td> 09/24 </td> <td> 09/24 </td> <td> 🌟✔️ - Concluído </td>
+        </tr>
         </tbody>
     </table>
 </details>
@@ -200,7 +207,7 @@ em qualquer nível de experiência.
             <td> 20h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (27%) </td>
         </tr>
         <tr title="Curso de Android Studio: Módulo 00 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 00 </td> <td> <!----> </td> <td> 09/24 </td> <td> <!-- end --> </td> <td> ⏩📖 - Estudando (73%) </td>
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 01 </td> <td> <!----> </td> <td> 09/24 </td> <td> <!-- end --> </td> <td> ⏩📖 - Estudando (0%) </td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>

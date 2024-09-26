@@ -59,8 +59,10 @@ at any experience level.
 
 <h3>Mobile:</h3>
 
-<img src="https://img.shields.io/badge/Flet-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Experiência com Flet: Em Aprendizado"><!-- --------------------------------- FLET -->
+<img src="https://img.shields.io/badge/Flet-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Experience with Flet: Learning"><!-- --------------------------------- FLET -->
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experience with Lua: 6/10 - Learning"><!-- --------------------------------------------- LUA -->
+<!-- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
+" title="Experiência com Kotlin: - Learning"><!-- ---------------------------  KOTLIN -->
 <!--<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experience with Dart: Learning"><!-- ------------------------------------------------- DART -->
 
 <h3>Platforms, Softwares and IDEs:</h3>
@@ -83,6 +85,8 @@ at any experience level.
 <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experience with Solar 2D: 7/10"><!-- --------------------------------------- SOLAR 2D -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experience with Git: 5/10"><!-- -------------------------------------------------------- GIT -->
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" title="Experience with RStudio: 5/10"><!-- -------------------------------------------- R STUDIO -->
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" title="Experience with Android Studio: 5/10"><!-- --------------------------- ANDROID STUDIO
+-->
 <!--
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge" title="Experience with Visual Studio: 5/10"><!-- --------------------------- VISUAL STUDIO
 -->
@@ -121,7 +125,7 @@ at any experience level.
           </tr>
           <tr title="Journey: Python Intensive Course - Hashtag Treinamentos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-               Python Intensive Course </td> <td> 8h </td> <td> March 2024 </td> <td> March 2024 </td> <td> 🌟✔️ - Completed</td> 
+               Python Intensive Course </td> <td> 8h </td> <td> March 2024 </td> <td> March 2024 </td> <td> 🌟✔️ - Completed </td> 
           </tr>
           <tr title="C Basic Course - Pietro Martins">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C - Basic Course </td> <td> 15h </td> <td> Jan. 2024 </td> <td> Feb. 2024 </td> <td> ✔️✔️ - Completed </td>
@@ -166,6 +170,9 @@ at any experience level.
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress for Beginners and Experts </td>
             <td> 5h </td> <td> July 2024 </td> <td> Sept. 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
+          <tr title="Android Studio Course: Module 00 - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 00 </td> <td> 20h </td> <td> Sept 2024 </td> <td> Sept 2024 </td> <td> 🌟✔️ - Completed </td>
+          </tr>
      </tbody>
      </table>
 </details>
@@ -185,7 +192,7 @@ at any experience level.
                <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English - Module 3 - Basic Course </td> <td> 20h </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (27%) </td>
           </tr>
           <tr title="Android Studio Course: Module 00 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 00 </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (73%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 01 </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (0%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (22%) </td>

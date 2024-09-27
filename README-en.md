@@ -210,7 +210,7 @@ at any experience level.
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Data Science and Artificial Intelligence </td> <td> 360h </td> <td> March 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying </td>
           </tr>
           <tr title="WordPress Course: Module 3 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 3 Course </td> <td> 40h </td> <td> Sept. 2023 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (18%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 3 Course </td> <td> 40h </td> <td> Sept. 2023 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (24%) </td>
           </tr>
           <tr title="WordPress Course: Module 4 - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Wordpress - Module 4 Course </td> <td> 20h </td> <td> <!-- start --> </td> <td> <!-- end --> </td> <td> ➖⌛ - Waiting </td>

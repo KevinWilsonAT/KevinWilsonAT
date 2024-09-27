@@ -192,7 +192,7 @@ at any experience level.
                <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English - Module 3 - Basic Course </td> <td> 20h </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (27%) </td>
           </tr>
           <tr title="Android Studio Course: Module 00 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 01 </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (0%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 01 </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (29%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (22%) </td>

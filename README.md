@@ -10,11 +10,9 @@
 <p align="left">
     <img width="24px" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"> | <a href="README-en.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"></a>
 </p>
-Formado em Análise de Sistemas em 2017 e cursando pós-graduação em Ciência
-de Dados e Inteligência Artificial em 2024.
+Formado em Análise de Sistemas em 2017 e pós-graduado em Ciência de Dados e Inteligência Artificial em 2024.
 
-Sou Desenvolvedor Web e Desenvolvedor de Software há 1 ano. Acredito que no aprendizado, além da eficiência na programação, também é 
-necessário ser alguém que esteja sempre disposto a <strong>aprender</strong>, <strong>interagir</strong>, <strong>inovar</strong>, <strong>se adaptar para crescer</strong>.
+Sou Desenvolvedor Web e Desenvolvedor de Software há 1 ano. Acredito que no aprendizado, além da eficiência na programação, também é necessário ser alguém que esteja sempre disposto a <strong>aprender</strong>, <strong>interagir</strong>, <strong>inovar</strong>, <strong>se adaptar para crescer</strong>.
   
 Para mim, uma boa programação deve ser limpa e de fácil leitura, com códigos compreensíveis a desenvolvedores
 em qualquer nível de experiência.
@@ -166,28 +164,31 @@ em qualquer nível de experiência.
                 <td> 8h </td> <td> 05/24 </td> <td> 06/24 </td> <td> ✔️✔️ - Concluído </td>
             </tr>
             <tr title="Curso de Inglês Intermediário - Prime Cursos">
-            <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Intermediário </td>
-            <td> 50h </td> <td> 05/24 </td> <td> 07/24 </td> <td> ⌛✔️ - Concluído </td>
-        </tr>
-        <tr title="Curso de MySQL - Curso Em Vídeo">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> Curso de MySQL </td>
-            <td> 40h </td> <td> 06/24 </td> <td> 07/24 </td> <td> ⌛✔️ - Concluído </td>
-        </tr>
-        <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>
-            <td> 40h </td> <td> 01/24 </td> <td> 06/24 </td> <td> ⏩📖 - Estudando (99%) </td>
-        </tr>
-        <tr title="WordPress para Iniciantes e Experientes - Descomplicando Sites">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress para Iniciantes e Experientes </td>
-            <td> 5h </td> <td> 07/24 </td> <td> 09/24 </td> <td> ⌛✔️ - Concluído </td>
-        </tr>
-        <tr title="Curso de Android Studio: Módulo 00 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 00 </td> <td> 20h </td> <td> 09/24 </td> <td> 09/24 </td> <td> 🌟✔️ - Concluído </td>
-        </tr>
-        <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter">
-            <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Ciência de Dados e Inteligência Artificial </td>
-            <td> 360h </td> <td> 03/24 </td> <td> 09/24 </td> <td> 🌟✔️ - Concluído </td>
-        </tr>
+                <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Intermediário </td>
+                <td> 50h </td> <td> 05/24 </td> <td> 07/24 </td> <td> ⌛✔️ - Concluído </td>
+            </tr>
+            <tr title="Curso de MySQL - Curso Em Vídeo">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> Curso de MySQL </td>
+                <td> 40h </td> <td> 06/24 </td> <td> 07/24 </td> <td> ⌛✔️ - Concluído </td>
+            </tr>
+            <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>
+                <td> 40h </td> <td> 01/24 </td> <td> 06/24 </td> <td> ⏩📖 - Estudando (99%) </td>
+            </tr>
+            <tr title="WordPress para Iniciantes e Experientes - Descomplicando Sites">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress para Iniciantes e Experientes </td>
+                <td> 5h </td> <td> 07/24 </td> <td> 09/24 </td> <td> ⌛✔️ - Concluído </td>
+            </tr>
+            <tr title="Curso de Android Studio: Módulo 00 - Estudonauta">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 00 </td> <td> 20h </td> <td> 09/24 </td> <td> 09/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
+            <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter">
+                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Ciência de Dados e Inteligência Artificial </td>
+                <td> 360h </td> <td> 03/24 </td> <td> 09/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
+            <tr title="Curso de Android Studio: Módulo 01 - Estudonauta">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 01 </td> <td> 20h </td> <td> 09/24 </td> <td> 10/24 </td> <td> ⏩📖 - Estudando (86%) </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -210,8 +211,8 @@ em qualquer nível de experiência.
             <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Módulo 3 - Básico </td>
             <td> 20h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (31%) </td>
         </tr>
-        <tr title="Curso de Android Studio: Módulo 01 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 01 </td> <td> <!----> </td> <td> 09/24 </td> <td> 10/24 </td> <td> ⏩📖 - Estudando (86%) </td>
+        <tr title="Curso de Android Studio: Módulo 02 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 02 </td> <td> 20h </td> <td> 10/24 </td> <td> 10/24 </td> <td> ⏩📖 - Estudando (0%) </td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
@@ -231,7 +232,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de WordPress: Módulo 3 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 3 </td>
-            <td> 40h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (36%) </td>
+            <td> 40h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (39%) </td>
         </tr>
         <tr title="Curso de WordPress: Módulo 4 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de Wordpress - Módulo 4 </td>

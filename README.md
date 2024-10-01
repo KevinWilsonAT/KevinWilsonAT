@@ -184,6 +184,10 @@ em qualquer nível de experiência.
         <tr title="Curso de Android Studio: Módulo 00 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 00 </td> <td> 20h </td> <td> 09/24 </td> <td> 09/24 </td> <td> 🌟✔️ - Concluído </td>
         </tr>
+        <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter">
+            <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Ciência de Dados e Inteligência Artificial </td>
+            <td> 360h </td> <td> 03/24 </td> <td> 09/24 </td> <td> 🌟✔️ - Concluído </td>
+        </tr>
         </tbody>
     </table>
 </details>
@@ -206,8 +210,8 @@ em qualquer nível de experiência.
             <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Módulo 3 - Básico </td>
             <td> 20h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (31%) </td>
         </tr>
-        <tr title="Curso de Android Studio: Módulo 00 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 01 </td> <td> <!----> </td> <td> 09/24 </td> <td> <!-- end --> </td> <td> ⏩📖 - Estudando (57%) </td>
+        <tr title="Curso de Android Studio: Módulo 01 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 01 </td> <td> <!----> </td> <td> 09/24 </td> <td> 10/24 </td> <td> ⏩📖 - Estudando (86%) </td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
@@ -223,15 +227,11 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
-            <td> 20h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (63%) </td>
-        </tr>
-        <tr title="Pós Graduação: Ciência de Dados e Inteligência Artificial - Uninter">
-            <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Ciência de Dados e Inteligência Artificial </td>
-            <td> 360h </td> <td> 03/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando</td>
+            <td> 20h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (65%) </td>
         </tr>
         <tr title="Curso de WordPress: Módulo 3 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 3 </td>
-            <td> 40h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (33%) </td>
+            <td> 40h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (36%) </td>
         </tr>
         <tr title="Curso de WordPress: Módulo 4 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de Wordpress - Módulo 4 </td>

@@ -208,11 +208,11 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Inteligência Artificial - Estudonauta">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Inteligência Artificial </td>
-            <td> <!----> </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (50%) </td>
+            <td> <!----> </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (53%) </td>
         </tr>
         <tr title="Curso de Inglês Básico: Módulo 3 - Curso Em Vídeo"> 
             <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Módulo 3 - Básico </td>
-            <td> 20h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (58%) </td>
+            <td> 20h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (62%) </td>
         </tr>
         <tr title="Curso de WordPress: Módulo 3 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 3 </td>
@@ -235,7 +235,7 @@ em qualquer nível de experiência.
             <td> 60h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (23%) </td>
         </tr>
         <tr title="Curso de Android Studio: Módulo 03 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 03 </td> <td> 20h </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 03 </td> <td> 20h </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (21%) </td>
         </tr>
         <!--
         <tr title="Curso de WordPress: Módulo 4 - Estudonauta">

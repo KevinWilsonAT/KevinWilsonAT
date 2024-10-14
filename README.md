@@ -81,7 +81,7 @@ em qualquer nível de experiência.
 <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experiência com Solar 2D: 7/10"><!-- --------------------------- SOLAR -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experiência com Git: Em Aprendizado"><!-- ---------------------------------- GIT -->
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" title="Experiência com RStudio: 5/10"><!-- -------------------------------- R STUDIO -->
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" title="Experiência com Android Studio: 5/10"><!-- --------------- ANDROID STUDIO
+<img src="https://img.shields.io/badge/Android_Studio-346AC1?style=for-the-badge&logo=android-studio&logoColor=white" title="Experiência com Android Studio: 5/10"><!-- --------------- ANDROID STUDIO
 -->
 <!--
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge" title="Experiência com Visual Studio: 5/10"><!-- --------------- VISUAL STUDIO
@@ -224,7 +224,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de PHP POO usando Code Igniter 3 - GoPHP">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 3 </td>
-            <td> 16h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (61%) </td>
+            <td> 16h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (64%) </td>
         </tr>
         <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>
@@ -232,10 +232,10 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
-            <td> 60h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (23%) </td>
+            <td> 60h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (24%) </td>
         </tr>
         <tr title="Curso de Android Studio: Módulo 03 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 03 </td> <td> 20h </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (21%) </td>
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 03 </td> <td> 20h </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (50%) </td>
         </tr>
         <!--
         <tr title="Curso de WordPress: Módulo 4 - Estudonauta">

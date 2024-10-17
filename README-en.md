@@ -45,12 +45,12 @@ at any experience level.
 
 <h3>Database:</h3>
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experience with MySQL: 5/10 - Learning"><!-- --------------------------------------- MYSQL -->
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experience with MySQL: 6/10 - Learning"><!-- --------------------------------------- MYSQL -->
 
 <h3>Desktop Programming and Data Analysis:</h3>
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experience with C: 6/10 - Learning"><!-- --------------------------------------------------- C -->
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experience with C++: 5/10 - Learning"><!-- ------------------------------------- C++ -->
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experience with C++: 6/10 - Learning"><!-- ------------------------------------- C++ -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experience with Python: 7/10 - Learning"><!-- ------------------------------------ PYTHON -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experience with Java: 7/10 - Learning"><!-- --------------------------------------- JAVA -->
 <!--<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experience with C#: Learning"><!-- ------------------------------------------------- C# -->
@@ -60,7 +60,7 @@ at any experience level.
 
 <img src="https://img.shields.io/badge/Flet-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Experience with Flet: Learning"><!-- --------------------------------- FLET -->
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experience with Lua: 6/10 - Learning"><!-- --------------------------------------------- LUA -->
-<!-- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
 " title="Experiência com Kotlin: - Learning"><!-- ---------------------------  KOTLIN -->
 <!--<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experience with Dart: Learning"><!-- ------------------------------------------------- DART -->
 
@@ -68,7 +68,7 @@ at any experience level.
 
 <h4>Platforms:</h4>
 
-<img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" title="Experience with Wordpress: 5/10"><!-- -------------------------------------- WORDPRESS -->
+<img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" title="Experience with Wordpress: 6/10"><!-- -------------------------------------- WORDPRESS -->
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoCoWlor=white" title="Experience with Github: 7/10"><!-- ---------------------------------------------- GITHUB -->
 
 <h4>IDEs:</h4>
@@ -76,15 +76,15 @@ at any experience level.
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="Experience with Eclipse: 6/10"><!-- -------------------------------------------- ECLIPSE -->
 <img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=for-the-badge" title="Experience with NetBeans: 6/10"><!-- ---------------------------------- NETBEANS -->
 <img src="https://img.shields.io/badge/Dev_C%2B%2B-00599C?&style=for-the-badge&logo=cplusplus&logoColor=fff" title="Experience with Dev C++: 6/10"><!-- --------------------------------------- DEV C++ -->
-<img src="https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?logo=codeblocks&logoColor=fff&style=for-the-badge" title="Experience with Code::Blocks: 5/10"><!-- ----------------------------- CODE::BLOCKS -->
+<img src="https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?logo=codeblocks&logoColor=fff&style=for-the-badge" title="Experience with Code::Blocks: 6/10"><!-- ----------------------------- CODE::BLOCKS -->
 <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experience with PHPStorm: 6/10"><!-- ----------------------------------------- PHPSTORM -->
 <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experience with PyCharm: 6/10"><!-- ------------------------------------------- PYCHARM -->
 <img src="https://img.shields.io/badge/Jupyter-orange.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Experience with Jupyter: 5/10"><!-- --------------------------------------- JUPYTER -->
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experience with VS Code: 7/10"><!-- ------------------ VS CODE -->
 <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experience with Solar 2D: 7/10"><!-- --------------------------------------- SOLAR 2D -->
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experience with Git: 5/10"><!-- -------------------------------------------------------- GIT -->
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experience with Git: Learning"><!-- -------------------------------------------------------- GIT -->
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" title="Experience with RStudio: 5/10"><!-- -------------------------------------------- R STUDIO -->
-<img src="https://img.shields.io/badge/Android_Studio-346AC1?style=for-the-badge&logo=android-studio&logoColor=white" title="Experience with Android Studio: 5/10"><!-- --------------------------- ANDROID STUDIO
+<img src="https://img.shields.io/badge/Android_Studio-346AC1?style=for-the-badge&logo=android-studio&logoColor=white" title="Experience with Android Studio: 6/10"><!-- --------------------------- ANDROID STUDIO
 -->
 <!--
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge" title="Experience with Visual Studio: 5/10"><!-- --------------------------- VISUAL STUDIO
@@ -181,6 +181,12 @@ at any experience level.
           <tr title="Android Studio Course: Module 02 - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 02 </td> <td> 20h </td> <td> Oct 2024 </td> <td> Oct 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
+          <tr title="WordPress Course: Module 3 - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 3 Course </td> <td> 40h </td> <td> Sept. 2024 </td> <td> Oct 2024 </td> <td> 🌟✔️ - Completed </td>
+          </tr>
+          <tr title="Android Studio Course: Module 03 - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 03 </td> <td> 20h </td> <td> Oct 2024 </td> <td> Oct 2024 </td> <td> 🌟✔️ - Completed </td>
+          </tr>
      </tbody>
      </table>
 </details>
@@ -194,13 +200,13 @@ at any experience level.
                <td colspan=5></td>
           </tr>
           <tr title="Artificial Intelligence Course - Estudonauta">
-               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (50%) </td>
+               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (53%) </td>
           </tr>
           <tr title="English Course (Basic): Module 3 - Estudonauta">
-               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English - Module 3 - Basic Course </td> <td> 20h </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (69%) </td>
+               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English - Module 3 - Basic Course </td> <td> 20h </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (73%) </td>
           </tr>
-          <tr title="WordPress Course: Module 3 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 3 Course </td> <td> 40h </td> <td> Sept. 2023 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (97%) </td>
+          <tr title="WordPress Course: Module 4 - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Wordpress - Module 4 Course </td> <td> 20h </td> <td> Oct. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (13%) </td>
           </tr>
           <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td> <td> 20h </td> <td> May 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (70%) </td>
@@ -209,18 +215,15 @@ at any experience level.
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td> <td> 16h </td> <td> May 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (67%) </td>
           </tr>
           <tr title="How to announce in the Internet Course - Curso Em Vídeo">
-               <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> How to announce in the Internet Course </td> <td> 40h </td> <td> March 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 -  Studying (74%) </td>
+               <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> How to announce in the Internet Course </td> <td> 40h </td> <td> March 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 -  Studying (76%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (24%) </td>
           </tr>
-          <tr title="Android Studio Course: Module 03 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 03 </td> <td> 20h </td> <td> Oct 2024 </td> <td>  </td> <td> ⏩📖 - Studying (80%) </td>
+          <tr title="Kotlin Course: Module 00 - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Kotlin - Module 00 </td> <td>  </td> <td> Oct 2024 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
           </tr>
           <!--
-          <tr title="WordPress Course: Module 4 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Wordpress - Module 4 Course </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
-          </tr>
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 4 </td> <td> 16h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>

@@ -60,7 +60,7 @@ at any experience level.
 
 <img src="https://img.shields.io/badge/Flet-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Experience with Flet: Learning"><!-- --------------------------------- FLET -->
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experience with Lua: 6/10 - Learning"><!-- --------------------------------------------- LUA -->
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
+<!--<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
 " title="Experiência com Kotlin: - Learning"><!-- ---------------------------  KOTLIN -->
 <!--<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experience with Dart: Learning"><!-- ------------------------------------------------- DART -->
 

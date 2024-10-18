@@ -196,8 +196,11 @@ em qualquer nível de experiência.
                 <td> 40h </td> <td> 09/24 </td> <td> 10/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
             <tr title="Curso de Android Studio: Módulo 03 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 03 </td> <td> 20h </td> <td> 10/24 </td> <td> 10/24 </td> <td> 🌟✔️ - Concluído </td>
-        </tr>
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 03 </td> <td> 20h </td> <td> 10/24 </td> <td> 10/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
+            <tr title="Curso de Kotlin: Módulo 00 - Estudonauta">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Curso de Kotlin - Módulo 00 </td> <td> 20 </td> <td> 10/24 </td> <td> 10/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>

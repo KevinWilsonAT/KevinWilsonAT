@@ -76,8 +76,9 @@ at any experience level.
 <img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=for-the-badge" title="Experience with NetBeans: 6/10"><!-- ---------------------------------- NETBEANS -->
 <img src="https://img.shields.io/badge/Dev_C%2B%2B-00599C?&style=for-the-badge&logo=cplusplus&logoColor=fff" title="Experience with Dev C++: 6/10"><!-- --------------------------------------- DEV C++ -->
 <img src="https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?logo=codeblocks&logoColor=fff&style=for-the-badge" title="Experience with Code::Blocks: 6/10"><!-- ----------------------------- CODE::BLOCKS -->
-<img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experience with PHPStorm: 6/10"><!-- ----------------------------------------- PHPSTORM -->
-<img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experience with PyCharm: 6/10"><!-- ------------------------------------------- PYCHARM -->
+<img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experience with PHPStorm: 7/10"><!-- ----------------------------------------- PHPSTORM -->
+<img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experience with PyCharm: 7/10"><!-- ------------------------------------------- PYCHARM -->
+<img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" title="Experience with IntelliJ: 6/10"><!-- -------------------------------- INTELLIJ -->
 <img src="https://img.shields.io/badge/Jupyter-orange.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Experience with Jupyter: 5/10"><!-- --------------------------------------- JUPYTER -->
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experience with VS Code: 7/10"><!-- ------------------ VS CODE -->
 <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experience with Solar 2D: 7/10"><!-- --------------------------------------- SOLAR 2D -->
@@ -202,10 +203,10 @@ at any experience level.
                <td colspan=5></td>
           </tr>
           <tr title="Artificial Intelligence Course - Estudonauta">
-               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (53%) </td>
+               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (56%) </td>
           </tr>
           <tr title="English Course (Basic): Module 3 - Estudonauta">
-               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English - Module 3 - Basic Course </td> <td> 20h </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (73%) </td>
+               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English - Module 3 - Basic Course </td> <td> 20h </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (77%) </td>
           </tr>
           <tr title="WordPress Course: Module 4 - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Wordpress - Module 4 Course </td> <td> 20h </td> <td> Oct. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (13%) </td>
@@ -223,7 +224,7 @@ at any experience level.
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (24%) </td>
           </tr>
           <tr title="Kotlin Course: Module 01 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Kotlin - Module 01 </td> <td>  </td> <td> Oct 2024 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Kotlin - Module 01 </td> <td>  </td> <td> Oct 2024 </td> <td>  </td> <td> ⏩📖 - Studying (13%) </td>
           </tr>
           <!--
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">

@@ -187,7 +187,7 @@ at any experience level.
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 03 </td> <td> 20h </td> <td> Oct 2024 </td> <td> Oct 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
           <tr title="Kotlin Course: Module 00 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Kotlin - Module 00 </td> <td> 20 </td> <td> Oct 2024 </td> <td> Oct 2024 </td> <td> 🌟✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Kotlin - Module 00 </td> <td> 20h </td> <td> Oct 2024 </td> <td> Oct 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
      </tbody>
      </table>

@@ -75,6 +75,7 @@ em qualquer nível de experiência.
 <img src="https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?logo=codeblocks&logoColor=fff&style=for-the-badge" title="Experiência com Code::Blocks: 6/10"><!-- ----------------- CODE::BLOCKS -->
 <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experiência com PHPStorm: 6/10"><!-- ----------------------------- PHPSTORM -->
 <img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experiência com PyCharm: 6/10"><!-- ------------------------------- PYCHARM -->
+<img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" title="Experiência com IntelliJ: 6/10"><!-- -------------------------------- INTELLIJ -->
 <img src="https://img.shields.io/badge/Jupyter-orange.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Experiência com Jupyter: 5/10"><!-- --------------------------- JUPYTER -->
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experiência com VS Code: 7/10"><!-- ------ VS CODE -->
 <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experiência com Solar 2D: 7/10"><!-- --------------------------- SOLAR -->
@@ -164,7 +165,7 @@ em qualquer nível de experiência.
             </tr>
             <tr title="Curso de Inglês Intermediário - Prime Cursos">
                 <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Intermediário </td>
-                <td> 50h </td> <td> 05/24 </td> <td> 07/24 </td> <td> ⌛✔️ - Concluído </td>
+                <td> 50h </td> <td> 05/24 </td> <td> 07/24 </td> <td> ✔️✔️ - Concluído </td>
             </tr>
             <tr title="Curso de MySQL - Curso Em Vídeo">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> Curso de MySQL </td>
@@ -176,7 +177,7 @@ em qualquer nível de experiência.
             </tr>
             <tr title="WordPress para Iniciantes e Experientes - Descomplicando Sites">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress para Iniciantes e Experientes </td>
-                <td> 5h </td> <td> 07/24 </td> <td> 09/24 </td> <td> ⌛✔️ - Concluído </td>
+                <td> 5h </td> <td> 07/24 </td> <td> 09/24 </td> <td> ✔️✔️ - Concluído </td>
             </tr>
             <tr title="Curso de Android Studio: Módulo 00 - Estudonauta">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Curso de Android Studio - Módulo 00 </td> <td> 20h </td> <td> 09/24 </td> <td> 09/24 </td> <td> 🌟✔️ - Concluído </td>
@@ -217,11 +218,11 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Inteligência Artificial - Estudonauta">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Inteligência Artificial </td>
-            <td> <!----> </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (53%) </td>
+            <td> <!----> </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (56%) </td>
         </tr>
         <tr title="Curso de Inglês Básico: Módulo 3 - Curso Em Vídeo"> 
             <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Módulo 3 - Básico </td>
-            <td> 20h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (73%) </td>
+            <td> 20h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (77%) </td>
         </tr>
         <tr title="Curso de WordPress: Módulo 4 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de Wordpress - Módulo 4 </td>
@@ -244,7 +245,7 @@ em qualquer nível de experiência.
             <td> 60h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (24%) </td>
         </tr>
         <tr title="Curso de Kotlin: Módulo 01 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Curso de Kotlin - Módulo 01 </td> <td>  </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Curso de Kotlin - Módulo 01 </td> <td>  </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (13%) </td>
         </tr>
         <!--
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">

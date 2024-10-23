@@ -173,7 +173,7 @@ em qualquer nível de experiência.
             </tr>
             <tr title="Curso de WordPress: Módulo 1 - Curso Em Vídeo">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>
-                <td> 40h </td> <td> 01/24 </td> <td> 06/24 </td> <td> ⏩📖 - Estudando (99%) </td>
+                <td> 40h </td> <td> 01/24 </td> <td> 06/24 </td> <td> ⌛✔️ - Concluído </td>
             </tr>
             <tr title="WordPress para Iniciantes e Experientes - Descomplicando Sites">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress para Iniciantes e Experientes </td>
@@ -218,11 +218,11 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Inteligência Artificial - Estudonauta">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Inteligência Artificial </td>
-            <td> <!----> </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (59%) </td>
+            <td> <!----> </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (62%) </td>
         </tr>
         <tr title="Curso de Inglês Básico: Módulo 3 - Curso Em Vídeo"> 
             <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Módulo 3 - Básico </td>
-            <td> 20h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (81%) </td>
+            <td> 20h </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (85%) </td>
         </tr>
         <tr title="Curso de WordPress: Módulo 4 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de Wordpress - Módulo 4 </td>
@@ -238,14 +238,14 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Como Anunciar Na Internet - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>
-            <td> 40h </td> <td> 03/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (76%) </td>
+            <td> 40h </td> <td> 03/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (79%) </td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
             <td> 60h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (24%) </td>
         </tr>
         <tr title="Curso de Kotlin: Módulo 01 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Curso de Kotlin - Módulo 01 </td> <td>  </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (26%) </td>
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Curso de Kotlin - Módulo 01 </td> <td>  </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (39%) </td>
         </tr>
         <!--
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">

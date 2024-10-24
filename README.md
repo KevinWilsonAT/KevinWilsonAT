@@ -245,7 +245,7 @@ em qualquer nível de experiência.
             <td> 60h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (24%) </td>
         </tr>
         <tr title="Curso de Kotlin: Módulo 01 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Curso de Kotlin - Módulo 01 </td> <td>  </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (39%) </td>
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Curso de Kotlin - Módulo 01 </td> <td>  </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (52%) </td>
         </tr>
         <!--
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">

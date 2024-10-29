@@ -206,6 +206,9 @@ em qualquer nível de experiência.
                 <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Módulo 3 - Básico </td>
                 <td> 20h </td> <td> 09/24 </td> <td> 10/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
+            <tr title="Curso de Kotlin: Módulo 01 - Estudonauta">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Curso de Kotlin - Módulo 01 </td> <td> 20h </td> <td> 10/24 </td> <td> 10/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -222,7 +225,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Inteligência Artificial - Estudonauta">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Inteligência Artificial </td>
-            <td> <!----> </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (55%) </td>
+            <td> <!----> </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (57%) </td>
         </tr>
         <tr title="Curso de WordPress: Módulo 4 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de Wordpress - Módulo 4 </td>
@@ -244,12 +247,12 @@ em qualquer nível de experiência.
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
             <td> 60h </td> <td> 02/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (24%) </td>
         </tr>
-        <tr title="Curso de Kotlin: Módulo 01 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Curso de Kotlin - Módulo 01 </td> <td>  </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (99%) </td>
-        </tr>
         <tr title="Curso CC50 - Ciência da Computação de Harvard no Brasil - Fundação Estudar">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Curso CC50 - Harvard no Brasil - Fundação Estudar</td> <td>  </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (4%) </td>
         </tr>
+        <tr title="Curso de PHP com SQL: Módulo 00 - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 00 </td> <td> </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (9%) </td>
+          </tr>
         <!--
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 4 </td>

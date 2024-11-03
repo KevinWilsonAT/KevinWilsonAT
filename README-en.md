@@ -162,8 +162,8 @@ at any experience level.
           <tr title="MySQL Course - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> MySQL Course </td> <td> 40h </td> <td> June 2024 </td> <td> July 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
-          <tr title="WordPress Course: Module 1 - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 1 Course </td> <td> 40h </td> <td> Jan. 2024 </td> <td> June 2024 </td> <td> ⌛✔️ - Completed </td>
+          <tr title="WordPress Course: Module 1 - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 1 Course </td> <td> 40h </td> <td> Jan. 2024 </td> <td> June 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
           <tr title="WordPress for Beginners and Experts - Descomplicando Sites">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress for Beginners and Experts </td>
@@ -209,7 +209,7 @@ at any experience level.
                <td colspan=5></td>
           </tr>
           <tr title="Artificial Intelligence Course - Estudonauta">
-               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (60%) </td>
+               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (62%) </td>
           </tr>
           <tr title="WordPress Course: Module 4 - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Wordpress - Module 4 Course </td> <td> 20h </td> <td> Oct. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (13%) </td>
@@ -218,21 +218,24 @@ at any experience level.
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td> <td> 20h </td> <td> May 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (70%) </td>
           </tr>
           <tr title="PHP OOP Course using Code Igniter 3 - GoPHP">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td> <td> 16h </td> <td> May 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (67%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td> <td> 16h </td> <td> May 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (68%) </td>
           </tr>
           <tr title="How to announce in the Internet Course - Curso Em Vídeo">
-               <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> How to announce in the Internet Course </td> <td> 40h </td> <td> March 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 -  Studying (83%) </td>
+               <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> How to announce in the Internet Course </td> <td> 40h </td> <td> March 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 -  Studying (86%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (24%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (25%) </td>
           </tr>
           <tr title="CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar </td> <td>  </td> <td> Oct 2024 </td> <td>  </td> <td> ⏩📖 - Studying (4%) </td>
           </tr>
           <tr title="PHP with SQL Course: Module 00 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 00 </td> <td> </td> <td> Oct 2024 </td> <td>  </td> <td> ⏩📖 - Studying (9%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 00 </td> <td> </td> <td> Oct 2024 </td> <td>  </td> <td> ⏩📖 - Studying (27%) </td>
           </tr>
           <!--
+          <tr title="Digital Marketing Course - Curso Em Vídeo">
+               <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Digital Marketing Course </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ⏩📖 -  Studying (0%) </td>
+          </tr>
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 4 </td> <td> 16h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>

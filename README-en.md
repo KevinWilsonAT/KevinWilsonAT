@@ -209,7 +209,7 @@ at any experience level.
                <td colspan=5></td>
           </tr>
           <tr title="Artificial Intelligence Course - Estudonauta">
-               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (62%) </td>
+               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (64%) </td>
           </tr>
           <tr title="WordPress Course: Module 4 - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Wordpress - Module 4 Course </td> <td> 20h </td> <td> Oct. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (13%) </td>
@@ -221,7 +221,7 @@ at any experience level.
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td> <td> 16h </td> <td> May 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (68%) </td>
           </tr>
           <tr title="How to announce in the Internet Course - Curso Em Vídeo">
-               <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> How to announce in the Internet Course </td> <td> 40h </td> <td> March 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 -  Studying (86%) </td>
+               <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> How to announce in the Internet Course </td> <td> 40h </td> <td> March 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 -  Studying (93%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (25%) </td>
@@ -231,6 +231,9 @@ at any experience level.
           </tr>
           <tr title="PHP with SQL Course: Module 00 - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 00 </td> <td> </td> <td> Oct 2024 </td> <td>  </td> <td> ⏩📖 - Studying (27%) </td>
+          </tr>
+          <tr title="WordPress Course: Module 2 - Curso Em Vídeo">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 2 Course </td> <td> 40h </td> <td> Nov 2024 </td> <td>  </td> <td>  ⏩📖 - Studying (8%)  </td>
           </tr>
           <!--
           <tr title="Digital Marketing Course - Curso Em Vídeo">
@@ -261,9 +264,6 @@ at any experience level.
           </tr>
           <tr title="C# Basic Introductory Course - LearnCafe">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# - Basic Course </td> <td> 10h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
-          </tr>
-          <tr title="WordPress Course: Module 2 - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 2 Course </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>
           <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>

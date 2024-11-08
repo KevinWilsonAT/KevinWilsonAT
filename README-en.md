@@ -233,7 +233,7 @@ at any experience level.
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 00 </td> <td> </td> <td> Oct 2024 </td> <td>  </td> <td> ⏩📖 - Studying (36%) </td>
           </tr>
           <tr title="WordPress Course: Module 2 - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 2 Course </td> <td> 40h </td> <td> Nov 2024 </td> <td>  </td> <td>  ⏩📖 - Studying (33%)  </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 2 Course </td> <td> 40h </td> <td> Nov 2024 </td> <td>  </td> <td>  ⏩📖 - Studying (83%)  </td>
           </tr>
           <tr title="Digital Marketing Course - Curso Em Vídeo">
                <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Digital Marketing Course </td> <td> 40h </td> <td> Nov 2024 </td> <td>  </td> <td> ⏩📖 -  Studying (4%) </td>

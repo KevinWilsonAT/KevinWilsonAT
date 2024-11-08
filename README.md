@@ -255,7 +255,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de WordPress: Módulo 2 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 2 </td>
-            <td> 40h </td> <td> 11/24 </td> <td>  </td> <td> ⏩📖 - Estudando (33%) </td>
+            <td> 40h </td> <td> 11/24 </td> <td>  </td> <td> ⏩📖 - Estudando (83%) </td>
         </tr>
         <tr title="Curso de Marketing Digital - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Marketing Digital </td> <td> 40h </td> <td> 11/24 </td> <td>  </td> <td> ⏩📖 -  Estudando (4%) </td>

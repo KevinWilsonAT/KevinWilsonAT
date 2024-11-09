@@ -213,6 +213,10 @@ em qualquer nível de experiência.
                 <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Como Anunciar Na Internet </td>
                 <td> 40h </td> <td> 03/24 </td> <td> 11/24 </td> <td> ✔️✔️ - Concluído </td>
             </tr>
+            <tr title="Curso de WordPress: Módulo 2 - Curso Em Vídeo">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 2 </td>
+                <td> 40h </td> <td> 11/24 </td> <td> 11/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -229,7 +233,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Inteligência Artificial - Estudonauta">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Inteligência Artificial </td>
-            <td> <!----> </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (67%) </td>
+            <td> <!----> </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (68%) </td>
         </tr>
         <tr title="Curso de WordPress: Módulo 4 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de Wordpress - Módulo 4 </td>
@@ -251,16 +255,16 @@ em qualquer nível de experiência.
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Curso CC50 - Harvard no Brasil - Fundação Estudar</td> <td>  </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (8%) </td>
         </tr>
         <tr title="Curso de PHP com SQL: Módulo 00 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 00 </td> <td> </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (36%) </td>
-        </tr>
-        <tr title="Curso de WordPress: Módulo 2 - Curso Em Vídeo">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 2 </td>
-            <td> 40h </td> <td> 11/24 </td> <td>  </td> <td> ⏩📖 - Estudando (83%) </td>
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 00 </td> <td> </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (55%) </td>
         </tr>
         <tr title="Curso de Marketing Digital - Curso Em Vídeo">
-            <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Marketing Digital </td> <td> 40h </td> <td> 11/24 </td> <td>  </td> <td> ⏩📖 -  Estudando (4%) </td>
+            <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Marketing Digital </td> <td> 40h </td> <td> 11/24 </td> <td>  </td> <td> ⏩📖 - Estudando (4%) </td>
         </tr>
         <!--
+        <tr title="Curso de WordPress: Módulo 4 - Curso Em Vídeo">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 4 </td>
+            <td> 40h </td> <td> 11/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 4 </td>
             <td> 16h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>

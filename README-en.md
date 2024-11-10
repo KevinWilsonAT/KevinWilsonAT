@@ -4,7 +4,7 @@
 <p align="center">
      <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&color=fff&duration=600&pause=1500&lines=Hello, I'm Kevin;I'm a Front End Dev;I'm a Back End Dev;I'm a Software Dev;">
 </p>
-
+     
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <p align="left">
@@ -218,13 +218,13 @@ at any experience level.
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (68%) </td>
           </tr>
           <tr title="WordPress Course: Module 4 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Wordpress - Module 4 Course </td> <td> 20h </td> <td> Oct. 2024 </td> <td>  </td> <td> ⏩📖 - Studying (13%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Wordpress - Module 4 Course </td> <td> 20h </td> <td> Nov 2024 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
           </tr>
           <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td> <td> 20h </td> <td> May 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (70%) </td>
           </tr>
           <tr title="PHP OOP Course using Code Igniter 3 - GoPHP">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td> <td> 16h </td> <td> May 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (68%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td> <td> 16h </td> <td> May 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (71%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (25%) </td>
@@ -236,7 +236,7 @@ at any experience level.
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 00 </td> <td> </td> <td> Oct 2024 </td> <td>  </td> <td> ⏩📖 - Studying (55%) </td>
           </tr>
           <tr title="Digital Marketing Course - Curso Em Vídeo">
-               <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Digital Marketing Course </td> <td> 40h </td> <td> Nov 2024 </td> <td>  </td> <td> ⏩📖 - Studying (4%) </td>
+               <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Digital Marketing Course </td> <td> 40h </td> <td> Nov 2024 </td> <td>  </td> <td> ⏩📖 - Studying (12%) </td>
           </tr>
           <!--
           <tr title="WordPress Course: Module 4 - Curso Em Vídeo">

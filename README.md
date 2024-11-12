@@ -233,7 +233,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Inteligência Artificial - Estudonauta">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Inteligência Artificial </td>
-            <td> <!----> </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (68%) </td>
+            <td> <!----> </td> <td> 09/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (73%) </td>
         </tr>
         <tr title="Curso de WordPress: Módulo 4 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de Wordpress - Módulo 4 </td>
@@ -245,7 +245,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de PHP POO usando Code Igniter 3 - GoPHP">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 3 </td>
-            <td> 16h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (71%) </td>
+            <td> 16h </td> <td> 05/24 </td> <td> <!-- fim --> </td> <td> ⏩📖 - Estudando (70%) </td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
@@ -258,13 +258,13 @@ em qualquer nível de experiência.
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 00 </td> <td> </td> <td> 10/24 </td> <td>  </td> <td> ⏩📖 - Estudando (55%) </td>
         </tr>
         <tr title="Curso de Marketing Digital - Curso Em Vídeo">
-            <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Marketing Digital </td> <td> 40h </td> <td> 11/24 </td> <td>  </td> <td> ⏩📖 - Estudando (12%) </td>
+            <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Marketing Digital </td> <td> 40h </td> <td> 11/24 </td> <td>  </td> <td> ⏩📖 - Estudando (20%) </td>
         </tr>
-        <!--
         <tr title="Curso de WordPress: Módulo 4 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 4 </td>
-            <td> 40h </td> <td> 11/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+            <td> 40h </td> <td> 11/24 </td> <td>  </td> <td> ⏩📖 - Estudando (20%) </td>
         </tr>
+        <!--
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 4 </td>
             <td> 16h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>

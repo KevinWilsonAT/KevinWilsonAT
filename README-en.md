@@ -120,87 +120,113 @@ at any experience level.
      <tbody>
           <tr> <td colspan=5></td> </tr>
           <tr title="JavaScript Intensive Course - Hashtag Treinamentos">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/> JavaScript intensive course </td> <td> 8h </td> <td> Jan. 2024 </td> <td> Feb. 2024 </td> <td> 🌟✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/> JavaScript intensive course </td>
+               <td> 8h </td> <td> Jan. 2024 </td> <td> Feb. 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
           <tr title="Journey: Python Intensive Course - Hashtag Treinamentos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>
-               Python Intensive Course </td> <td> 8h </td> <td> March 2024 </td> <td> March 2024 </td> <td> 🌟✔️ - Completed </td> 
+               Python Intensive Course </td>
+               <td> 8h </td> <td> March 2024 </td> <td> March 2024 </td> <td> 🌟✔️ - Completed </td> 
           </tr>
           <tr title="C Basic Course - Pietro Martins">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C - Basic Course </td> <td> 15h </td> <td> Jan. 2024 </td> <td> Feb. 2024 </td> <td> ✔️✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C - Basic Course </td>
+               <td> 15h </td> <td> Jan. 2024 </td> <td> Feb. 2024 </td> <td> ✔️✔️ - Completed </td>
           </tr>
           <tr title="R Introductory Course- LabData">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/> R - Introduction Course </td> <td> 8h </td> <td> Feb. 2024 </td> <td> Feb. 2024 </td> <td> ✔️✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/> R - Introduction Course </td>
+               <td> 8h </td> <td> Feb. 2024 </td> <td> Feb. 2024 </td> <td> ✔️✔️ - Completed </td>
           </tr>
           <tr title="PHP Basic Course - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP - Basic and OOP Course </td> <td> 80h </td> <td> Jan. 2024 </td> <td> May 2024 </td> <td> ⌛✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP - Basic and OOP Course </td>
+               <td> 80h </td> <td> Jan. 2024 </td> <td> May 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
           <tr title="Python 3 Course: Modules 1, 2 and 3 - Curso Em Vídeo"> <!-- PYTHON COURSE MODULE 1 to 3 COMPLETED -->
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Python 3 - Module 1, 2 and 3 - Courses </td> <td> 120h </td> <td> Dec. 2023 </td> <td> Aug. 2024 </td> <td> ⌛✔️ - Completed (3/5) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Python 3 - Module 1, 2 and 3 - Courses </td>
+               <td> 120h </td> <td> Dec. 2023 </td> <td> Aug. 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
           <tr title="Java Basic Course- Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/> Java - Basic and OOP Course </td> <td> 80h </td> <td> Feb. 2024 </td> <td> May 2024 </td> <td> ⌛✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/> Java - Basic and OOP Course </td>
+               <td> 80h </td> <td> Feb. 2024 </td> <td> May 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
           <tr title="Git & GitHub Course - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/> Git / GitHub Course </td> <td> 40h </td> <td> March 2024 </td> <td> April 2024 </td> <td> ⌛✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/> Git / GitHub Course </td>
+               <td> 40h </td> <td> March 2024 </td> <td> April 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
           <tr title="English Course (Basic): Module 1 - Curso Em Vídeo">
-               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English - Modules 1 and 2 - Basic Course </td> <td> 40h </td> <td> March 2024 </td> <td> May 2024 </td> <td> ⌛✔️ - Completed </td>
+               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English - Modules 1 and 2 - Basic Course </td>
+               <td> 40h </td> <td> March 2024 </td> <td> May 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
           <tr title="JavaScript Course - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/> JavaScript Course </td> <td> 40h </td> <td> Feb. 2024 </td> <td> April 2024 </td> <td> ⌛✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/> JavaScript Course </td>
+               <td> 40h </td> <td> Feb. 2024 </td> <td> April 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
           <tr title="Bootstrap Framework Intensive Course - Matheus Battisti">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/> Bootstrap Course </td> <td> 5h </td> <td> May 2024 </td> <td> May 2024 </td> <td> ✔️✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/> Bootstrap Course </td>
+               <td> 5h </td> <td> May 2024 </td> <td> May 2024 </td> <td> ✔️✔️ - Completed </td>
           </tr>
           <tr title="Bootstrap 5 Framework Course - CFB Cursos"> 
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/> Bootstrap 5 Course </td> <td> 8h </td> <td> May 2024 </td> <td> June 2024 </td> <td> ✔️✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/> Bootstrap 5 Course </td>
+               <td> 8h </td> <td> May 2024 </td> <td> June 2024 </td> <td> ✔️✔️ - Completed </td>
           </tr>
           <tr title="English Course: Intermediary - Prime Cursos">
-               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English Course: Intermediary </td> <td> 50h </td> <td> May 2024 </td> <td> July 2024 </td> <td> ⌛✔️ - Completed </td>
+               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English Course: Intermediary </td>
+               <td> 50h </td> <td> May 2024 </td> <td> July 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
           <tr title="MySQL Course - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> MySQL Course </td> <td> 40h </td> <td> June 2024 </td> <td> July 2024 </td> <td> ⌛✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> MySQL Course </td>
+               <td> 40h </td> <td> June 2024 </td> <td> July 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
           <tr title="WordPress Course: Module 1 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 1 Course </td> <td> 40h </td> <td> Jan. 2024 </td> <td> June 2024 </td> <td> 🌟✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 1 Course </td>
+               <td> 40h </td> <td> Jan. 2024 </td> <td> June 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
           <tr title="WordPress for Beginners and Experts - Descomplicando Sites">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress for Beginners and Experts </td>
-            <td> 5h </td> <td> July 2024 </td> <td> Sept. 2024 </td> <td> ⌛✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress for Beginners and Experts </td>
+               <td> 5h </td> <td> July 2024 </td> <td> Sept. 2024 </td> <td> ⌛✔️ - Completed </td>
           </tr>
           <tr title="Android Studio Course: Module 00 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 00 </td> <td> 20h </td> <td> Sept 2024 </td> <td> Sept 2024 </td> <td> 🌟✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 00 </td>
+               <td> 20h </td> <td> Sept. 2024 </td> <td> Sept. 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
           <tr title="Post-graduation: Data Science and Artificial Intelligence - Uninter">
-               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Data Science and Artificial Intelligence </td> <td> 360h </td> <td> March 2024 </td> <td> Sept 2024 </td> <td> 🌟✔️ - Completed </td>
+               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Data Science and Artificial Intelligence </td>
+               <td> 360h </td> <td> March 2024 </td> <td> Sept. 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
           <tr title="Android Studio Course: Module 01 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 01 </td> <td> 20h </td> <td> Sept 2024 </td> <td> Oct 2024 </td> <td> 🌟✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 01 </td>
+               <td> 20h </td> <td> Sept. 2024 </td> <td> Oct. 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
           <tr title="Android Studio Course: Module 02 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 02 </td> <td> 20h </td> <td> Oct 2024 </td> <td> Oct 2024 </td> <td> 🌟✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 02 </td>
+               <td> 20h </td> <td> Oct. 2024 </td> <td> Oct. 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
           <tr title="WordPress Course: Module 3 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 3 Course </td> <td> 40h </td> <td> Sept. 2024 </td> <td> Oct 2024 </td> <td> 🌟✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 3 Course </td>
+               <td> 40h </td> <td> Sept. 2024 </td> <td> Oct. 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
           <tr title="Android Studio Course: Module 03 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 03 </td> <td> 20h </td> <td> Oct 2024 </td> <td> Oct 2024 </td> <td> 🌟✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="16px" height="16px"/> Android Studio - Module 03 </td>
+               <td> 20h </td> <td> Oct. 2024 </td> <td> Oct. 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
           <tr title="Kotlin Course: Module 00 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Kotlin - Module 00 </td> <td> 20h </td> <td> Oct 2024 </td> <td> Oct 2024 </td> <td> 🌟✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Kotlin - Module 00 </td>
+               <td> 20h </td> <td> Oct. 2024 </td> <td> Oct. 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
           <tr title="English Course (Basic): Module 3 - Estudonauta">
-               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English - Module 3 - Basic Course </td> <td> 20h </td> <td> Sept 2024 </td> <td> Oct 2024 </td> <td> 🌟✔️ - Completed </td>
+               <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English - Module 3 - Basic Course </td>
+               <td> 20h </td> <td> Sept. 2024 </td> <td> Oct. 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
           <tr title="Kotlin Course: Module 01 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Kotlin - Module 01 </td> <td> 20h </td> <td> Oct 2024 </td> <td> Oct 2024 </td> <td> 🌟✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="16px" height="16px"/> Kotlin - Module 01 </td>
+               <td> 20h </td> <td> Oct. 2024 </td> <td> Oct. 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
           <tr title="How to announce in the Internet Course - Curso Em Vídeo">
-               <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> How to announce in the Internet Course </td> <td> 40h </td> <td> March 2024 </td> <td> Nov 2024 </td> <td> ✔️✔️ - Completed </td>
+               <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> How to announce in the Internet Course </td>
+               <td> 40h </td> <td> March 2024 </td> <td> Nov. 2024 </td> <td> ✔️✔️ - Completed </td>
           </tr>
           <tr title="WordPress Course: Module 2 - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 2 Course </td> <td> 40h </td> <td> Nov 2024 </td> <td> Nov 2024 </td> <td> 🌟✔️ - Completed </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 2 Course </td>
+               <td> 40h </td> <td> Nov. 2024 </td> <td> Nov. 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
      </tbody>
      </table>
@@ -215,30 +241,41 @@ at any experience level.
                <td colspan=5></td>
           </tr>
           <tr title="Artificial Intelligence Course - Estudonauta">
-               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td> <td> <!----> </td> <td> Sept 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (73%) </td>
-          </tr>
-          <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td> <td> 20h </td> <td> May 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (70%) </td>
-          </tr>
-          <tr title="PHP OOP Course using Code Igniter 3 - GoPHP">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td> <td> 16h </td> <td> May 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (70%) </td>
-          </tr>
-          <tr title="C++ Course - CFB Cursos">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td> <td> 60h </td> <td> Feb. 2024 </td> <td> <!-- end --> </td> <td> ⏩📖 - Studying (25%) </td>
-          </tr>
-          <tr title="CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar">
-            <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar </td> <td>  </td> <td> Oct 2024 </td> <td>  </td> <td> ⏩📖 - Studying (10%) </td>
-          </tr>
-          <tr title="PHP with SQL Course: Module 00 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 00 </td> <td> </td> <td> Oct 2024 </td> <td>  </td> <td> ⏩📖 - Studying (55%) </td>
+               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td> <td> <!--CargaHoraria--> </td> <td> Sept 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (74%) </td>
           </tr>
           <tr title="Digital Marketing Course - Curso Em Vídeo">
-               <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Digital Marketing Course </td> <td> 40h </td> <td> Nov 2024 </td> <td>  </td> <td> ⏩📖 - Studying (36%) </td>
+               <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Digital Marketing Course </td>
+               <td> 40h </td> <td> Nov 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (52%) </td>
+          </tr>
+          <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td>
+               <td> 20h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (70%) </td>
+          </tr>
+          <tr title="PHP OOP Course using Code Igniter 3 - GoPHP">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td>
+               <td> 16h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (70%) </td>
+          </tr>
+          <tr title="C++ Course - CFB Cursos">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>
+               <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (26%) </td>
           </tr>
           <tr title="WordPress Course: Module 4 - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 4 Course </td> <td> 40h </td> <td> Nov 2024 </td> <td>  </td> <td>  ⏩📖 - Studying (40%) </td>
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 4 Course </td>
+               <td> 40h </td> <td> Nov 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (80%) </td>
+          </tr>
+          <tr title="PHP with SQL Course: Module 00 - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 00 </td>
+               <td> <!--CargaHoraria--> </td> <td> Oct 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (64%) </td>
+          </tr>
+          <tr title="CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar">
+               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar </td>
+               <td> <!--CargaHoraria--> </td> <td> Oct 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (12%) </td>
           </tr>
           <!--
+          <tr title="Mautic Course - Curso Em Vídeo">
+            <td> <img src="https://img.icons8.com/?size=100&id=9nRuLVad2Yr2&format=png&color=000000" width="16px" height="16px"/> Mautic Course </td>
+            <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
+        </tr>
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 4 </td> <td> 16h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>

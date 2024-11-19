@@ -220,6 +220,10 @@ em qualquer nível de experiência.
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 2 </td>
                 <td> 40h </td> <td> 11/24 </td> <td> 11/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
+            <tr title="Curso de WordPress: Módulo 4 - Estudonauta">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 4 </td>
+                <td> 20 </td> <td> 11/24 </td> <td> 11/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -236,11 +240,11 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Inteligência Artificial - Estudonauta">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Inteligência Artificial </td>
-            <td> <!--CargaHoraria--> </td> <td> 09/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (74%) </td>
+            <td> <!--CargaHoraria--> </td> <td> 09/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (75%) </td>
         </tr>
         <tr title="Curso de Marketing Digital - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Marketing Digital </td>
-            <td> 40h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (52%) </td>
+            <td> 40h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (60%) </td>
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
@@ -253,10 +257,6 @@ em qualquer nível de experiência.
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
             <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (26%) </td>
-        </tr>
-        <tr title="Curso de WordPress: Módulo 4 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 4 </td>
-            <td> <!--CargaHoraria--> </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (80%) </td>
         </tr>
         <tr title="Curso de PHP com SQL: Módulo 00 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 00 </td>

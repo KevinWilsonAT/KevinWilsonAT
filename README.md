@@ -240,11 +240,11 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Inteligência Artificial - Estudonauta">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Inteligência Artificial </td>
-            <td> <!--CargaHoraria--> </td> <td> 09/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (75%) </td>
+            <td> <!--CargaHoraria--> </td> <td> 09/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (77%) </td>
         </tr>
         <tr title="Curso de Marketing Digital - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Marketing Digital </td>
-            <td> 40h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (60%) </td>
+            <td> 40h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (68%) </td>
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
@@ -258,19 +258,19 @@ em qualquer nível de experiência.
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
             <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (26%) </td>
         </tr>
+        <tr title="Curso de Mautic - Curso Em Vídeo">
+            <td> <img src="https://img.icons8.com/?size=100&id=9nRuLVad2Yr2&format=png&color=000000" width="16px" height="16px"/> Curso de Mautic </td>
+            <td> 20h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (6%) </td>
+        </tr>
         <tr title="Curso de PHP com SQL: Módulo 00 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 00 </td>
-            <td> <!--CargaHoraria--> </td> <td> 10/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (64%) </td>
+            <td> <!--CargaHoraria--> </td> <td> 10/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (82%) </td>
         </tr>
         <tr title="Curso CC50 - Ciência da Computação de Harvard no Brasil - Fundação Estudar">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Curso CC50 - Harvard no Brasil - Fundação Estudar</td>
-            <td> <!--CargaHoraria--> </td> <td> 10/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (12%) </td>
+            <td> <!--CargaHoraria--> </td> <td> 10/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (13%) </td>
         </tr>
         <!--
-        <tr title="Curso de Mautic - Curso Em Vídeo">
-            <td> <img src="https://img.icons8.com/?size=100&id=9nRuLVad2Yr2&format=png&color=000000" width="16px" height="16px"/> Curso de Mautic </td>
-            <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-        </tr>
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 4 </td>
             <td> 16h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>

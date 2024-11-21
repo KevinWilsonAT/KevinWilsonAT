@@ -80,8 +80,8 @@ em qualquer nível de experiência.
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experiência com VS Code: 7/10"><!-- ------ VS CODE -->
 <img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experiência com Solar 2D: 7/10"><!-- --------------------------- SOLAR -->
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experiência com Git: Em Aprendizado"><!-- ---------------------------------- GIT -->
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" title="Experiência com RStudio: 5/10"><!-- -------------------------------- R STUDIO -->
-<img src="https://img.shields.io/badge/Android_Studio-346AC1?style=for-the-badge&logo=android-studio&logoColor=white" title="Experiência com Android Studio: 6/10"><!-- --------------- ANDROID STUDIO
+<img src="https://img.shields.io/badge/RStudio-276DC3?style=for-the-badge&logo=r&logoColor=white" title="Experiência com RStudio: 5/10"><!-- -------------------------------- R STUDIO -->
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" title="Experiência com Android Studio: 6/10"><!-- --------------- ANDROID STUDIO
 -->
 <!--
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge" title="Experiência com Visual Studio: 5/10"><!-- --------------- VISUAL STUDIO

@@ -222,8 +222,12 @@ em qualquer nível de experiência.
             </tr>
             <tr title="Curso de WordPress: Módulo 4 - Estudonauta">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 4 </td>
-                <td> 20 </td> <td> 11/24 </td> <td> 11/24 </td> <td> 🌟✔️ - Concluído </td>
+                <td> 20h </td> <td> 11/24 </td> <td> 11/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
+            <tr title="Curso de PHP com SQL: Módulo 00 - Estudonauta">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 00 </td>
+                <td> 20h </td> <td> 10/24 </td> <td> 11/24 </td> <td> 🌟✔️ - Concluído </td>
+        </tr>
         </tbody>
     </table>
 </details>
@@ -260,17 +264,21 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Mautic - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/?size=100&id=9nRuLVad2Yr2&format=png&color=000000" width="16px" height="16px"/> Curso de Mautic </td>
-            <td> 20h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (6%) </td>
+            <td> 20h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (12%) </td>
         </tr>
-        <tr title="Curso de PHP com SQL: Módulo 00 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 00 </td>
-            <td> <!--CargaHoraria--> </td> <td> 10/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (82%) </td>
+        <tr title="Curso de PHP com SQL: Módulo 01 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 01 </td>
+            <td> <!--CargaHoraria--> </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (0%) </td>
         </tr>
         <tr title="Curso CC50 - Ciência da Computação de Harvard no Brasil - Fundação Estudar">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Curso CC50 - Harvard no Brasil - Fundação Estudar</td>
             <td> <!--CargaHoraria--> </td> <td> 10/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (13%) </td>
         </tr>
         <!--
+        <tr title="Curso de PHP com SQL: Módulo 02 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 02 </td>
+            <td> <!--CargaHoraria-> </td> <td> <!--Início-> </td> <td> <!--Fim-> </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 4 </td>
             <td> 16h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>

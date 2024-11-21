@@ -232,6 +232,10 @@ at any experience level.
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> WordPress - Module 4 Course </td>
                <td> 20h </td> <td> Nov. 2024 </td> <td> Nov. 2024 </td> <td> 🌟✔️ - Completed </td>
           </tr>
+          <tr title="PHP with SQL Course: Module 00 - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 00 </td>
+               <td> 20h </td> <td> Oct 2024 </td> <td> Nov. 2024 </td> <td> 🌟✔️ - Completed </td>
+          </tr>
      </tbody>
      </table>
 </details>
@@ -265,17 +269,21 @@ at any experience level.
           </tr>
           <tr title="Mautic Course - Curso Em Vídeo">
                <td> <img src="https://img.icons8.com/?size=100&id=9nRuLVad2Yr2&format=png&color=000000" width="16px" height="16px"/> Mautic Course </td>
-               <td> 20h </td> <td>  </td> <td>  </td> <td> ⏩📖 - Studying (6%) </td>
+               <td> 20h </td> <td>  </td> <td>  </td> <td> ⏩📖 - Studying (12%) </td>
           </tr>
-          <tr title="PHP with SQL Course: Module 00 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 00 </td>
-               <td> <!--CargaHoraria--> </td> <td> Oct 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (82%) </td>
+          <tr title="PHP with SQL Course: Module 01 - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 01 </td>
+               <td> <!--CargaHoraria--> </td> <td> Nov 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (0%) </td>
           </tr>
           <tr title="CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar">
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar </td>
                <td> <!--CargaHoraria--> </td> <td> Oct 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (13%) </td>
           </tr>
           <!--
+          <tr title="PHP with SQL Course: Module 02 - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 02 </td>
+               <td> <!--CargaHoraria-> </td> <td> <!--Start-> </td> <td> <!--End-> </td> <td> ⏩📖 - Studying (0%) </td>
+          </tr>
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 4 </td> <td> 16h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>

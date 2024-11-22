@@ -248,7 +248,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Marketing Digital - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Marketing Digital </td>
-            <td> 40h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (68%) </td>
+            <td> 40h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (76%) </td>
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
@@ -264,7 +264,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Mautic - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/?size=100&id=9nRuLVad2Yr2&format=png&color=000000" width="16px" height="16px"/> Curso de Mautic </td>
-            <td> 20h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (12%) </td>
+            <td> 20h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (35%) </td>
         </tr>
         <tr title="Curso de PHP com SQL: Módulo 01 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 01 </td>

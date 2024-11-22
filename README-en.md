@@ -254,7 +254,7 @@ at any experience level.
           </tr>
           <tr title="Digital Marketing Course - Curso Em Vídeo">
                <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Digital Marketing Course </td>
-               <td> 40h </td> <td> Nov 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (68%) </td>
+               <td> 40h </td> <td> Nov 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (76%) </td>
           </tr>
           <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td>
@@ -266,7 +266,7 @@ at any experience level.
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>
-               <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (26%) </td>
+               <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (35%) </td>
           </tr>
           <tr title="Mautic Course - Curso Em Vídeo">
                <td> <img src="https://img.icons8.com/?size=100&id=9nRuLVad2Yr2&format=png&color=000000" width="16px" height="16px"/> Mautic Course </td>

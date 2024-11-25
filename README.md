@@ -21,89 +21,89 @@ em qualquer nível de experiência.
    
 <h3>Front End:</h3>
 
-<img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" title="Experiência com HTML: 8/10 - Em Aprendizado"><!-- ---------------------- LINGUAGEM HTML -->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experiência com CSS: 8/10 - Em Aprendizado"><!-- ------------------------- LINGUAGEM CSS -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Experiência com JavaScript: 7/10 - Em Aprendizado"><!-- ------ LINGUAGEM JS -->
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Experiência com Bootstrap: 7/10 - Em Aprendizado"><!-- --------- FRAMEWORK BOOTSTRAP -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experiência com React: 6/10 - Em Aprendizado"><!-- -------------------- FRAMEWORK REACT-->
-<!--<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experiência com Tailwind: Em Aprendizado">--><!-- ----------- FRAMEWORK TAILWIND -->
+<img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" title="Experiência com HTML: 8/10 - Em Aprendizado"><!-- HTML -->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Experiência com CSS: 8/10 - Em Aprendizado"><!-- CSS -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="Experiência com JavaScript: 7/10 - Em Aprendizado"><!-- JS -->
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Experiência com Bootstrap: 7/10 - Em Aprendizado"><!-- BOOTSTRAP -->
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" title="Experiência com Sass: 5/10 - Em Aprendizado"><!-- SASS -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="Experiência com React: 6/10 - Em Aprendizado"><!-- REACT-->
+<!--<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Experiência com Tailwind: Em Aprendizado">--><!-- TAILWIND -->
+
 
 <h3>Back End:</h3>
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experiência com Node.js: Em aprendizado"><!-- ---------------------- FRAMEWORK NODE.JS -->
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experiência com PHP: 7/10 - Em aprendizado"><!-- --------------------------- LINGUAGEM PHP -->
-<img src="https://img.shields.io/badge/CodeIgniter_3-EF4223?&style=for-the-badge&logo=codeigniter&logoColor=white" title="Experiência com Code Igniter 3: 5/10 - Em aprendizado"><!-- ---- FRAMEWORK CODE IGNITER 3 -->
-<!--<img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experiência com Nest.js: Em aprendizado"><!-- ---------------------- FRAMEWORK NEST.JS -->
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experiência com Node.js: Em aprendizado"><!-- NODE.JS -->
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experiência com PHP: 7/10 - Em aprendizado"><!-- PHP -->
+<img src="https://img.shields.io/badge/CodeIgniter_3-EF4223?&style=for-the-badge&logo=codeigniter&logoColor=white" title="Experiência com Code Igniter 3: 5/10 - Em aprendizado"><!-- CI3 -->
+<!--<img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experiência com Nest.js: Em aprendizado"><!-- NEST.JS -->
 <!--
 <h3>Front End / Back End:</h3>
 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="Experiência com TypeScript: Em Aprendizado"><!-- ------------- LINGUAGEM TYPESCRIPT -->
-<!--<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Experiência com Angular: Em Aprendizado"><!-- ---------------------- FRAMEWORK ANGULAR -->
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="Experiência com TypeScript: Em Aprendizado"><!-- TYPESCRIPT -->
+<!--<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Experiência com Angular: Em Aprendizado"><!-- ANGULAR -->
 
 <h3>Banco de Dados:</h3>
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experiência com MySQL: 6/10 - Em Aprendizado"><!-- --------------------- PLATAFORMA MYSQL -->
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experiência com MySQL: 6/10 - Em Aprendizado"><!-- MYSQL -->
 
 <h3>Desktop e Analise de Dados:</h3>
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experiência com C: 6/10 - Em Aprendizado"><!-- --------------------------------- LINGUAGEM C -->
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: 6/10 - Em Aprendizado"><!-- ------------------- LINGUAGEM C++ -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 7/10 - Em Aprendizado"><!-- ------------------ LINGUAGEM PYTHON -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: 7/10 - Em Aprendizado"><!-- --------------------- LINGUAGEM JAVA -->
-<!--<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"><!-- ------------------------------- LINGUAGEM C# -->
-<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experiência com R: 5/10 -Em Aprendizado"><!-- ------------------------------------ LINGUAGEM R -->
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="Experiência com C: 6/10 - Em Aprendizado"><!-- LINGUAGEM C -->
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: 6/10 - Em Aprendizado"><!-- C++ -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 7/10 - Em Aprendizado"><!-- PYTHON -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: 7/10 - Em Aprendizado"><!-- JAVA -->
+<!--<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"><!-- C# -->
+<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experiência com R: 5/10 -Em Aprendizado"><!-- R -->
+<!--<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="Experiência com Flask: 5/10 - Em Aprendizado"><!-- FLASK -->
 
 <h3>Mobile:</h3>
 
-<img src="https://img.shields.io/badge/Flet-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Experiência com Flet: Em Aprendizado"><!-- --------------------- FRAMEWORK FLET -->
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experiência com Lua: 6/10 - Em Aprendizado"><!-- --------------------------- LINGUAGEM LUA -->
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" title="Experiência com Kotlin: - Em Aprendizado"><!-- --------------------------- LINGUAGEM KOTLIN -->
-<!--<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experiência com Dart: Em Aprendizado"><!-- ------------------------------- LINGUAGEM DART -->
+<img src="https://img.shields.io/badge/Flet-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" title="Experiência com Flet: Em Aprendizado"><!-- FLET -->
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" title="Experiência com Lua: 6/10 - Em Aprendizado"><!-- LUA -->
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" title="Experiência com Kotlin: - Em Aprendizado"><!-- KOTLIN -->
+<!--<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Experiência com Dart: Em Aprendizado"><!-- DART -->
 
 <h3>Plataformas, Softwares e IDEs:</h3>
 
 <h4>Plataformas:</h4>
 
-<img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" title="Experiência com Wordpress: 6/10"><!-- -------------------------- PLATAFORMA WORDPRESS -->
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoCoWlor=white" title="Experiência com Github: 7/10"><!-- ---------------------------------- PLATAFORMA GITHUB -->
+<img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" title="Experiência com Wordpress: 6/10"><!-- WORDPRESS -->
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoCoWlor=white" title="Experiência com Github: 7/10"><!-- GITHUB -->
 
 <h4>IDEs:</h4>
 
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="Experiência com Eclipse: 6/10"><!-- -------------------------------- ECLIPSE -->
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=for-the-badge" title="Experiência com NetBeans: 6/10"><!-- ---------------------- NETBEANS -->
-<img src="https://img.shields.io/badge/Dev_C%2B%2B-00599C?&style=for-the-badge&logo=cplusplus&logoColor=fff" title="Experiência com Dev C++: 6/10"><!-- --------------------------- DEV C++ -->
-<img src="https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?logo=codeblocks&logoColor=fff&style=for-the-badge" title="Experiência com Code::Blocks: 6/10"><!-- ----------------- CODE::BLOCKS -->
-<img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" title="Experiência com PHPStorm: 6/10"><!-- ----------------------------- PHPSTORM -->
-<img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experiência com PyCharm: 6/10"><!-- ------------------------------- PYCHARM -->
-<img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" title="Experiência com IntelliJ: 6/10"><!-- -------------------------------- INTELLIJ -->
-<img src="https://img.shields.io/badge/Jupyter-orange.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Experiência com Jupyter: 5/10"><!-- --------------------------- JUPYTER -->
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experiência com VS Code: 7/10"><!-- ------ VS CODE -->
-<img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experiência com Solar 2D: 7/10"><!-- --------------------------- SOLAR -->
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experiência com Git: Em Aprendizado"><!-- ---------------------------------- GIT -->
-<img src="https://img.shields.io/badge/RStudio-276DC3?style=for-the-badge&logo=r&logoColor=white" title="Experiência com RStudio: 5/10"><!-- -------------------------------- R STUDIO -->
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" title="Experiência com Android Studio: 6/10"><!-- --------------- ANDROID STUDIO
--->
-<!--
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge" title="Experiência com Visual Studio: 5/10"><!-- --------------- VISUAL STUDIO
--->
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="Experiência com Eclipse: 6/10"><!-- ECLIPSE -->
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=for-the-badge" title="Experiência com NetBeans: 6/10"><!-- NETBEANS -->
+<img src="https://img.shields.io/badge/Dev_C%2B%2B-00599C?&style=for-the-badge&logo=cplusplus&logoColor=fff" title="Experiência com Dev C++: 6/10"><!-- DEV C++ -->
+<img src="https://img.shields.io/badge/Code%3A%3ABlocks-41AD48?logo=codeblocks&logoColor=fff&style=for-the-badge" title="Experiência com Code::Blocks: 6/10"><!-- CODEBLOCKS -->
+<img src="https://img.shields.io/badge/PHPStorm-181717?&style=for-the-badge&logo=phpstorm" title="Experiência com PHPStorm: 7/10"><!-- PHPSTORM -->
+<img src="https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white" title="Experiência com PyCharm: 6/10"><!-- PYCHARM -->
+<img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" title="Experiência com IntelliJ: 6/10"><!-- INTELLIJ -->
+<img src="https://img.shields.io/badge/Jupyter-orange.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" title="Experiência com Jupyter: 5/10"><!-- JUPYTER -->
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Experiência com VS Code: 7/10"><!-- VS CODE -->
+<img src="https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff" title="Experiência com Solar 2D: 7/10"><!-- SOLAR -->
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Experiência com Git: Em Aprendizado"><!-- GIT -->
+<img src="https://img.shields.io/badge/RStudio-276DC3?style=for-the-badge&logo=r&logoColor=white" title="Experiência com RStudio: 5/10"><!-- R STUDIO -->
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" title="Experiência com Android Studio: 6/10"><!-- ANDROID STUDIO -->
+<!-- <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge" title="Experiência com Visual Studio: 5/10"><!-- VISUAL STUDIO -->
 
 <h4>Outros Softwares:</h4>
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=windows&logoColor=white" title="Experiência com Office: 6/10"><!-- ------------------------ MS OFFICE -->
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=windows&logoColor=white" title="Experiência com Office: 6/10"><!-- MS OFFICE -->
 
 <h4>Foto / Vídeo</h4>
 
-<img src="https://img.shields.io/badge/Camtasia-57A700?style=for-the-badge&logo=C&logoColor=white" title="Experiência com Camtasia: 6/10"><!-- ------------------------------------ CAMTASIA -->
-<img src="https://img.shields.io/badge/Photofiltre-DAE900?style=for-the-badge&logoColor=white" title="Experiência com Photofiltre: 6/10"><!-- ------------------------------------- PHOTOFILTRE -->
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" title="Experiência com Canva: 6/10"><!-- ------------------------------ CANVA -->
+<img src="https://img.shields.io/badge/Camtasia-57A700?style=for-the-badge&logo=C&logoColor=white" title="Experiência com Camtasia: 6/10"><!-- CAMTASIA -->
+<img src="https://img.shields.io/badge/Photofiltre-DAE900?style=for-the-badge&logoColor=white" title="Experiência com Photofiltre: 6/10"><!-- PHOTOFILTRE -->
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" title="Experiência com Canva: 6/10"><!-- CANVA -->
 
 <h2>📞 Contato:</h2>
 
 <a href="https://www.linkedin.com/in/kwat1/" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <!-- ------------------------------------------ LINKEDIN -->
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:techx.dev.2024@gmail.com" title="Gmail" target="_blank">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <!-- -------------------------------------- GMAIL -->
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.behance.net/techx_multidev" title="BeHance" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="BeHance"/></a> <!-- ------------------------------------------ BEHANCE -->
+    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="BeHance"/></a>
 
 <h2>📖 Cursos para 2024</h2>
    
@@ -248,7 +248,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Marketing Digital - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-business-no-code-flaticons-flat-flat-icons.png" width="16px" height="16px"/> Curso de Marketing Digital </td>
-            <td> 40h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (76%) </td>
+            <td> 40h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (92%) </td>
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
@@ -264,7 +264,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Mautic - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/?size=100&id=9nRuLVad2Yr2&format=png&color=000000" width="16px" height="16px"/> Curso de Mautic </td>
-            <td> 20h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (35%) </td>
+            <td> 20h </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (82%) </td>
         </tr>
         <tr title="Curso de PHP com SQL: Módulo 01 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 01 </td>
@@ -272,7 +272,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso CC50 - Ciência da Computação de Harvard no Brasil - Fundação Estudar">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Curso CC50 - Harvard no Brasil - Fundação Estudar</td>
-            <td> <!--CargaHoraria--> </td> <td> 10/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (13%) </td>
+            <td> <!--CargaHoraria--> </td> <td> 10/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (14%) </td>
         </tr>
         <!--
         <tr title="Curso de PHP com SQL: Módulo 02 - Estudonauta">

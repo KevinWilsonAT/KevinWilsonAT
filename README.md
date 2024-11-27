@@ -133,19 +133,19 @@ em qualquer nível de experiência.
             </tr>
             <tr title="Curso de PHP Básico e POO - Curso Em Vídeo">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP - Básico e POO </td>
-                <td> 80h </td> <td> 01/24 </td> <td> 05/24 </td> <td> ⌛✔️ - Concluído </td>
+                <td> 80h </td> <td> 01/24 </td> <td> 05/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
             <tr title="Curso de Python 3: Módulos 1 a 3 - Curso Em Vídeo">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M1 a M3 - Básico e Intermediário</td>
-                <td> 120h </td> <td> 12/23 </td> <td> 08/24 </td> <td> ⌛✔️ - Concluído </td>
+                <td> 120h </td> <td> 12/23 </td> <td> 08/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
             <tr title="Curso de Java Básico e POO - Curso Em Vídeo">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/> Curso de Java - Básico e POO </td>
-                <td> 80h </td> <td> 02/24 </td> <td> 05/24 </td> <td> ⌛✔️ - Concluído </td>
+                <td> 80h </td> <td> 02/24 </td> <td> 05/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
             <tr title="Curso de Git e GitHub - Curso Em Vídeo">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/> Curso de Git / GitHub </td>
-                <td> 40h </td> <td> 03/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
+                <td> 40h </td> <td> 03/24 </td> <td> 04/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
             <tr title="Curso de Inglês Básico: Módulo 1 - Curso Em Vídeo">
                 <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Módulos 1 e 2 - Básico </td>
@@ -153,7 +153,7 @@ em qualquer nível de experiência.
             </tr>
             <tr title="Curso de JavaScript - Curso Em Vídeo">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/> Curso de JavaScript </td>
-                <td> 40h </td> <td> 02/24 </td> <td> 04/24 </td> <td> ⌛✔️ - Concluído </td>
+                <td> 40h </td> <td> 02/24 </td> <td> 04/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
             <tr title="Intensivão de Framework Bootstrap - Matheus Battisti">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="16px" height="16px"/> Intensivão de Bootstrap </td>
@@ -169,7 +169,7 @@ em qualquer nível de experiência.
             </tr>
             <tr title="Curso de MySQL - Curso Em Vídeo">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="16px" height="16px"/> Curso de MySQL </td>
-                <td> 40h </td> <td> 06/24 </td> <td> 07/24 </td> <td> ⌛✔️ - Concluído </td>
+                <td> 40h </td> <td> 06/24 </td> <td> 07/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
             <tr title="Curso de WordPress: Módulo 1 - Estudonauta">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="16px" height="16px"/> Curso de WordPress - Módulo 1 </td>

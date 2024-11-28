@@ -268,15 +268,15 @@ at any experience level.
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>
-               <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (35%) </td>
+               <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (26%) </td>
           </tr>
           <tr title="PHP with SQL Course: Module 01 - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 01 </td>
-               <td> <!--CargaHoraria--> </td> <td> Nov 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (0%) </td>
+               <td> <!--CargaHoraria--> </td> <td> Nov 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (25%) </td>
           </tr>
           <tr title="CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar">
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar </td>
-               <td> <!--CargaHoraria--> </td> <td> Oct 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (15%) </td>
+               <td> <!--CargaHoraria--> </td> <td> Oct 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (16%) </td>
           </tr>
           <!--
           <tr title="PHP with SQL Course: Module 02 - Estudonauta">

@@ -243,6 +243,10 @@ at any experience level.
                     <td> <img src="https://img.icons8.com/?size=100&id=9nRuLVad2Yr2&format=png&color=000000" width="16px" height="16px"/> Mautic Course </td>
                     <td> 20h </td> <td> Nov. 2024 </td> <td> Nov. 2024 </td> <td> ⌛✔️ - Completed </td>
                </tr>
+               <tr title="PHP with SQL Course: Module 01 - Estudonauta">
+                    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 01 </td>
+                    <td> 20h </td> <td> Nov. 2024 </td> <td> Nov. 2024 </td> <td> 🌟✔️ - Completed </td>
+               </tr>
           </tbody>
      </table>
 </details>
@@ -261,23 +265,23 @@ at any experience level.
           </tr>
           <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td>
-               <td> 20h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (70%) </td>
+               <td> 20h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (72%) </td>
           </tr>
           <tr title="PHP OOP Course using Code Igniter 3 - GoPHP">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td>
-               <td> 16h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (70%) </td>
+               <td> 16h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (73%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>
-               <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (26%) </td>
-          </tr>
-          <tr title="PHP with SQL Course: Module 01 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 01 </td>
-               <td> <!--CargaHoraria--> </td> <td> Nov 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (75%) </td>
+               <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (27%) </td>
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
                <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (0%) </td>
+          </tr>
+          <tr title="PHP with SQL Course: Module 02 - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 02 </td>
+               <td> <!--CargaHoraria--> </td> <td> <!--Start--> </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (0%) </td>
           </tr>
           <tr title="SEO Course - Module 01 - Estudonauta">
                <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> SEO Course - Module 01 - Estudonauta </td>
@@ -288,10 +292,6 @@ at any experience level.
                <td> <!--CargaHoraria--> </td> <td> Oct 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (16%) </td>
           </tr>
           <!--
-          <tr title="PHP with SQL Course: Module 02 - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 02 </td>
-               <td> <!--CargaHoraria-> </td> <td> <!--Start-> </td> <td> <!--End-> </td> <td> ⏩📖 - Studying (0%) </td>
-          </tr>
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 4 </td> <td> 16h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>

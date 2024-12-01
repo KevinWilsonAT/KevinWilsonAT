@@ -236,6 +236,10 @@ em qualquer nível de experiência.
                 <td> <img src="https://img.icons8.com/?size=100&id=9nRuLVad2Yr2&format=png&color=000000" width="16px" height="16px"/> Curso de Mautic </td>
                 <td> 20h </td> <td> 11/24 </td> <td> 11/24 </td> <td> ⌛✔️ - Concluído </td>
             </tr>
+            <tr title="Curso de PHP com SQL: Módulo 01 - Estudonauta">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 01 </td>
+                <td> 20h </td> <td> 11/24 </td> <td> 11/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -256,23 +260,23 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
-            <td> 20h </td> <td> 05/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (70%) </td>
+            <td> 20h </td> <td> 05/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (72%) </td>
         </tr>
         <tr title="Curso de PHP POO usando Code Igniter 3 - GoPHP">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 3 </td>
-            <td> 16h </td> <td> 05/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (70%) </td>
+            <td> 16h </td> <td> 05/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (73%) </td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
-            <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (26%) </td>
-        </tr>
-        <tr title="Curso de PHP com SQL: Módulo 01 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 01 </td>
-            <td> <!--CargaHoraria--> </td> <td> 11/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (75%) </td>
+            <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (27%) </td>
         </tr>
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
             <td> 36h </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
+        <tr title="Curso de PHP com SQL: Módulo 02 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 02 </td>
+            <td> <!--CargaHoraria--> </td> <td> <!--Início--> </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (0%) </td>
         </tr>
         <tr title="Curso de SEO: Módulo 01 - Estudonauta">
             <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> Curso de SEO: Módulo 01 - Estudonauta </td>
@@ -283,10 +287,6 @@ em qualquer nível de experiência.
             <td> <!--CargaHoraria--> </td> <td> 10/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (16%) </td>
         </tr>
         <!--
-        <tr title="Curso de PHP com SQL: Módulo 02 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 02 </td>
-            <td> <!--CargaHoraria-> </td> <td> <!--Início-> </td> <td> <!--Fim-> </td> <td> ⏩📖 - Estudando (0%) </td>
-        </tr>
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 4 </td>
             <td> 16h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>

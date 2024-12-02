@@ -54,7 +54,7 @@ at any experience level.
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experience with C++: 6/10 - Learning"><!-- C++ -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experience with Python: 7/10 - Learning"><!-- PYTHON -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experience with Java: 7/10 - Learning"><!-- JAVA -->
-<!--<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experience with C#: Learning"><!-- C# -->
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experience with C#: Learning"><!-- C# -->
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experience with R: 5/10 - Learning"><!-- R -->
 <!--<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="Experience with Flask: 5/10 - Learning"><!-- FLASK -->
 
@@ -151,7 +151,7 @@ at any experience level.
                     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/> Git / GitHub Course </td>
                     <td> 40h </td> <td> March 2024 </td> <td> April 2024 </td> <td> 🌟✔️ - Completed </td>
                </tr>
-               <tr title="English Course (Basic): Module 1 - Curso Em Vídeo">
+               <tr title="English Course (Basic): Modules 1 and 2 - Curso Em Vídeo">
                     <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> English - Modules 1 and 2 - Basic Course </td>
                     <td> 40h </td> <td> March 2024 </td> <td> May 2024 </td> <td> ⌛✔️ - Completed </td>
                </tr>
@@ -275,21 +275,21 @@ at any experience level.
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>
                <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (27%) </td>
           </tr>
+          <tr title="SEO Course - Module 01 - Estudonauta">
+               <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> SEO Course - Module 01 - Estudonauta </td>
+               <td> <!--CargaHoraria--> </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (5%) </td>
+          </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
-               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (0%) </td>
+               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (1%) </td>
           </tr>
           <tr title="PHP with SQL Course: Module 02 - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 02 </td>
-               <td> <!--CargaHoraria--> </td> <td> <!--Start--> </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (0%) </td>
-          </tr>
-          <tr title="SEO Course - Module 01 - Estudonauta">
-               <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> SEO Course - Module 01 - Estudonauta </td>
-               <td> <!--CargaHoraria--> </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (0%) </td>
+               <td> <!--CargaHoraria--> </td> <td> Dec. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (17%) </td>
           </tr>
           <tr title="CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar">
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar </td>
-               <td> <!--CargaHoraria--> </td> <td> Oct 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (16%) </td>
+               <td> <!--CargaHoraria--> </td> <td> Oct 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (18%) </td>
           </tr>
           <!--
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">

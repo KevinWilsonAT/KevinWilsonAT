@@ -52,7 +52,7 @@ em qualquer nível de experiência.
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experiência com C++: 6/10 - Em Aprendizado"><!-- C++ -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experiência com Python: 7/10 - Em Aprendizado"><!-- PYTHON -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experiência com Java: 7/10 - Em Aprendizado"><!-- JAVA -->
-<!--<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"><!-- C# -->
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experiência com C#: Em Aprendizado"><!-- C# -->
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experiência com R: 5/10 -Em Aprendizado"><!-- R -->
 <!--<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="Experiência com Flask: 5/10 - Em Aprendizado"><!-- FLASK -->
 
@@ -147,7 +147,7 @@ em qualquer nível de experiência.
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/> Curso de Git / GitHub </td>
                 <td> 40h </td> <td> 03/24 </td> <td> 04/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
-            <tr title="Curso de Inglês Básico: Módulo 1 - Curso Em Vídeo">
+            <tr title="Curso de Inglês Básico: Módulos 1 e 2- Curso Em Vídeo">
                 <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Módulos 1 e 2 - Básico </td>
                 <td> 40h </td> <td> 03/24 </td> <td> 05/24 </td> <td> ⌛✔️ - Concluído </td>
             </tr>
@@ -270,21 +270,21 @@ em qualquer nível de experiência.
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
             <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (27%) </td>
         </tr>
+        <tr title="Curso de SEO: Módulo 01 - Estudonauta">
+            <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> Curso de SEO: Módulo 01 - Estudonauta </td>
+            <td> <!--CargaHoraria--> </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (5%) </td>
+        </tr>
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
-            <td> 36h </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+            <td> 36h </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (1%) </td>
         </tr>
         <tr title="Curso de PHP com SQL: Módulo 02 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 02 </td>
-            <td> <!--CargaHoraria--> </td> <td> <!--Início--> </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (0%) </td>
-        </tr>
-        <tr title="Curso de SEO: Módulo 01 - Estudonauta">
-            <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> Curso de SEO: Módulo 01 - Estudonauta </td>
-            <td> <!--CargaHoraria--> </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+            <td> <!--CargaHoraria--> </td> <td> 12/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (17%) </td>
         </tr>
         <tr title="Curso CC50 - Ciência da Computação de Harvard no Brasil - Fundação Estudar">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Curso CC50 - Harvard no Brasil - Fundação Estudar</td>
-            <td> <!--CargaHoraria--> </td> <td> 10/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (16%) </td>
+            <td> <!--CargaHoraria--> </td> <td> 10/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (18%) </td>
         </tr>
         <!--
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">

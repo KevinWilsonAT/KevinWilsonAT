@@ -54,7 +54,7 @@ at any experience level.
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Experience with C++: 6/10 - Learning"><!-- C++ -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Experience with Python: 7/10 - Learning"><!-- PYTHON -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Experience with Java: 7/10 - Learning"><!-- JAVA -->
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" title="Experience with C#: Learning"><!-- C# -->
+<img src="https://img.shields.io/badge/C%23_C%23-512BD4?style=for-the-badge" title="Experience with C#: Learning"><!-- C# -->
 <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge" title="Experience with R: 5/10 - Learning"><!-- R -->
 <!--<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="Experience with Flask: 5/10 - Learning"><!-- FLASK -->
 

@@ -285,7 +285,7 @@ at any experience level.
           </tr>
           <tr title="PHP with SQL Course: Module 02 - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> PHP with SQL: Module 02 </td>
-               <td> <!--CargaHoraria--> </td> <td> Dec. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (50%) </td>
+               <td> <!--CargaHoraria--> </td> <td> Dec. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (67%) </td>
           </tr>
           <tr title="CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar">
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar </td>

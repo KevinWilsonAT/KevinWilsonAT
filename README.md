@@ -130,25 +130,45 @@ em qualquer nível de experiência.
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="16px" height="16px"/> Curso Introdutório de R </td>
                 <td> 8h </td> <td> 02/24 </td> <td> 02/24 </td> <td> ✔️✔️ - Concluído </td>
             </tr>
-            <tr title="Curso de PHP Básico e POO - Curso Em Vídeo">
-                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP - Básico e POO </td>
-                <td> 80h </td> <td> 01/24 </td> <td> 05/24 </td> <td> 🌟✔️ - Concluído </td>
+            <tr title="Curso de PHP Básico - Curso Em Vídeo">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP - Básico </td>
+                <td> 40h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
-            <tr title="Curso de Python 3: Módulos 1 a 3 - Curso Em Vídeo">
-                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M1 a M3 - Básico e Intermediário</td>
-                <td> 120h </td> <td> 12/23 </td> <td> 08/24 </td> <td> 🌟✔️ - Concluído </td>
+            <tr title="Curso de PHP POO - Curso Em Vídeo">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP - POO </td>
+                <td> 40h </td> <td> 04/24 </td> <td> 05/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
-            <tr title="Curso de Java Básico e POO - Curso Em Vídeo">
-                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/> Curso de Java - Básico e POO </td>
-                <td> 80h </td> <td> 02/24 </td> <td> 05/24 </td> <td> 🌟✔️ - Concluído </td>
+            <tr title="Curso de Python 3: Módulo 1 - Curso Em Vídeo">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M1 - Básico</td>
+                <td> 40h </td> <td> 12/23 </td> <td> 01/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
+            <tr title="Curso de Python 3: Módulo 2 - Curso Em Vídeo">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M2 - Básico</td>
+                <td> 40h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
+            <tr title="Curso de Python 3: Módulo 3 - Curso Em Vídeo">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Curso de Python 3 - M3 - Intermediário</td>
+                <td> 40h </td> <td> 02/24 </td> <td> 08/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
+            <tr title="Curso de Java Básico - Curso Em Vídeo">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/> Curso de Java - Básico </td>
+                <td> 40h </td> <td> 02/24 </td> <td> 03/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
+            <tr title="Curso de Java POO - Curso Em Vídeo">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16px" height="16px"/> Curso de Java - POO </td>
+                <td> 40h </td> <td> 03/24 </td> <td> 05/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
             <tr title="Curso de Git e GitHub - Curso Em Vídeo">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="16px" height="16px"/> Curso de Git / GitHub </td>
                 <td> 40h </td> <td> 03/24 </td> <td> 04/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
-            <tr title="Curso de Inglês Básico: Módulos 1 e 2- Curso Em Vídeo">
-                <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Módulos 1 e 2 - Básico </td>
-                <td> 40h </td> <td> 03/24 </td> <td> 05/24 </td> <td> ⌛✔️ - Concluído </td>
+            <tr title="Curso de Inglês Básico: Módulo 1 - Curso Em Vídeo">
+                <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Módulo 1 - Básico </td>
+                <td> 20h </td> <td> 03/24 </td> <td> 04/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
+            <tr title="Curso de Inglês Básico: Módulo 2 - Curso Em Vídeo">
+                <td> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"/> Curso de Inglês - Módulo 2 - Básico </td>
+                <td> 20h </td> <td> 04/24 </td> <td> 05/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
             <tr title="Curso de JavaScript - Curso Em Vídeo">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/> Curso de JavaScript </td>
@@ -239,6 +259,10 @@ em qualquer nível de experiência.
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 01 </td>
                 <td> 20h </td> <td> 11/24 </td> <td> 11/24 </td> <td> 🌟✔️ - Concluído </td>
             </tr>
+            <tr title="Curso de PHP com SQL: Módulo 02 - Estudonauta">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 02 </td>
+                <td> 20h </td> <td> 12/24 </td> <td> 12/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -276,10 +300,6 @@ em qualquer nível de experiência.
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
             <td> 36h </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (2%) </td>
-        </tr>
-        <tr title="Curso de PHP com SQL: Módulo 02 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP com SQL: Módulo 02 </td>
-            <td> <!--CargaHoraria--> </td> <td> 12/24 </td> <td> <!-- 12/24 --> </td> <td> ⏩📖 - Estudando (83%) </td>
         </tr>
         <tr title="Curso CC50 - Ciência da Computação de Harvard no Brasil - Fundação Estudar">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Curso CC50 - Harvard no Brasil - Fundação Estudar</td>

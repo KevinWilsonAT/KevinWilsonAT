@@ -309,7 +309,7 @@ at any experience level.
           </tr>
           <tr title="CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar">
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar </td>
-               <td> <!-- 70h --> </td> <td> Oct 2024 </td> <td> <!--Dec. 2024 --> </td> <td> ⏩📖 - Studying (57%) </td>
+               <td> <!-- 70h --> </td> <td> Oct 2024 </td> <td> <!--Dec. 2024 --> </td> <td> ⏩📖 - Studying (69%) </td>
           </tr>
           <!--
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">

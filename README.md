@@ -303,7 +303,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso CC50 - Ciência da Computação de Harvard no Brasil - Fundação Estudar">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Curso CC50 - Harvard no Brasil - Fundação Estudar</td>
-            <td> <!-- 70h --> </td> <td> 10/24 </td> <td> <!-- 12/24 --> </td> <td> ⏩📖 - Estudando (57%) </td>
+            <td> <!-- 70h --> </td> <td> 10/24 </td> <td> <!-- 12/24 --> </td> <td> ⏩📖 - Estudando (69%) </td>
         </tr>
         <!--
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">

@@ -293,11 +293,11 @@ at any experience level.
           </tr>
           <tr title="PHP OOP Course using Code Igniter 3 - GoPHP">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td>
-               <td> 16h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (73%) </td>
+               <td> 16h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (76%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>
-               <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (27%) </td>
+               <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (28%) </td>
           </tr>
           <tr title="SEO Course - Module 01 - Estudonauta">
                <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> SEO Course - Module 01 - Estudonauta </td>

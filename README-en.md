@@ -301,15 +301,15 @@ at any experience level.
           </tr>
           <tr title="SEO Course - Module 01 - Estudonauta">
                <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> SEO Course - Module 01 - Estudonauta </td>
-               <td> <!--CargaHoraria--> </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (14%) </td>
+               <td> <!--CargaHoraria--> </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (18%) </td>
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
-               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (2%) </td>
+               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (3%) </td>
           </tr>
           <tr title="CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar">
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> CC50 - Harvard's Computer Science Course in Brazil - Fundação Estudar </td>
-               <td> <!-- 70h --> </td> <td> Oct 2024 </td> <td> <!--Dec. 2024 --> </td> <td> ⏩📖 - Studying (69%) </td>
+               <td> <!-- 70h --> </td> <td> Oct 2024 </td> <td> <!--Dec. 2024 --> </td> <td> ⏩📖 - Studying (77%) </td>
           </tr>
           <!--
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">

@@ -295,7 +295,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de SEO: Módulo 01 - Estudonauta">
             <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> Curso de SEO: Módulo 01 - Estudonauta </td>
-            <td> <!--CargaHoraria--> </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (36%) </td>
+            <td> <!--CargaHoraria--> </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (59%) </td>
         </tr>
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
@@ -303,7 +303,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso CC50 - Ciência da Computação de Harvard no Brasil - Fundação Estudar">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Curso CC50 - Harvard no Brasil - Fundação Estudar</td>
-            <td> <!-- 70h --> </td> <td> 10/24 </td> <td> <!-- 12/24 --> </td> <td> ⏩📖 - Estudando (87%) </td>
+            <td> <!-- 70h --> </td> <td> 10/24 </td> <td> <!-- 12/24 --> </td> <td> ⏩📖 - Estudando (95%) </td>
         </tr>
         <!--
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">

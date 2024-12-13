@@ -267,6 +267,10 @@ em qualquer nível de experiência.
                 <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Curso CC50 - Harvard no Brasil - Fundação Estudar</td>
                 <td> 70h </td> <td> 10/24 </td> <td> 12/24 </td> <td> ⌛✔️ - Concluído </td>
             </tr>
+            <tr title="Curso de SEO: Módulo 01 - Estudonauta">
+                <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> Curso de SEO: Módulo 01 - Estudonauta </td>
+                <td> 40h </td> <td> 12/24 </td> <td> 12/24 </td> <td> 🌟✔️ - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -297,13 +301,13 @@ em qualquer nível de experiência.
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
             <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (28%) </td>
         </tr>
-        <tr title="Curso de SEO: Módulo 01 - Estudonauta">
-            <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> Curso de SEO: Módulo 01 - Estudonauta </td>
-            <td> <!--CargaHoraria--> </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (82%) </td>
+        <tr title="Curso de SEO: Módulo 02 - Estudonauta">
+            <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> Curso de SEO: Módulo 02 - Estudonauta </td>
+            <td> <!--CargaHoraria--> </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
         </tr>
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
-            <td> 36h </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (4%) </td>
+            <td> 36h </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (7%) </td>
         </tr>
         <!--
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">

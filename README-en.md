@@ -293,7 +293,7 @@ at any experience level.
           </tr>
           <tr title="Artificial Intelligence Course - Estudonauta">
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td>
-               <td> <!--CargaHoraria--> </td> <td> Sept 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (77%) </td>
+               <td> <!--CargaHoraria--> </td> <td> Sept 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (86%) </td>
           </tr>
           <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td>
@@ -301,7 +301,7 @@ at any experience level.
           </tr>
           <tr title="PHP OOP Course using Code Igniter 3 - GoPHP">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td>
-               <td> 16h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (76%) </td>
+               <td> 16h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (79%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>
@@ -313,7 +313,7 @@ at any experience level.
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
-               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (7%) </td>
+               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (15%) </td>
           </tr>
           <!--
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">

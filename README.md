@@ -287,7 +287,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Inteligência Artificial - Estudonauta">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Inteligência Artificial </td>
-            <td> <!--CargaHoraria--> </td> <td> 09/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (88%) </td>
+            <td> <!--CargaHoraria--> </td> <td> 09/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (90%) </td>
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
@@ -303,11 +303,11 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
-            <td> 36h </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (17%) </td>
+            <td> 36h </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (18%) </td>
         </tr>
         <tr title="Curso de SEO: Módulo 02 - Estudonauta">
             <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> Curso de SEO: Módulo 02 - Estudonauta </td>
-            <td> <!--CargaHoraria--> </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (22%) </td>
+            <td> <!--CargaHoraria--> </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (50%) </td>
         </tr>
         <!--
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">

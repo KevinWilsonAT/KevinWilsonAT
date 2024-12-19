@@ -279,6 +279,10 @@ at any experience level.
                     <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> SEO Course - Module 01 - Estudonauta </td>
                     <td> 40h </td> <td> Dec. 2024 </td> <td> Dec. 2024 </td> <td> 🌟✔️ - Completed </td>
                </tr>
+               <tr title="SEO Course - Module 02 - Estudonauta">
+                    <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> SEO Course - Module 02 - Estudonauta </td>
+                    <td> 40h </td> <td> Dec. 2024 </td> <td> Dec. 2024 </td> <td> 🌟✔️ - Completed </td>
+               </tr>
           </tbody>
      </table>
 </details>
@@ -309,11 +313,7 @@ at any experience level.
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
-               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (20%) </td>
-          </tr>
-          <tr title="SEO Course - Module 02 - Estudonauta">
-               <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> SEO Course - Module 02 - Estudonauta </td>
-               <td> <!--CargaHoraria--> </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (78%) </td>
+               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (23%) </td>
           </tr>
           <!--
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">

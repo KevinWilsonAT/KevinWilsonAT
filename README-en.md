@@ -293,7 +293,7 @@ at any experience level.
           </tr>
           <tr title="Artificial Intelligence Course - Estudonauta">
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td>
-               <td> <!--CargaHoraria--> </td> <td> Sept 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (90%) </td>
+               <td> <!--CargaHoraria--> </td> <td> Sept 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (92%) </td>
           </tr>
           <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td>
@@ -309,11 +309,11 @@ at any experience level.
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
-               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (18%) </td>
+               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (19%) </td>
           </tr>
           <tr title="SEO Course - Module 02 - Estudonauta">
                <td> <img src="https://img.icons8.com/?size=100&id=12773&format=png&color=000000" width="16px" height="16px"/> SEO Course - Module 02 - Estudonauta </td>
-               <td> <!--CargaHoraria--> </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (50%) </td>
+               <td> <!--CargaHoraria--> </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (78%) </td>
           </tr>
           <!--
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">

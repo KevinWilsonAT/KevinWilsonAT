@@ -299,7 +299,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de PHP POO usando Code Igniter 3 - GoPHP">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 3 </td>
-            <td> 16h </td> <td> 05/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (79%) </td>
+            <td> 16h </td> <td> 05/24 </td> <td> 12/24 </td> <td> ⏩📖 - Estudando (82%) </td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>

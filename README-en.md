@@ -313,7 +313,7 @@ at any experience level.
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
-               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (27%) </td>
+               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (28%) </td>
           </tr>
           <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td>

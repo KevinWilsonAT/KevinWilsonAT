@@ -305,7 +305,7 @@ at any experience level.
           </tr>
           <tr title="PHP OOP Course using Code Igniter 3 - GoPHP">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td>
-               <td> 16h </td> <td> May 2024 </td> <td> Dec. 2024 </td> <td> ⏩📖 - Studying (82%) </td>
+               <td> 16h </td> <td> May 2024 </td> <td> Dec. 2024 </td> <td> ⏩📖 - Studying (88%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>

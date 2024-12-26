@@ -297,7 +297,7 @@ at any experience level.
           </tr>
           <tr title="Artificial Intelligence Course - Estudonauta">
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td>
-               <td> <!--CargaHoraria--> </td> <td> Sept 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (93%) </td>
+               <td> <!--CargaHoraria--> </td> <td> Sept 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (97%) </td>
           </tr>
           <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td>
@@ -313,7 +313,11 @@ at any experience level.
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
-               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (23%) </td>
+               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (27%) </td>
+          </tr>
+          <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td>
+               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (2%) </td>
           </tr>
           <!--
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">
@@ -341,9 +345,6 @@ at any experience level.
           </tr>
           <tr title="C# Basic Introductory Course - LearnCafe">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# - Basic Course </td> <td> 10h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
-          </tr>
-          <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td> <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>
           <tr title="PhotoShop Basic Course - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="16px" height="16px"/> Photoshop - Basic Course </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>

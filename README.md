@@ -291,7 +291,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Inteligência Artificial - Estudonauta">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Inteligência Artificial </td>
-            <td> <!--CargaHoraria--> </td> <td> 09/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (93%) </td>
+            <td> <!--CargaHoraria--> </td> <td> 09/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (97%) </td>
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
@@ -307,7 +307,11 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
-            <td> 36h </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (23%) </td>
+            <td> 36h </td> <td> 12/24 </td> <td>  </td> <td> ⏩📖 - Estudando (27%) </td>
+        </tr>
+        <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP Moderno - Módulo 1 </td>
+            <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (2%) </td>
         </tr>
         <!--
         <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">
@@ -337,10 +341,6 @@ em qualquer nível de experiência.
         <tr title="Curso Introdutório de C# - LearnCafe">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico </td> <td> 10h </td>
             <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-        </tr>
-        <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP Moderno - Módulo 1 </td>
-            <td> 40h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
         </tr>
         <tr title="Curso de PhotoShop Básico - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="16px" height="16px"/> Curso de Photoshop Básico </td>

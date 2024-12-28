@@ -297,7 +297,7 @@ at any experience level.
           </tr>
           <tr title="Artificial Intelligence Course - Estudonauta">
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td>
-               <td> <!--CargaHoraria--> </td> <td> Sept 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (97%) </td>
+               <td> 40 </td> <td> Sept. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (98%) </td>
           </tr>
           <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td>
@@ -313,11 +313,11 @@ at any experience level.
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
-               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (28%) </td>
+               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (30%) </td>
           </tr>
           <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td>
-               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (2%) </td>
+               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (4%) </td>
           </tr>
           <!--
           <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">

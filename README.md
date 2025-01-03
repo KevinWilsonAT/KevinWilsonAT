@@ -307,16 +307,28 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
-            <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (38%) </td>
+            <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (40%) </td>
         </tr>
         <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP Moderno - Módulo 1 </td>
-            <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (4%) </td>
+            <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (11%) </td>
+        </tr>
+        <tr title="Curso de Linguagem C: Módulo 00 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 00 - Estudonauta </td>
+            <td>  </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
         </tr>
         <!--
-        <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 4 </td>
-            <td> 16h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+        <tr title="Curso de Linguagem C: Módulo 01 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 01 - Estudonauta </td>
+            <td>  </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+        </tr>
+        <tr title="Curso de Linguagem C: Módulo 02 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 02 - Estudonauta </td>
+            <td>  </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+        </tr>
+        <tr title="Curso de Linguagem C: Módulo 03 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 03 - Estudonauta </td>
+            <td>  </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
         </tr>
         <tr title="Curso de Segurança da Informação: Módulo 0 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 0 </td>
@@ -338,13 +350,29 @@ em qualquer nível de experiência.
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 4 </td>
             <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
         </tr>
-        <tr title="Curso Introdutório de C# - LearnCafe">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico </td> <td> 10h </td>
-            <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+        <tr title="Curso de Segurança da Informação: Módulo 5 - Curso Em Vídeo">
+            <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 5 </td>
+            <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+        </tr>
+        <tr title="Curso de Segurança da Informação: Módulo 6 - Curso Em Vídeo">
+            <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 6 </td>
+            <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+        </tr>
+        <tr title="Curso de C# Básico- LearnCafe">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico </td>
+            <td>  </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+        </tr>
+        <tr title="Curso de C# Básico- CFB Cursos">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico </td>
+            <td>  </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
         </tr>
         <tr title="Curso de PhotoShop Básico - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="16px" height="16px"/> Curso de Photoshop Básico </td>
             <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+        </tr>
+        <tr title="Curso de PHP POO usando Code Igniter 4 - GoPHP">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 4 </td>
+            <td> 16h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
         </tr>
         <tr title="Curso de Python 3: Módulo 4 - Curso Em Vídeo">
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/>

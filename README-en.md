@@ -313,16 +313,17 @@ at any experience level.
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
-               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (38%) </td>
+               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (40%) </td>
           </tr>
           <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td>
-               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (4%) </td>
+               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (11%) </td>
+          </tr>
+          <tr title="C Language: Module 00 Course - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C Language - Module 00 Course - Estudonauta </td>
+               <td>  </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>
           <!--
-          <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 4 </td> <td> 16h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
-          </tr>
           <tr title="Information Security Course: Module 0 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 0 Course </td>
             <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
@@ -343,11 +344,25 @@ at any experience level.
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 4 Course </td>
             <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>
-          <tr title="C# Basic Introductory Course - LearnCafe">
+          <tr title="Information Security Course: Module 5 - Curso Em Vídeo">
+            <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 5 Course </td>
+            <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
+          </tr>
+          <tr title="Information Security Course: Module 6 - Curso Em Vídeo">
+            <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 6 Course </td>
+            <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
+          </tr>
+          <tr title="C# Basic Course - LearnCafe">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# - Basic Course </td> <td> 10h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
+          </tr>
+          <tr title="C# Basic Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# - Basic Course </td> <td> 10h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>
           <tr title="PhotoShop Basic Course - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="16px" height="16px"/> Photoshop - Basic Course </td> <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
+          </tr>
+          <tr title="PHP OOP Course using Code Igniter 4 - GoPHP">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 4 </td> <td> 16h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>
           <tr title="Python 3 Course: Module 4 - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Python 3 - Module 4 Course </td> <td> 40h </td> <td> start </td> <td> end </td> <td> ➖⌛ - Waiting Course to be published </td>

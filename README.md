@@ -104,10 +104,10 @@ em qualquer nível de experiência.
 <a href="https://www.behance.net/techx_multidev" title="BeHance" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="BeHance"/></a>
 
-<h2>📖 Cursos para 2024</h2>
+<h2>📖 Cursos</h2>
    
 <details>
-    <summary>Cursos Concluidos</summary>
+    <summary>Cursos Concluidos (43)</summary>
     <table width="100%">
         <thead>
             <tr> <th colspan="2"> Curso </th> <th> Início </th> <th> Conclusão </th> <th> Status </th> </tr>

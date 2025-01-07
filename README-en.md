@@ -313,15 +313,15 @@ at any experience level.
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
-               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (42%) </td>
+               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (43%) </td>
           </tr>
           <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td>
-               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (15%) </td>
+               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (17%) </td>
           </tr>
           <tr title="C Language: Module 00 Course - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C Language - Module 00 Course - Estudonauta </td>
-               <td>  </td> <td> Jan. 2025 </td> <td> <!--Jan. 2025--> </td> <td> ⏩📖 - Studying (33%) </td>
+               <td>  </td> <td> Jan. 2025 </td> <td> <!--Jan. 2025--> </td> <td> ⏩📖 - Studying (50%) </td>
           </tr>
           <!--
           <tr title="Information Security Course: Module 0 - Curso Em Vídeo">

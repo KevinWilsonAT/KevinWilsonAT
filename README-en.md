@@ -111,7 +111,7 @@ at any experience level.
 <h2>📖 Courses</h2>
 
 <details>
-     <summary>Completed Courses (43)</summary>
+     <summary>Completed Courses (44)</summary>
      <table width="100%">
           <thead>
                <tr> <th colspan=2> Course </th> <th> Beginning </th> <th> Completion </th> <th> Status </th> </tr>
@@ -291,6 +291,10 @@ at any experience level.
                     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td>
                     <td> 16h </td> <td> May 2024 </td> <td> Jan. 2025 </td> <td> ✔️ - Completed </td>
                </tr>
+               <tr title="C Language: Module 00 Course - Estudonauta">
+                    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C Language - Module 00 Course - Estudonauta </td>
+                    <td> 20h </td> <td> Jan. 2025 </td> <td> Jan. 2025 </td> <td> ✔️ - Completed </td>
+               </tr>
           </tbody>
      </table>
 </details>
@@ -313,17 +317,25 @@ at any experience level.
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
-               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (44%) </td>
+               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (46%) </td>
           </tr>
           <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td>
-               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (20%) </td>
-          </tr>
-          <tr title="C Language: Module 00 Course - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C Language - Module 00 Course - Estudonauta </td>
-               <td>  </td> <td> Jan. 2025 </td> <td> <!--Jan. 2025--> </td> <td> ⏩📖 - Studying (83%) </td>
+               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (22f%) </td>
           </tr>
           <!--
+          <tr title="C Language: Module 01 Course - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C Language - Module 01 Course - Estudonauta </td>
+               <td> 20h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
+          </tr>
+          <tr title="C Language: Module 02 Course - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C Language - Module 02 Course - Estudonauta </td>
+               <td> 20h </td> <td>  </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
+          </tr>
+          <tr title="C Language: Module 03 Course - Estudonauta">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C Language - Module 03 Course - Estudonauta </td>
+               <td> 20h </td> <td>  </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
+          </tr>
           <tr title="Information Security Course: Module 0 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 0 Course </td>
             <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>

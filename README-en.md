@@ -285,7 +285,7 @@ at any experience level.
                </tr>
                <tr title="Artificial Intelligence Course - Estudonauta">
                     <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Artificial Intelligence </td>
-                    <td> 40h </td> <td> Sept. 2024 </td> <td> Dec. 2024 </td> <td> ✔️ - Completed </td>
+                    <td> 40h </td> <td> Sept. 2024 </td> <td> Dec. 2024 </td> <td> 🌟 - Completed </td>
                </tr>
                <tr title="PHP OOP Course using Code Igniter 3 - GoPHP">
                     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> PHP OOP Course with Code Igniter 3 </td>

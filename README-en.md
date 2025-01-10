@@ -411,6 +411,12 @@ at any experience level.
      <img src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=3&margin-w=25&margin-h=20&no-frame=true&no-bg=true" /> <!-- ---------------------------------------------- GITHUB TROPHIES -->
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 <p align="center">
      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>

@@ -277,7 +277,7 @@ em qualquer nível de experiência.
             </tr>
             <tr title="Curso de Inteligência Artificial - Estudonauta">
                 <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Inteligência Artificial </td>
-                <td> 40h </td> <td> 09/24 </td> <td> 12/24 </td> <td> ✔️ - Concluído </td>
+                <td> 40h </td> <td> 09/24 </td> <td> 12/24 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de PHP POO usando Code Igniter 3 - GoPHP">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 3 </td>

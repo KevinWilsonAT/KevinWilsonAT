@@ -311,17 +311,17 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
-            <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (46%) </td>
+            <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (47%) </td>
         </tr>
         <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP Moderno - Módulo 1 </td>
-            <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (22%) </td>
+            <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (24%) </td>
         </tr>
-        <!--
         <tr title="Curso de Linguagem C: Módulo 01 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 01 - Estudonauta </td>
-            <td>  </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+            <td>  </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (12%) </td>
         </tr>
+        <!--
         <tr title="Curso de Linguagem C: Módulo 02 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 02 - Estudonauta </td>
             <td>  </td> <td>  </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>

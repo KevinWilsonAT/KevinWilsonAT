@@ -412,7 +412,7 @@ em qualquer nível de experiência.
     <img src="https://github-profile-trophy.vercel.app/?username=KevinWilsonAT&theme=monokai&column=3&margin-w=25&margin-h=20&no-frame=true&no-bg=true" /> <!-- ---------------------------------------------- TROFEUS GITHUB -->
 </div>
 
-<img src="https://github.com/KevinWilsonAT/KevinWilsonAT/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
+<img src="https://github.com/KevinWilsonAT/KevinWilsonAT/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
 
 <p align="center">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>

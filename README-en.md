@@ -317,7 +317,7 @@ at any experience level.
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
-               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (49%) </td>
+               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (50%) </td>
           </tr>
           <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td>
@@ -325,11 +325,11 @@ at any experience level.
           </tr>
           <tr title="C Language: Module 01 Course - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C Language - Module 01 Course - Estudonauta </td>
-               <td> 20h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (29%) </td>
+               <td> 20h </td> <td> Jan. 2025 </td> <td> <!--Jan. 2025--> </td> <td> ⏩📖 - Studying (59%) </td>
           </tr>
           <tr title="Web Developing: Module 01 Course - Estudonauta">
                <td> <img src="https://img.icons8.com/ios/50/google-code.png" width="16px" height="16px"/> Web Developing: Module 01 Course - Estudonauta </td>
-               <td>  </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (11%) </td>
+               <td>  </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (30%) </td>
           </tr>
           <!--
           <tr title="C Language: Module 02 Course - Estudonauta">

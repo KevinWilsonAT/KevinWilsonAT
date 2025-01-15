@@ -111,7 +111,7 @@ at any experience level.
 <h2>📖 Courses</h2>
 
 <details>
-     <summary>Completed Courses (44)</summary>
+     <summary>Completed Courses</summary>
      <table width="100%">
           <thead>
                <tr> <th colspan=2> Course </th> <th> Beginning </th> <th> Completion </th> <th> Status </th> </tr>
@@ -295,6 +295,10 @@ at any experience level.
                     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C Language - Module 00 Course - Estudonauta </td>
                     <td> 20h </td> <td> Jan. 2025 </td> <td> Jan. 2025 </td> <td> ✔️ - Completed </td>
                </tr>
+               <tr title="C Language: Module 01 Course - Estudonauta">
+                    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C Language - Module 01 Course - Estudonauta </td>
+                    <td> 20h </td> <td> Jan. 2025 </td> <td> Jan. 2025 </td> <td> ✔️ - Completed </td>
+               </tr>
           </tbody>
      </table>
 </details>
@@ -323,13 +327,9 @@ at any experience level.
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td>
                <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (35%) </td>
           </tr>
-          <tr title="C Language: Module 01 Course - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C Language - Module 01 Course - Estudonauta </td>
-               <td> 20h </td> <td> Jan. 2025 </td> <td> <!--Jan. 2025--> </td> <td> ⏩📖 - Studying (59%) </td>
-          </tr>
           <tr title="Web Developing: Module 01 Course - Estudonauta">
                <td> <img src="https://img.icons8.com/ios/50/google-code.png" width="16px" height="16px"/> Web Developing: Module 01 Course - Estudonauta </td>
-               <td>  </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (30%) </td>
+               <td>  </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (59%) </td>
           </tr>
           <!--
           <tr title="C Language: Module 02 Course - Estudonauta">

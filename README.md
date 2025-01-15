@@ -107,7 +107,7 @@ em qualquer nível de experiência.
 <h2>📖 Cursos</h2>
    
 <details>
-    <summary>Cursos Concluidos (44)</summary>
+    <summary>Cursos Concluidos</summary>
     <table width="100%">
         <thead>
             <tr> <th colspan="2"> Curso </th> <th> Início </th> <th> Conclusão </th> <th> Status </th> </tr>
@@ -287,6 +287,10 @@ em qualquer nível de experiência.
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 00 - Estudonauta </td>
                 <td>  </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
             </tr>
+            <tr title="Curso de Linguagem C: Módulo 01 - Estudonauta">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 01 - Estudonauta </td>
+                <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -317,14 +321,10 @@ em qualquer nível de experiência.
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP Moderno - Módulo 1 </td>
             <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (35%) </td>
         </tr>
-        <tr title="Curso de Linguagem C: Módulo 01 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 01 - Estudonauta </td>
-            <td>  </td> <td> 01/25 </td> <td> <!--01/25--> </td> <td> ⏩📖 - Estudando (59%) </td>
-        </tr>
         <tr title="Curso de Desenvolvimento Web: Módulo 01 - Estudonauta">
-               <td> <img src="https://img.icons8.com/ios/50/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 01 - Estudonauta </td>
-               <td>  </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (30%) </td>
-          </tr>
+            <td> <img src="https://img.icons8.com/ios/50/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 01 - Estudonauta </td>
+            <td>  </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (59%) </td>
+        </tr>
         <!--
         <tr title="Curso de Linguagem C: Módulo 02 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 02 - Estudonauta </td>

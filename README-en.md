@@ -317,7 +317,7 @@ at any experience level.
           </tr>
           <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td>
-               <td> 20h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (75%) </td>
+               <td> 60h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (75%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>
@@ -329,15 +329,19 @@ at any experience level.
           </tr>
           <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td>
-               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (39%) </td>
+               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (41%) </td>
           </tr>
           <tr title="C Language: Module 02 Course - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C Language - Module 02 Course - Estudonauta </td>
-               <td>  </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (30%) </td>
+               <td>  </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (57%) </td>
           </tr>
           <tr title="Web Developing: Module 02 Course - Estudonauta">
                <td> <img src="https://img.icons8.com/ios/50/google-code.png" width="16px" height="16px"/> Web Developing: Module 02 Course - Estudonauta </td>
-               <td>  </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (10%) </td>
+               <td> 40h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (25%) </td>
+          </tr>
+          <tr title="Information Security Course: Module 5 - Curso Em Vídeo">
+            <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 5 Course </td>
+            <td> 20h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (29%) </td>
           </tr>
           <!--
           <tr title="C Language: Module 03 Course - Estudonauta">
@@ -362,10 +366,6 @@ at any experience level.
           </tr>
           <tr title="Information Security Course: Module 4 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 4 Course </td>
-            <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
-          </tr>
-          <tr title="Information Security Course: Module 5 - Curso Em Vídeo">
-            <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 5 Course </td>
             <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>
           <tr title="Information Security Course: Module 6 - Curso Em Vídeo">

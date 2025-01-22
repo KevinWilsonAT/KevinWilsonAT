@@ -323,29 +323,29 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
-            <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (56%) </td>
+            <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (57%) </td>
         </tr>
         <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP Moderno - Módulo 1 </td>
-            <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (43%) </td>
+            <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (46%) </td>
+        <tr title="Curso de Linguagem C: Módulo 03 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 03 - Estudonauta </td>
+            <td>  </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (35%) </td>
+        </tr>
         </tr>
         <tr title="Curso de Segurança da Informação: Módulo 5 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 5 </td>
-            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (50%) </td>
+            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (75%) </td>
         </tr>
         <tr title="Curso de Desenvolvimento Web: Módulo 02 - Estudonauta">
             <td> <img src="https://img.icons8.com/ios/50/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 02 - Estudonauta </td>
-            <td> 40h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (40%) </td>
+            <td> 40h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (57%) </td>
         </tr>
-        <tr title="Curso de Linguagem C: Módulo 03 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 03 - Estudonauta </td>
-            <td>  </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
-        </tr>
-        <!--
         <tr title="Curso de Segurança da Informação: Módulo 0 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 0 </td>
-            <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (29%) </td>
         </tr>
+        <!--
         <tr title="Curso de Segurança da Informação: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 1 </td>
             <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>

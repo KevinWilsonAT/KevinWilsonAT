@@ -308,8 +308,16 @@ at any experience level.
                     <td> 20h </td> <td> Jan. 2025 </td> <td> Jan. 2025 </td> <td> ✔️ - Completed </td>
                </tr>
                <tr title="Information Security Course: Module 5 - Curso Em Vídeo">
-               <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 5 Course </td>
-               <td> 20h </td> <td> Jan. 2025 </td> <td> Jan. 2025 </td> <td> ✔️ - Completed </td>
+                    <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 5 Course </td>
+                    <td> 20h </td> <td> Jan. 2025 </td> <td> Jan. 2025 </td> <td> ✔️ - Completed </td>
+               </tr>
+               <tr title="C Language: Module 03 Course - Estudonauta">
+                    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C Language - Module 03 Course - Estudonauta </td>
+                    <td> 20h </td> <td> Jan. 2025 </td> <td> Jan. 2025 </td> <td> ✔️ - Completed </td>
+               </tr>
+               <tr title="Information Security Course: Module 0 - Curso Em Vídeo">
+                    <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 0 Course </td>
+                    <td> 20h </td> <td> Jan. 2025 </td> <td> Jan. 2025 </td> <td> ✔️ - Completed </td>
                </tr>
           </tbody>
      </table>
@@ -325,7 +333,7 @@ at any experience level.
           </tr>
           <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td>
-               <td> 60h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (75%) </td>
+               <td> 60h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (77%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>
@@ -333,23 +341,19 @@ at any experience level.
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
-               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (57%) </td>
+               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (58%) </td>
           </tr>
           <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td>
-               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (48%) </td>
+               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (52%) </td>
           </tr>
-          <tr title="C Language: Module 03 Course - Estudonauta">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> C Language - Module 03 Course - Estudonauta </td>
-               <td> 20h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (70%) </td>
-          </tr>
-          <tr title="Information Security Course: Module 0 - Curso Em Vídeo">
-            <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 0 Course </td>
-            <td> 20h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (59%) </td>
+          <tr title="Information Security Course: Module 6 - Curso Em Vídeo">
+               <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 6 Course </td>
+               <td> 20h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (35%) </td>
           </tr>
           <tr title="Web Developing: Module 02 Course - Estudonauta">
                <td> <img src="https://img.icons8.com/ios/50/google-code.png" width="16px" height="16px"/> Web Developing: Module 02 Course - Estudonauta </td>
-               <td> 40h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (71%) </td>
+               <td> 40h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (76%) </td>
           </tr>
           <!--
           <tr title="Information Security Course: Module 1 - Curso Em Vídeo">
@@ -366,10 +370,6 @@ at any experience level.
           </tr>
           <tr title="Information Security Course: Module 4 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 4 Course </td>
-            <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
-          </tr>
-          <tr title="Information Security Course: Module 6 - Curso Em Vídeo">
-            <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 6 Course </td>
             <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>
           <tr title="C# Basic Course - LearnCafe">

@@ -354,7 +354,7 @@ em qualquer nível de experiência.
             <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
         </tr>
         <tr title="Curso de Desenvolvimento Web: Módulo 02 - Estudonauta">
-            <td> <img src="https://img.icons8.com/ios/50/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 02 - Estudonauta </td>
+            <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 02 - Estudonauta </td>
             <td> 40h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (86%) </td>
         </tr>
         <!--

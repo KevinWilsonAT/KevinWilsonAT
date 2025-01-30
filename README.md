@@ -311,6 +311,10 @@ em qualquer nível de experiência.
                 <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 0 </td>
                 <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
             </tr>
+            <tr title="Curso de Segurança da Informação: Módulo 6 - Curso Em Vídeo">
+                <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 6 </td>
+                <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -339,25 +343,21 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP Moderno - Módulo 1 </td>
-            <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (59%) </td>
+            <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (61%) </td>
         </tr>
         <tr title="Curso de Segurança da Informação: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 1 </td>
-            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (16%) </td>
+            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (21%) </td>
         </tr>
-        <tr title="Curso de Segurança da Informação: Módulo 6 - Curso Em Vídeo">
-            <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 6 </td>
-            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (89%) </td>
+        <tr title="Curso de Segurança da Informação: Módulo 2 - Curso Em Vídeo">
+            <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 2 </td>
+            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
         </tr>
         <tr title="Curso de Desenvolvimento Web: Módulo 02 - Estudonauta">
             <td> <img src="https://img.icons8.com/ios/50/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 02 - Estudonauta </td>
             <td> 40h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (86%) </td>
         </tr>
         <!--
-        <tr title="Curso de Segurança da Informação: Módulo 2 - Curso Em Vídeo">
-            <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 2 </td>
-            <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
-        </tr>
         <tr title="Curso de Segurança da Informação: Módulo 3 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 3 </td>
             <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>

@@ -364,7 +364,7 @@ at any experience level.
                <td> 20h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (25%) </td>
           </tr>
           <tr title="Web Developing: Module 02 Course - Estudonauta">
-               <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Web Developing: Module 02 Course - Estudonauta </td>
+               <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Web Developing: Module 03 Course - Estudonauta </td>
                <td> 40h </td> <td>  </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
           </tr>
           <!--

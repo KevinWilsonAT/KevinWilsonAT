@@ -335,7 +335,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
-            <td> 60h </td> <td> 05/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (79%) </td>
+            <td> 60h </td> <td> 05/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (80%) </td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
@@ -347,19 +347,19 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP Moderno - Módulo 1 </td>
-            <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (74%) </td>
+            <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (76%) </td>
         </tr>
         <tr title="Curso de Segurança da Informação: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 1 </td>
-            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (26%) </td>
+            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (47%) </td>
         </tr>
         <tr title="Curso de Segurança da Informação: Módulo 2 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 2 </td>
-            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (25%) </td>
+            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (43%) </td>
         </tr>
-        <tr title="Curso de Desenvolvimento Web: Módulo 02 - Estudonauta">
+        <tr title="Curso de Desenvolvimento Web: Módulo 03 - Estudonauta">
             <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 03 - Estudonauta </td>
-            <td> 40h </td> <td>  </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+            <td> 40h </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (20%) </td>
         </tr>
         <!--
         <tr title="Curso de Segurança da Informação: Módulo 3 - Curso Em Vídeo">

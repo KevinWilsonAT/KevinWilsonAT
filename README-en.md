@@ -13,7 +13,7 @@
 </p> 
 Graduated in Systems Analysis and Development in 2017 and postgraduate degree in Data Science and Artificial Intelligence in 2024.
 
-I'm a Web and Sotfware Developer since 2023. I believe that in learning, in addition to programming efficiency,
+I'm a Web and Sotfware Developer for 4 years. I believe that in learning, in addition to programming efficiency,
 it is also necessary to be someone who is always willing to <strong>learn</strong>, <strong>interact</strong>, <strong>innovate</strong>, <strong >adapt to grow</strong>.
 
 For me, a good programming is done with clean and easy to read codes, which are understandable to developers
@@ -353,19 +353,19 @@ at any experience level.
           </tr>
           <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td>
-               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (76%) </td>
+               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (78%) </td>
           </tr>
           <tr title="Information Security Course: Module 1 - Curso Em Vídeo">
                <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 1 Course </td>
-               <td> 20h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (47%) </td>
+               <td> 20h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (68%) </td>
           </tr>
           <tr title="Information Security Course: Module 2 - Curso Em Vídeo">
                <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 2 Course </td>
-               <td> 20h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (43%) </td>
+               <td> 20h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (61%) </td>
           </tr>
           <tr title="Web Developing: Module 03 Course - Estudonauta">
                <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Web Developing: Module 03 Course - Estudonauta </td>
-               <td> 40h </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (20%) </td>
+               <td> 40h </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (40%) </td>
           </tr>
           <!--
           <tr title="Information Security Course: Module 3 - Curso Em Vídeo">

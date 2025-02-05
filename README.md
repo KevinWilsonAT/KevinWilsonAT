@@ -12,7 +12,7 @@
 </p>
 Formado em Análise de Sistemas em 2017 e pós-graduado em Ciência de Dados e Inteligência Artificial em 2024.
 
-Sou Desenvolvedor Web e Desenvolvedor de Software há 1 ano. Acredito que no aprendizado, além da eficiência na programação, também é necessário ser alguém que esteja sempre disposto a <strong>aprender</strong>, <strong>interagir</strong>, <strong>inovar</strong>, <strong>se adaptar para crescer</strong>.
+Sou Desenvolvedor Web e Desenvolvedor de Software há 4 anos. Acredito que no aprendizado, além da eficiência na programação, também é necessário ser alguém que esteja sempre disposto a <strong>aprender</strong>, <strong>interagir</strong>, <strong>inovar</strong>, <strong>se adaptar para crescer</strong>.
   
 Para mim, uma boa programação deve ser limpa e de fácil leitura, com códigos compreensíveis a desenvolvedores
 em qualquer nível de experiência.
@@ -347,19 +347,19 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP Moderno - Módulo 1 </td>
-            <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (76%) </td>
+            <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (78%) </td>
         </tr>
         <tr title="Curso de Segurança da Informação: Módulo 1 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 1 </td>
-            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (47%) </td>
+            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (68%) </td>
         </tr>
         <tr title="Curso de Segurança da Informação: Módulo 2 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 2 </td>
-            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (43%) </td>
+            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (61%) </td>
         </tr>
         <tr title="Curso de Desenvolvimento Web: Módulo 03 - Estudonauta">
             <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 03 - Estudonauta </td>
-            <td> 40h </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (20%) </td>
+            <td> 40h </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (40%) </td>
         </tr>
         <!--
         <tr title="Curso de Segurança da Informação: Módulo 3 - Curso Em Vídeo">

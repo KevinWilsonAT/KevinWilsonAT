@@ -32,6 +32,7 @@ em qualquer nível de experiência.
 <h3>Back End:</h3>
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Experiência com Node.js: Em aprendizado"><!-- NODE.JS -->
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" title="Experiência com Express.js: Em aprendizado"><!-- EXPRESS.JS -->
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="Experiência com PHP: 7/10 - Em aprendizado"><!-- PHP -->
 <img src="https://img.shields.io/badge/CodeIgniter_3-EF4223?&style=for-the-badge&logo=codeigniter&logoColor=white" title="Experiência com Code Igniter 3: 6/10 - Em aprendizado"><!-- CI3 -->
 <!--<img src="https://img.shields.io/badge/Nest.js-171A1C?style=for-the-badge&logo=nestjs&logoColor=EB2845" title="Experiência com Nest.js: Em aprendizado"><!-- NEST.JS -->
@@ -44,6 +45,7 @@ em qualquer nível de experiência.
 <h3>Banco de Dados:</h3>
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="Experiência com MySQL: 7/10 - Em Aprendizado"><!-- MYSQL -->
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="Experiência com MongoDB: Em aprendizado"><!-- MONGODB -->
 
 <h3>Desktop e Analise de Dados:</h3>
 

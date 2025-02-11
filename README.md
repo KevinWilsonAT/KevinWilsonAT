@@ -118,7 +118,7 @@ em qualquer nível de experiência.
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16px" height="16px"/> Intensivão de JavaScript </td>
                 <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟 - Concluído </td>
             </tr>
-            <tr title="Intensivão de Python - Hashtag Treinamentos">
+            <tr title="Jornada: Intensivão de Python - Hashtag Treinamentos">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Intensivão de Python </td>
                 <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> 🌟 - Concluído </td>
             </tr>
@@ -327,6 +327,14 @@ em qualquer nível de experiência.
                 <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 03 - Estudonauta </td>
                 <td> 40h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ✔️ - Concluído </td>
             </tr>
+            <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP Moderno - Módulo 1 </td>
+                <td> 40h </td> <td> 12/24 </td> <td> 02/25 </td> <td> ✔️ - Concluído </td>
+            </tr>
+            <tr title="Curso de Segurança da Informação: Módulo 2 - Curso Em Vídeo">
+                <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 2 </td>
+                <td> 20h </td> <td> 01/25 </td> <td> 02/25 </td> <td> ✔️ - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -341,39 +349,39 @@ em qualquer nível de experiência.
         <tr>
             <td colspan=5></td>
         </tr>
+        <tr title="Jornada: Intensivão Fullstack - Hashtag Treinamentos">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Intensivão Fullstack </td>
+            <td> 8h </td> <td> 02/25 </td> <td> 02/25 </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (25%) </td>
+        </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
-            <td> 60h </td> <td> 05/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (84%) </td>
+            <td> 60h </td> <td> 05/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (85%) </td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
-            <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (31%) </td>
+            <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (32%) </td>
         </tr>
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
             <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (64%) </td>
         </tr>
-        <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP Moderno - Módulo 1 </td>
-            <td> 40h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (93%) </td>
+        <tr title="Curso de Desenvolvimento Web: Módulo 04 - Estudonauta">
+            <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 04 - Estudonauta </td>
+            <td> 40h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ⏩📖 - Estudando (27%) </td>
         </tr>
-        <tr title="Curso de Segurança da Informação: Módulo 2 - Curso Em Vídeo">
-            <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 2 </td>
-            <td> 20h </td> <td> 01/25 </td> <td>  </td> <td> ⏩📖 - Estudando (89%) </td>
-        </tr>
-        <!--
-        <tr title="Curso de Desenvolvimento Web: Módulo 03 - Estudonauta">
-            <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 03 - Estudonauta </td>
-            <td> 40h </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (60%) </td>
+        <tr title="Curso de Desenvolvimento Web: Módulo 05 - Estudonauta">
+            <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 05 - Estudonauta </td>
+            <td> 40h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ⏩📖 - Estudando (33%) </td>
         </tr>
         <tr title="Curso de Segurança da Informação: Módulo 3 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 3 </td>
-            <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+            <td> 20h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ⏩📖 - Estudando (25%) </td>
         </tr>
         <tr title="Curso de Segurança da Informação: Módulo 4 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 4 </td>
-            <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>
+            <td> 20h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ⏩📖 - Estudando (29%) </td>
         </tr>
+        <!--
         <tr title="Curso de C# Básico- LearnCafe">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico </td>
             <td>  </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>

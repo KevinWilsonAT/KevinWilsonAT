@@ -335,6 +335,18 @@ at any experience level.
                     <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Web Developing: Module 03 Course - Estudonauta </td>
                     <td> 40h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> ✔️ - Completed </td>
                </tr>
+               <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo">
+                    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td>
+                    <td> 40h </td> <td> Dec. 2024 </td> <td> Feb. 2025 </td> <td> ✔️ - Completed </td>
+               </tr>
+               <tr title="Information Security Course: Module 2 - Curso Em Vídeo">
+                    <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 2 Course </td>
+                    <td> 20h </td> <td> Jan. 2025 </td> <td> Feb. 2025 </td> <td> ✔️ - Completed </td>
+               </tr>
+               <tr title="Web Developing: Module 03 Course - Estudonauta">
+                    <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Web Developing: Module 03 Course - Estudonauta </td>
+                    <td> 40h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> ✔️ - Completed </td>
+               </tr>
           </tbody>
      </table>
 </details>
@@ -347,39 +359,40 @@ at any experience level.
           <tr>
                <td colspan=5></td>
           </tr>
+          <tr title="Journey: Fullstack Intensive Course - Hashtag Treinamentos">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>
+                    Fullstack Intensive Course </td>
+               <td> 8h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> ⏩📖 - Studying (25%) <!-- 🌟 - Completed --> </td> 
+          </tr>
           <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td>
-               <td> 60h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (84%) </td>
+               <td> 60h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (85%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>
-               <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (31%) </td>
+               <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (32%) </td>
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
                <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (64%) </td>
           </tr>
-          <tr title="Modern PHP Course: Module 1 - Curso Em Vídeo">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Modern PHP Course - Module 1 Course </td>
-               <td> 40h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (93%) </td>
+          <tr title="Web Developing: Module 04 Course - Estudonauta">
+               <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Web Developing: Module 04 Course - Estudonauta </td>
+               <td> 40h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> ⏩📖 - Studying (27%) </td>
           </tr>
-          <tr title="Information Security Course: Module 2 - Curso Em Vídeo">
-               <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 2 Course </td>
-               <td> 20h </td> <td> Jan. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (89%) </td>
-          </tr>
-          <!--
-          <tr title="Web Developing: Module 03 Course - Estudonauta">
-               <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Web Developing: Module 03 Course - Estudonauta </td>
-               <td> 40h </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (60%) </td>
+          <tr title="Web Developing: Module 05 Course - Estudonauta">
+               <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Web Developing: Module 05 Course - Estudonauta </td>
+               <td> 40h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> ⏩📖 - Studying (33%) </td>
           </tr>
           <tr title="Information Security Course: Module 3 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 3 Course </td>
-            <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
+            <td> 20h </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (25%) </td>
           </tr>
           <tr title="Information Security Course: Module 4 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 4 Course </td>
-            <td> 20h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
+            <td> 20h </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (29%) </td>
           </tr>
+          <!--
           <tr title="C# Basic Course - LearnCafe">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# - Basic Course </td> <td> 10h </td> <td>  </td> <td>  </td> <td> ➖⌛ - Waiting </td>
           </tr>

@@ -353,7 +353,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Jornada: Intensivão Fullstack - Hashtag Treinamentos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Intensivão Fullstack </td>
-            <td> 8h </td> <td> 02/25 </td> <td> 02/25 </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (50%) </td>
+            <td> 8h </td> <td> 02/25 </td> <td> 02/25 </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (75%) </td>
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
@@ -369,19 +369,19 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Segurança da Informação: Módulo 3 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 3 </td>
-            <td> 20h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ⏩📖 - Estudando (50%) </td>
+            <td> 20h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ⏩📖 - Estudando (75%) </td>
         </tr>
         <tr title="Curso de Segurança da Informação: Módulo 4 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 4 </td>
-            <td> 20h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ⏩📖 - Estudando (53%) </td>
+            <td> 20h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ⏩📖 - Estudando (76%) </td>
         </tr>
         <tr title="Curso de Desenvolvimento Web: Módulo 04 - Estudonauta">
             <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 04 - Estudonauta </td>
-            <td> 40h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ⏩📖 - Estudando (55%) </td>
+            <td> 40h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ⏩📖 - Estudando (77%) </td>
         </tr>
         <tr title="Curso de Desenvolvimento Web: Módulo 05 - Estudonauta">
-            <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 05 - Estudonauta </td>
-            <td> 40h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ⏩📖 - Estudando (67%) </td>
+            <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 05 - Estudonauta / Curso Em Video (Lançando) </td>
+            <td> 40h </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (90%) </td>
         </tr>
         <!--
         <tr title="Curso de C# Básico- LearnCafe">

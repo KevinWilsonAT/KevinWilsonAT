@@ -364,7 +364,7 @@ at any experience level.
           <tr title="Journey: Fullstack Intensive Course - Hashtag Treinamentos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/>
                     Fullstack Intensive Course </td>
-               <td> 8h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> ⏩📖 - Studying (50%) <!-- 🌟 - Completed --> </td> 
+               <td> 8h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> ⏩📖 - Studying (75%) <!-- 🌟 - Completed --> </td> 
           </tr>
           <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td>
@@ -380,19 +380,19 @@ at any experience level.
           </tr>
           <tr title="Information Security Course: Module 3 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 3 Course </td>
-            <td> 20h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> ⏩📖 - Studying (50%) </td>
+            <td> 20h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> ⏩📖 - Studying (75%) </td>
           </tr>
           <tr title="Information Security Course: Module 4 - Curso Em Vídeo">
             <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Information Security - Module 4 Course </td>
-            <td> 20h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> ⏩📖 - Studying (53%) </td>
+            <td> 20h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> ⏩📖 - Studying (76%) </td>
           </tr>
           <tr title="Web Developing: Module 04 Course - Estudonauta">
                <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Web Developing: Module 04 Course - Estudonauta </td>
-               <td> 40h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> ⏩📖 - Studying (55%) </td>
+               <td> 40h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> ⏩📖 - Studying (77%) </td>
           </tr>
           <tr title="Web Developing: Module 05 Course - Estudonauta">
-               <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Web Developing: Module 05 Course - Estudonauta </td>
-               <td> 40h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> ⏩📖 - Studying (67%) </td>
+               <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Web Developing: Module 05 Course - Estudonauta / Curso Em Video (Publishing) </td>
+               <td> 40h </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (90%) </td>
           </tr>
           <!--
           <tr title="C# Basic Course - LearnCafe">

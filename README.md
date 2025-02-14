@@ -349,6 +349,10 @@ em qualquer nível de experiência.
                 <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 04 - Estudonauta </td>
                 <td> 40h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ✔️ - Concluído </td>
             </tr>
+            <tr title="Jornada: Intensivão Fullstack - Hashtag Treinamentos">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Intensivão Fullstack </td>
+                <td> 10h </td> <td> 02/25 </td> <td> 02/25 </td> <td> 🌟 - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -362,10 +366,6 @@ em qualquer nível de experiência.
     <tbody>
         <tr>
             <td colspan=5></td>
-        </tr>
-        <tr title="Jornada: Intensivão Fullstack - Hashtag Treinamentos">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Intensivão Fullstack </td>
-            <td> 8h </td> <td> 02/25 </td> <td> 02/25 </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (80%) </td>
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>

@@ -294,7 +294,7 @@ em qualquer nível de experiência.
                 <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
             </tr>
             <tr title="Curso de Desenvolvimento Web: Módulo 01 - Estudonauta">
-                <td> <img src="https://img.icons8.com/ios/50/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 01 - Estudonauta </td>
+                <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 01 - Estudonauta </td>
                 <td> 40h </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
             </tr>
             <tr title="Curso de Linguagem C: Módulo 02 - Estudonauta">
@@ -383,7 +383,67 @@ em qualquer nível de experiência.
             <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 05 - Estudonauta / Curso Em Video (Lançando) </td>
             <td> 40h </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (90%) </td>
         </tr>
+        <tr title="Curso de C#: Módulo 00 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C#: Módulo 00 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (38%) </td>
+        </tr>
+        <tr title="Curso de Linux: Módulo 00 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 00 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (36%) </td>
+        </tr>
+        <tr title="Curso de Produção de Vídeo: Módulo 01 - Estudonauta">
+            <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 01 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (38%) </td>
+        </tr>
         <!--
+        <tr title="C#: Módulo 01 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C#: Módulo 01 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
+        <tr title="C#: Módulo 02 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C#: Módulo 02 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
+        <tr title="Curso de Linux: Módulo 01 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 01 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
+        <tr title="Curso de Linux: Módulo 02 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 02 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
+        <tr title="Curso de Linux: Módulo 03 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 03 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
+        <tr title="Curso de Linux: Módulo 04 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 04 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
+        <tr title="Curso de Linux: Módulo 05 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 05 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
+        <tr title="Curso de Produção de Vídeo: Módulo 02 - Estudonauta">
+            <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 02 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
+        <tr title="Curso de Produção de Vídeo: Módulo 03 - Estudonauta">
+            <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 03 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
+        <tr title="Curso de Produção de Vídeo: Módulo 04 - Estudonauta">
+            <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 04 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
+        <tr title="Curso de Produção de Vídeo: Módulo 05 - Estudonauta">
+            <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 05 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
+        <tr title="Curso de Produção de Vídeo: Módulo 06 - Estudonauta">
+            <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 06 - Estudonauta </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+        </tr>
         <tr title="Curso de C# Básico- LearnCafe">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico </td>
             <td>  </td> <td>  </td> <td>  </td> <td> ➖⌛ - Aguardando </td>

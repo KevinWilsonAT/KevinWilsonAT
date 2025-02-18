@@ -396,15 +396,19 @@ at any experience level.
           </tr>
           <tr title="C#: Module 00 Course - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C#: Module 00 Course - Estudonauta </td>
-               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (38%) </td>
+               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (75%) </td>
           </tr>
           <tr title="Linux: Module 00 Course - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Linux: Module 00 Course - Estudonauta </td>
-               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (36%) </td>
+               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (71%) </td>
           </tr>
           <tr title="Video Production: Module 01 Course - Estudonauta">
                <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Video Production: Module 01 Course - Estudonauta </td>
-               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (38%) </td>
+               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (75%) </td>
+          </tr>
+          <tr title="Journey: IA Revolution Course - Tetra Educação">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Journey: IA Revolution Course - Tetra Educação </td>
+               <td> 8h </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (25%) <!-- 🌟 - Completed --> </td> 
           </tr>
           <!--
           <tr title="C#: Module 01 Course - Estudonauta">

@@ -378,6 +378,14 @@ at any experience level.
                     <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Video Production: Module 01 Course - Estudonauta </td>
                     <td> 20h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> 🌟 - Completed </td>
                </tr>
+               <tr title="Video Production: Module 02 Course - Estudonauta">
+                    <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Video Production: Module 02 Course - Estudonauta </td>
+                    <td> 20h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> 🌟 - Completed </td>
+               </tr>
+               <tr title="Journey: IA Revolution Course - Tetra Educação">
+                    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Journey: IA Revolution Course - Tetra Educação </td>
+                    <td> 8h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> 🌟 - Completed </td> 
+               </tr>
           </tbody>
      </table>
 </details>
@@ -406,21 +414,17 @@ at any experience level.
                <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Web Developing: Module 05 Course - Estudonauta / Curso Em Video (Publishing) </td>
                <td> 40h </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (90%) </td>
           </tr>
-          <tr title="Journey: IA Revolution Course - Tetra Educação">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Journey: IA Revolution Course - Tetra Educação </td>
-               <td> 8h </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (75%) <!-- 🌟 - Completed --> </td> 
-          </tr>
           <tr title="C#: Module 01 Course - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C#: Module 01 Course - Estudonauta </td>
-               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (16%) </td>
+               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (28%) </td>
           </tr>
           <tr title="Linux: Module 01 Course - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Linux: Module 01 Course - Estudonauta </td>
-               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (40%) </td>
+               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (73%) </td>
           </tr>
-          <tr title="Video Production: Module 02 Course - Estudonauta">
-               <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Video Production: Module 02 Course - Estudonauta </td>
-               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (57%) </td>
+          <tr title="Video Production: Module 03 Course - Estudonauta">
+               <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Video Production: Module 03 Course - Estudonauta </td>
+               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
           </tr>
           <!--
           <tr title="C#: Module 02 Course - Estudonauta">
@@ -441,10 +445,6 @@ at any experience level.
           </tr>
           <tr title="Linux: Module 05 Course - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Linux: Module 05 Course - Estudonauta </td>
-               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
-          </tr>
-          <tr title="Video Production: Module 03 Course - Estudonauta">
-               <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Video Production: Module 03 Course - Estudonauta </td>
                <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
           </tr>
           <tr title="Video Production: Module 04 Course - Estudonauta">

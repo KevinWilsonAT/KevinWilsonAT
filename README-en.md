@@ -420,7 +420,7 @@ at any experience level.
           </tr>
           <tr title="C#: Module 01 Course - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C#: Module 01 Course - Estudonauta </td>
-               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (52%) </td>
+               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (68%) </td>
           </tr>
           <tr title="Video Production: Module 03 Course - Estudonauta">
                <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Video Production: Module 03 Course - Estudonauta </td>

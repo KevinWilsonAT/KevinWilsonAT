@@ -402,6 +402,10 @@ at any experience level.
                     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C#: Module 01 Course - Estudonauta </td>
                     <td> 20h </td> <td> Feb. 2025 </td> <td> Feb. 2025 </td> <td> 🌟 - Completed </td>
                </tr>
+               <tr title="Video Production: Module 04 Course - Estudonauta">
+                    <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Video Production: Module 04 Course - Estudonauta </td>
+                    <td> 20h </td> <td> Feb. 2025 </td> <td> Feb.2025 </td> <td> 🌟 - Completed </td>
+               </tr>
           </tbody>
      </table>
 </details>
@@ -432,15 +436,15 @@ at any experience level.
           </tr>
           <tr title="C#: Module 02 Course - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C#: Module 02 Course - Estudonauta </td>
-               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (8%) </td>
+               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (15%) </td>
           </tr>
           <tr title="Linux: Module 03 Course - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Linux: Module 03 Course - Estudonauta </td>
-               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (48%) </td>
+               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (71%) </td>
           </tr>
-          <tr title="Video Production: Module 04 Course - Estudonauta">
-               <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Video Production: Module 04 Course - Estudonauta </td>
-               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (91%) </td>
+          <tr title="Video Production: Module 05 Course - Estudonauta">
+               <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Video Production: Module 05 Course - Estudonauta </td>
+               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (44%) </td>
           </tr>
           <!--
           <tr title="Linux: Module 04 Course - Estudonauta">
@@ -449,10 +453,6 @@ at any experience level.
           </tr>
           <tr title="Linux: Module 05 Course - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Linux: Module 05 Course - Estudonauta </td>
-               <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
-          </tr>
-          <tr title="Video Production: Module 05 Course - Estudonauta">
-               <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Video Production: Module 05 Course - Estudonauta </td>
                <td>  </td> <td> Feb. 2025 </td> <td>  </td> <td> ⏩📖 - Studying (0%) </td>
           </tr>
           <tr title="Video Production: Module 06 Course - Estudonauta">

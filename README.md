@@ -393,6 +393,10 @@ em qualquer nível de experiência.
                 <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 04 - Estudonauta </td>
                 <td> 20h </td> <td> 02/25 </td> <td> 02/25 </td> <td> 🌟 - Concluído </td>
             </tr>
+            <tr title="Curso de Linux: Módulo 03 - Estudonauta">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 03 - Estudonauta </td>
+                <td> 20h </td> <td> 02/25 </td> <td> 03/25 </td> <td> 🌟 - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -423,28 +427,24 @@ em qualquer nível de experiência.
         </tr>
         <tr title="C#: Módulo 02 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C#: Módulo 02 - Estudonauta </td>
-            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (23%) </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (31%) </td>
         </tr>
-        <tr title="Curso de Linux: Módulo 03 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 03 - Estudonauta </td>
-            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (95%) </td>
+        <tr title="Curso de Linux: Módulo 04 - Estudonauta">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 04 - Estudonauta </td>
+            <td>  </td> <td> 03/25 </td> <td>  </td> <td> ⏩📖 - Estudando (31%) </td>
         </tr>
         <tr title="Curso de Produção de Vídeo: Módulo 05 - Estudonauta">
             <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 05 - Estudonauta </td>
-            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (44%) </td>
+            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando 67%) </td>
         </tr>
         <!--
-        <tr title="Curso de Linux: Módulo 04 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 04 - Estudonauta </td>
-            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
-        </tr>
         <tr title="Curso de Linux: Módulo 05 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 05 - Estudonauta </td>
-            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+            <td>  </td> <td> 03/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
         </tr>
         <tr title="Curso de Produção de Vídeo: Módulo 06 - Estudonauta">
             <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 06 - Estudonauta </td>
-            <td>  </td> <td> 02/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
+            <td>  </td> <td> 03/25 </td> <td>  </td> <td> ⏩📖 - Estudando (0%) </td>
         </tr>
         <tr title="Curso de C# Básico- LearnCafe">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico </td>

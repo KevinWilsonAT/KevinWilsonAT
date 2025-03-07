@@ -435,15 +435,15 @@ em qualquer nível de experiência.
         </tr>
         <tr title="C#: Módulo 02 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C#: Módulo 02 - Estudonauta </td>
-            <td> 20h </td> <td> 02/25 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (54%) </td>
+            <td> 20h </td> <td> 02/25 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (62%) </td>
         </tr>
         <tr title="Curso de Linux: Módulo 05 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 05 - Estudonauta </td>
-            <td> 20h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (0%) </td>
+            <td> 20h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (40%) </td>
         </tr>
         <tr title="Curso de Produção de Vídeo: Módulo 06 - Estudonauta">
             <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 06 - Estudonauta </td>
-            <td> 20h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (31%) </td>
+            <td> 20h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (46%) </td>
         </tr>
         <!--
         <tr title="Curso de C# Básico- LearnCafe">

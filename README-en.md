@@ -448,11 +448,11 @@ at any experience level.
           </tr>
           <tr title="C#: Module 02 Course - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C#: Module 02 Course - Estudonauta </td>
-               <td> 20h </td> <td> Feb. 2025 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (62%) </td>
+               <td> 20h </td> <td> Feb. 2025 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (69%) </td>
           </tr>
           <tr title="Linux: Module 05 Course - Estudonauta">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Linux: Module 05 Course - Estudonauta </td>
-               <td> 20h </td> <td> March 2025 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (40%) </td>
+               <td> 20h </td> <td> March 2025 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (73%) </td>
           </tr>
           <tr title="Video Production: Module 06 Course - Estudonauta">
                <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Video Production: Module 06 Course - Estudonauta </td>

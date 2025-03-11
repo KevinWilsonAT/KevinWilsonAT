@@ -423,7 +423,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
-            <td> 60h </td> <td> 05/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (89%) </td>
+            <td> 60h </td> <td> 05/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (90%) </td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
@@ -435,7 +435,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="C#: Módulo 02 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C#: Módulo 02 - Estudonauta </td>
-            <td> 20h </td> <td> 02/25 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (69%) </td>
+            <td> 20h </td> <td> 02/25 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (77%) </td>
         </tr>
         <tr title="Curso de Linux: Módulo 05 - Estudonauta">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 05 - Estudonauta </td>
@@ -443,7 +443,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de Produção de Vídeo: Módulo 06 - Estudonauta">
             <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 06 - Estudonauta </td>
-            <td> 20h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (46%) </td>
+            <td> 20h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (77%) </td>
         </tr>
         <!--
         <tr title="Curso de C# Básico- LearnCafe">

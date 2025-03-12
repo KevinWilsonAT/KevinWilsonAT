@@ -283,71 +283,71 @@ em qualquer nível de experiência.
             </tr>
             <tr title="Curso de PHP POO usando Code Igniter 3 - GoPHP">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="16px" height="16px"/> Curso de PHP POO com Code Igniter 3 </td>
-                <td> 16h </td> <td> 05/24 </td> <td> 02/25 </td> <td> ✔️ - Concluído </td>
+                <td> 16h </td> <td> 05/24 </td> <td> 02/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Linguagem C: Módulo 00 - Estudonauta">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 00 - Estudonauta </td>
-                <td>  </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
+                <td>  </td> <td> 01/25 </td> <td> 01/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Linguagem C: Módulo 01 - Estudonauta">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 01 - Estudonauta </td>
-                <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
+                <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Desenvolvimento Web: Módulo 01 - Estudonauta">
                 <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 01 - Estudonauta </td>
-                <td> 40h </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
+                <td> 40h </td> <td> 01/25 </td> <td> 01/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Linguagem C: Módulo 02 - Estudonauta">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 02 - Estudonauta </td>
-                <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
+                <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Segurança da Informação: Módulo 5 - Curso Em Vídeo">
                 <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 5 </td>
-                <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
+                <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Linguagem C: Módulo 03 - Estudonauta">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="16px" height="16px"/> Curso de Linguagem C: Módulo 03 - Estudonauta </td>
-                <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
+                <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Segurança da Informação: Módulo 0 - Curso Em Vídeo">
                 <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 0 </td>
-                <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
+                <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Segurança da Informação: Módulo 6 - Curso Em Vídeo">
                 <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 6 </td>
-                <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
+                <td> 20h </td> <td> 01/25 </td> <td> 01/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Desenvolvimento Web: Módulo 02 - Estudonauta">
                 <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 02 - Estudonauta </td>
-                <td> 40h </td> <td> 01/25 </td> <td> 01/25 </td> <td> ✔️ - Concluído </td>
+                <td> 40h </td> <td> 01/25 </td> <td> 01/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Segurança da Informação: Módulo 1 - Curso Em Vídeo">
                 <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 1 </td>
-                <td> 20h </td> <td> 01/25 </td> <td> 02/25 </td> <td> ✔️ - Concluído </td>
+                <td> 20h </td> <td> 01/25 </td> <td> 02/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Desenvolvimento Web: Módulo 03 - Estudonauta">
                 <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 03 - Estudonauta </td>
-                <td> 40h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ✔️ - Concluído </td>
+                <td> 40h </td> <td> 02/25 </td> <td> 02/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de PHP Moderno: Módulo 1 - Curso Em Vídeo">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="16px" height="16px"/> Curso de PHP Moderno - Módulo 1 </td>
-                <td> 40h </td> <td> 12/24 </td> <td> 02/25 </td> <td> ✔️ - Concluído </td>
+                <td> 40h </td> <td> 12/24 </td> <td> 02/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Segurança da Informação: Módulo 2 - Curso Em Vídeo">
                 <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 2 </td>
-                <td> 20h </td> <td> 01/25 </td> <td> 02/25 </td> <td> ✔️ - Concluído </td>
+                <td> 20h </td> <td> 01/25 </td> <td> 02/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Segurança da Informação: Módulo 3 - Curso Em Vídeo">
                 <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 3 </td>
-                <td> 20h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ✔️ - Concluído </td>
+                <td> 20h </td> <td> 02/25 </td> <td> 02/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Segurança da Informação: Módulo 4 - Curso Em Vídeo">
                 <td> <img src="https://img.icons8.com/color/48/lock-2.png" width="16px" height="16px"/> Curso de Segurança da Informação - Módulo 4 </td>
-                <td> 20h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ✔️ - Concluído </td>
+                <td> 20h </td> <td> 02/25 </td> <td> 02/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso de Desenvolvimento Web: Módulo 04 - Estudonauta">
                 <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 04 - Estudonauta </td>
-                <td> 40h </td> <td> 02/25 </td> <td> 02/25 </td> <td> ✔️ - Concluído </td>
+                <td> 40h </td> <td> 02/25 </td> <td> 02/25 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Jornada: Intensivão Fullstack - Hashtag Treinamentos">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Intensivão Fullstack </td>
@@ -393,6 +393,10 @@ em qualquer nível de experiência.
                 <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 04 - Estudonauta </td>
                 <td> 20h </td> <td> 02/25 </td> <td> 02/25 </td> <td> 🌟 - Concluído </td>
             </tr>
+            <tr title="Curso de Desenvolvimento Web: Módulo 05 - Estudonauta">
+                <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 05 - Estudonauta / Curso Em Video (Lançando) </td>
+                <td> 40h </td> <td> 02/25 </td> <td> 03/25 </td> <td> ✔️ - Concluído </td>
+            </tr>
             <tr title="Curso de Linux: Módulo 03 - Estudonauta">
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 03 - Estudonauta </td>
                 <td> 20h </td> <td> 02/25 </td> <td> 03/25 </td> <td> 🌟 - Concluído </td>
@@ -404,6 +408,18 @@ em qualquer nível de experiência.
             <tr title="Curso de Produção de Vídeo: Módulo 05 - Estudonauta">
                 <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 05 - Estudonauta </td>
                 <td> 20h </td> <td> 02/25 </td> <td> 03/25 </td> <td> 🌟 - Concluído </td>
+            </tr>
+            <tr title="C#: Módulo 02 - Estudonauta">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C#: Módulo 02 - Estudonauta </td>
+                <td> 20h </td> <td> 02/25 </td> <td> 03/25 </td> <td> ✔️ - Concluído </td>
+            </tr>
+            <tr title="Curso de Linux: Módulo 05 - Estudonauta">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 05 - Estudonauta </td>
+                <td> 20h </td> <td> 03/25 </td> <td> 03/25 </td> <td> 🌟 - Concluído </td>
+            </tr>
+            <tr title="Curso de Produção de Vídeo: Módulo 06 - Estudonauta">
+                <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 06 - Estudonauta </td>
+                <td> 20h </td> <td> 03/25 </td> <td> 03/25 </td> <td> 🌟 - Concluído </td>
             </tr>
         </tbody>
     </table>
@@ -417,10 +433,6 @@ em qualquer nível de experiência.
         <tr>
             <td colspan=5></td>
         </tr>
-        <tr title="Curso de Desenvolvimento Web: Módulo 05 - Estudonauta">
-            <td> <img src="https://img.icons8.com/color/48/google-code.png" width="16px" height="16px"/> Curso de Desenvolvimento Web: Módulo 05 - Estudonauta / Curso Em Video (Lançando) </td>
-            <td> 40h </td> <td> 02/25 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (90%) </td>
-        </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
             <td> 60h </td> <td> 05/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (92%) </td>
@@ -432,18 +444,6 @@ em qualquer nível de experiência.
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
             <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (65%) </td>
-        </tr>
-        <tr title="C#: Módulo 02 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C#: Módulo 02 - Estudonauta </td>
-            <td> 20h </td> <td> 02/25 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (88%) </td>
-        </tr>
-        <tr title="Curso de Linux: Módulo 05 - Estudonauta">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="16px" height="16px"/> Curso de Linux: Módulo 05 - Estudonauta </td>
-            <td> 20h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (87%) </td>
-        </tr>
-        <tr title="Curso de Produção de Vídeo: Módulo 06 - Estudonauta">
-            <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 06 - Estudonauta </td>
-            <td> 20h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (92%) </td>
         </tr>
         <!--
         <tr title="Curso de C# Básico- LearnCafe">

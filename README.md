@@ -435,7 +435,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
-            <td> 60h </td> <td> 05/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (95%) </td>
+            <td> 60h </td> <td> 05/24 </td> <td> <!--Fim 03/25 --> </td> <td> ⏩📖 - Estudando (98%) </td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>

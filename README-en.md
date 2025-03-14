@@ -448,7 +448,7 @@ at any experience level.
           </tr>
           <tr title="React Basic Course - Matheus Battisti (Hora de Codar)">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td>
-               <td> 60h </td> <td> May 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (95%) </td>
+               <td> 60h </td> <td> May 2024 </td> <td> <!--End March 2025 --> </td> <td> ⏩📖 - Studying (98%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>

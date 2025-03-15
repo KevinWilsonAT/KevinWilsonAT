@@ -421,6 +421,10 @@ em qualquer nível de experiência.
                 <td> <img src="https://img.icons8.com/color/48/youtube-play.png" width="16px" height="16px"/> Curso de Produção de Vídeo: Módulo 06 - Estudonauta </td>
                 <td> 20h </td> <td> 03/25 </td> <td> 03/25 </td> <td> 🌟 - Concluído </td>
             </tr>
+            <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
+                <td> 60h </td> <td> 05/24 </td> <td> 03/25 </td> <td> ✔️ - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -433,17 +437,13 @@ em qualquer nível de experiência.
         <tr>
             <td colspan=5></td>
         </tr>
-        <tr title="Curso Básico de React - Matheus Battisti (Hora de Codar)">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
-            <td> 60h </td> <td> 05/24 </td> <td> <!--Fim 03/25 --> </td> <td> ⏩📖 - Estudando (98%) </td>
-        </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
             <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (34%) </td>
         </tr>
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
-            <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (65%) </td>
+            <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (67%) </td>
         </tr>
         <!--
         <tr title="Curso de C# Básico- LearnCafe">

@@ -121,7 +121,7 @@ em qualquer nível de experiência.
                 <td> 8h </td> <td> 01/24 </td> <td> 02/24 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Jornada: Intensivão de Python - Hashtag Treinamentos">
-                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Intensivão de Python </td>
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Jornada: Intensivão de Python (2024) </td>
                 <td> 8h </td> <td> 03/24 </td> <td> 03/24 </td> <td> 🌟 - Concluído </td>
             </tr>
             <tr title="Curso Básico de C - Pietro Martins">
@@ -437,13 +437,25 @@ em qualquer nível de experiência.
         <tr>
             <td colspan=5></td>
         </tr>
+        <tr title="Imersão IA na Prática - EmpowerData">
+            <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Imersão IA na Prática - EmpowerData </td>
+            <td> 8h </td> <td> 03/25 </td> <td> <!-- 03/25 --> </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (50%) </td>
+        </tr>
+        <tr title="Gestor de Automação com NoCode e IA - OneBitCode">
+            <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Gestor de Automação com NoCode e IA - OneBitCode </td>
+            <td> 2h </td> <td> 04/25 </td> <td> <!-- 04/25 --> </td> <td> <!-- 🌟 - Concluído ⏩📖 - Estudando (0%) --> ➖⌛ - Aguardando</td>
+        </tr>
+        <tr title="Jornada: Intensivão de Python - Hashtag Treinamentos">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Jornada: Intensivão de Python (2025) </td>
+            <td> 8h </td> <td> 04/25 </td> <td> <!-- 04/25 --> </td> <td> <!-- 🌟 - Concluído ⏩📖 - Estudando (0%) --> ➖⌛ - Aguardando</td>
+        </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
             <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (34%) </td>
         </tr>
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
-            <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (84%) </td>
+            <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (86%) </td>
         </tr>
         <!--
         <tr title="Curso de C# Básico- LearnCafe">

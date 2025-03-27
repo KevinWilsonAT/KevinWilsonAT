@@ -451,7 +451,7 @@ at any experience level.
           </tr>
           <tr title="AI Practical Imersion - EmpowerData">
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> AI Practical Imersion - EmpowerData </td>
-               <td> 8h </td> <td> March 2025 </td> <td> <!-- March 2025 --> </td> <td> <!-- 🌟 - Completed --> ⏩📖 - Studying (50%) </td>
+               <td> 8h </td> <td> March 2025 </td> <td> <!-- March 2025 --> </td> <td> <!-- 🌟 - Completed --> ⏩📖 - Studying (75%) </td>
           </tr>
           <tr title="Automation Managing with NoCode and AI - OneBitCode">
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Automation Managing with NoCode and AI - OneBitCode </td>
@@ -467,7 +467,7 @@ at any experience level.
           </tr>
           <tr title="C# Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
-               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (86%) </td>
+               <td> 36h </td> <td> Dec. 2024 </td> <td> <!--end--> </td> <td> ⏩📖 - Studying (88%) </td>
           </tr>
           <!--
           <tr title="C# Basic Course - LearnCafe">

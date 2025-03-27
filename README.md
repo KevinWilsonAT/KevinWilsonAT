@@ -439,7 +439,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Imersão IA na Prática - EmpowerData">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Imersão IA na Prática - EmpowerData </td>
-            <td> 8h </td> <td> 03/25 </td> <td> <!-- 03/25 --> </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (50%) </td>
+            <td> 8h </td> <td> 03/25 </td> <td> <!-- 03/25 --> </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (75%) </td>
         </tr>
         <tr title="Gestor de Automação com NoCode e IA - OneBitCode">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Gestor de Automação com NoCode e IA - OneBitCode </td>
@@ -455,7 +455,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de C# Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
-            <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (86%) </td>
+            <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (88%) </td>
         </tr>
         <!--
         <tr title="Curso de C# Básico- LearnCafe">

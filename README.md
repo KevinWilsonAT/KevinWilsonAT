@@ -425,6 +425,10 @@ em qualquer nível de experiência.
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> Curso de React Básico </td>
                 <td> 60h </td> <td> 05/24 </td> <td> 03/25 </td> <td> ✔️ - Concluído </td>
             </tr>
+            <tr title="Imersão IA na Prática - EmpowerData">
+                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Imersão IA na Prática - EmpowerData </td>
+                <td> 8h </td> <td> 03/25 </td> <td> 03/25 </td> <td> 🌟 - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -436,10 +440,6 @@ em qualquer nível de experiência.
     <tbody>
         <tr>
             <td colspan=5></td>
-        </tr>
-        <tr title="Imersão IA na Prática - EmpowerData">
-            <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Imersão IA na Prática - EmpowerData </td>
-            <td> 8h </td> <td> 03/25 </td> <td> <!-- 03/25 --> </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (75%) </td>
         </tr>
         <tr title="Gestor de Automação com NoCode e IA - OneBitCode">
             <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Gestor de Automação com NoCode e IA - OneBitCode </td>

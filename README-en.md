@@ -437,6 +437,10 @@ at any experience level.
                     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16px" height="16px"/> React - Basic Course </td>
                     <td> 60h </td> <td> May 2024 </td> <td> March 2025 </td> <td> ✔️ - Completed </td>
                </tr>
+               <tr title="AI Practical Imersion - EmpowerData">
+                    <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> AI Practical Imersion - EmpowerData </td>
+                    <td> 8h </td> <td> March 2025 </td> <td> March 2025 </td> <td> 🌟 - Completed </td>
+               </tr>
           </tbody>
      </table>
 </details>
@@ -448,10 +452,6 @@ at any experience level.
      <tbody>
           <tr>
                <td colspan=5></td>
-          </tr>
-          <tr title="AI Practical Imersion - EmpowerData">
-               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> AI Practical Imersion - EmpowerData </td>
-               <td> 8h </td> <td> March 2025 </td> <td> <!-- March 2025 --> </td> <td> <!-- 🌟 - Completed --> ⏩📖 - Studying (75%) </td>
           </tr>
           <tr title="Automation Managing with NoCode and AI - OneBitCode">
                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Automation Managing with NoCode and AI - OneBitCode </td>

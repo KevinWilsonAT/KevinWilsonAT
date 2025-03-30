@@ -429,6 +429,10 @@ em qualquer nível de experiência.
                 <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Imersão IA na Prática - EmpowerData </td>
                 <td> 8h </td> <td> 03/25 </td> <td> 03/25 </td> <td> 🌟 - Concluído </td>
             </tr>
+            <tr title="Curso de C# Básico - Microsoft">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
+                <td> 36h </td> <td> 12/24 </td> <td> 03/25 </td> <td> 🌟 - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -453,9 +457,17 @@ em qualquer nível de experiência.
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
             <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (34%) </td>
         </tr>
-        <tr title="Curso de C# Básico - Microsoft">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
-            <td> 36h </td> <td> 12/24 </td> <td> <!--fim--> </td> <td> ⏩📖 - Estudando (88%) </td>
+        <tr title="Curso de C# .NET Básico - Microsoft">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# .NET Básico - Microsoft </td>
+            <td> 10h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído ⏩📖 - Estudando (0%) --> ➖⌛ - Aguardando</td>
+        </tr>
+        <tr title="Curso Startup AWS / Sebrae">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="16px" height="16px"/> Curso Startup AWS / Sebrae </td>
+            <td> 45h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído ⏩📖 - Estudando (0%) --> ➖⌛ - Aguardando</td>
+        </tr>
+        <tr title="Curso ATN / Microsoft">
+            <td> <img src="https://img.icons8.com/color/48/microsoft.png" width="16px" height="16px"/> Curso ATN / Microsoft </td>
+            <td>  </td> <td> 04/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído ⏩📖 - Estudando (0%) --> ➖⌛ - Aguardando</td>
         </tr>
         <!--
         <tr title="Curso de C# Básico- LearnCafe">

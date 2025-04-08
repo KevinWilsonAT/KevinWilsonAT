@@ -433,6 +433,10 @@ em qualquer nível de experiência.
                 <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# Básico - Microsoft </td>
                 <td> 36h </td> <td> 12/24 </td> <td> 03/25 </td> <td> 🌟 - Concluído </td>
             </tr>
+            <tr title="Gestor de Automação com NoCode e IA - OneBitCode">
+                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Gestor de Automação com NoCode e IA - OneBitCode </td>
+                <td> 2h </td> <td> 04/25 </td> <td> 04/25 </td> <td> ✔️ - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -445,13 +449,13 @@ em qualquer nível de experiência.
         <tr>
             <td colspan=5></td>
         </tr>
-        <tr title="Gestor de Automação com NoCode e IA - OneBitCode">
-            <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Gestor de Automação com NoCode e IA - OneBitCode </td>
-            <td> 2h </td> <td> 04/25 </td> <td> <!-- 04/25 --> </td> <td> <!-- 🌟 - Concluído ⏩📖 - Estudando (0%) --> ➖⌛ - Aguardando</td>
+        <tr title="Jornada: Intensivão de IA - Hashtag Treinamentos">
+            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Jornada: Intensivão de IA (2025) </td>
+            <td> 8h </td> <td> 04/25 </td> <td> <!-- 04/25 --> </td> <td> <!-- 🌟 - Concluído ⏩📖 --> Estudando (25%) </td>
         </tr>
         <tr title="Jornada: Intensivão de Python - Hashtag Treinamentos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Jornada: Intensivão de Python (2025) </td>
-            <td> 8h </td> <td> 04/25 </td> <td> <!-- 04/25 --> </td> <td> <!-- 🌟 - Concluído ⏩📖 - Estudando (0%) --> ➖⌛ - Aguardando</td>
+            <td> 8h </td> <td> 04/25 </td> <td> <!-- 04/25 --> </td> <td> <!-- 🌟 - Concluído ⏩📖 --> Estudando (25%)</td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>

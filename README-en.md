@@ -445,6 +445,10 @@ at any experience level.
                     <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# Basic Course - Microsoft </td>
                     <td> 36h </td> <td> Dec. 2024 </td> <td> March 2025 </td> <td> 🌟 - Completed </td>
                </tr>
+               <tr title="Automation Managing with NoCode and AI - OneBitCode">
+                    <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Automation Managing with NoCode and AI - OneBitCode </td>
+                    <td> 2h </td> <td> April 2025 </td> <td> April 2025 </td> <td> ✔️ - Completed </td>
+               </tr>
           </tbody>
      </table>
 </details>
@@ -457,13 +461,13 @@ at any experience level.
           <tr>
                <td colspan=5></td>
           </tr>
-          <tr title="Automation Managing with NoCode and AI - OneBitCode">
-               <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Automation Managing with NoCode and AI - OneBitCode </td>
-               <td> 2h </td> <td> April 2025 </td> <td> <!-- April 2025 --> </td> <td> <!-- 🌟 - Completed ⏩📖 - Studying (0%) --> ➖⌛ - Waiting </td>
+          <tr title="Journey: AI Intensive Course - Hashtag Treinamentos">
+               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Journey: AI Intensive Course (2025) </td>
+               <td> 8h </td> <td> April 2025 </td> <td> <!-- April 2025 --> </td> <td> <!-- 🌟 - Completed ⏩📖 -->Studying (25%) </td>
           </tr>
           <tr title="Journey: Python Intensive Course - Hashtag Treinamentos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Journey: Python Intensive Course (2025) </td>
-               <td> 8h </td> <td> April 2025 </td> <td> <!-- April 2025 --> </td> <td> <!-- 🌟 - Completed ⏩📖 - Studying (0%) --> ➖⌛ - Waiting </td>
+               <td> 8h </td> <td> April 2025 </td> <td> <!-- April 2025 --> </td> <td> <!-- 🌟 - Completed ⏩📖 --> Studying (25%) </td>
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>

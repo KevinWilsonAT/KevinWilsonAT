@@ -451,11 +451,11 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Jornada: Intensivão de IA - Hashtag Treinamentos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Jornada: Intensivão de IA (2025) </td>
-            <td> 8h </td> <td> 04/25 </td> <td> <!-- 04/25 --> </td> <td> <!-- 🌟 - Concluído ⏩📖 --> Estudando (25%) </td>
+            <td> 8h </td> <td> 04/25 </td> <td> <!-- 04/25 --> </td> <td> <!-- 🌟 - Concluído ⏩📖 --> Estudando (50%) </td>
         </tr>
         <tr title="Jornada: Intensivão de Python - Hashtag Treinamentos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Jornada: Intensivão de Python (2025) </td>
-            <td> 8h </td> <td> 04/25 </td> <td> <!-- 04/25 --> </td> <td> <!-- 🌟 - Concluído ⏩📖 --> Estudando (25%)</td>
+            <td> 8h </td> <td> 04/25 </td> <td> <!-- 04/25 --> </td> <td> <!-- 🌟 - Concluído ⏩📖 --> Estudando (50%)</td>
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>

@@ -449,6 +449,14 @@ at any experience level.
                     <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Automation Managing with NoCode and AI - OneBitCode </td>
                     <td> 2h </td> <td> April 2025 </td> <td> April 2025 </td> <td> ✔️ - Completed </td>
                </tr>
+               <tr title="Journey: AI Intensive Course - Hashtag Treinamentos">
+                    <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Journey: AI Intensive Course (2025) </td>
+                    <td> 8h </td> <td> April 2025 </td> <td> April 2025 </td> <td> 🌟 - Completed </td>
+               </tr>
+               <tr title="Journey: Python Intensive Course - Hashtag Treinamentos">
+                    <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Journey: Python Intensive Course (2025) </td>
+                    <td> 8h </td> <td> April 2025 </td> <td> April 2025 </td> <td> 🌟 - Completed </td>
+               </tr>
           </tbody>
      </table>
 </details>
@@ -461,14 +469,6 @@ at any experience level.
           <tr>
                <td colspan=5></td>
           </tr>
-          <tr title="Journey: AI Intensive Course - Hashtag Treinamentos">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Journey: AI Intensive Course (2025) </td>
-               <td> 8h </td> <td> April 2025 </td> <td> <!-- April 2025 --> </td> <td> <!-- 🌟 - Completed ⏩📖 -->Studying (50%) </td>
-          </tr>
-          <tr title="Journey: Python Intensive Course - Hashtag Treinamentos">
-               <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Journey: Python Intensive Course (2025) </td>
-               <td> 8h </td> <td> April 2025 </td> <td> <!-- April 2025 --> </td> <td> <!-- 🌟 - Completed ⏩📖 --> Studying (50%) </td>
-          </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>
                <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (34%) </td>
@@ -479,7 +479,7 @@ at any experience level.
           </tr>
           <tr title="AWS / Sebrae Startup Course">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="16px" height="16px"/> AWS / Sebrae Startup Course </td>
-               <td> 45h </td> <td> March 2025 </td> <td> <!--end--> </td> <td> <!-- 🌟 - Completed -->⏩📖 - Studying (6%) </td>
+               <td> 45h </td> <td> March 2025 </td> <td> <!--end--> </td> <td> <!-- 🌟 - Completed -->⏩📖 - Studying (7%) </td>
           </tr>
           <tr title="ATN / Microsoft Course">
                <td> <img src="https://img.icons8.com/color/48/microsoft.png" width="16px" height="16px"/> ATN / Microsoft Course </td>

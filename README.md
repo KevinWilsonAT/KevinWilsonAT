@@ -437,6 +437,14 @@ em qualquer nível de experiência.
                 <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Gestor de Automação com NoCode e IA - OneBitCode </td>
                 <td> 2h </td> <td> 04/25 </td> <td> 04/25 </td> <td> ✔️ - Concluído </td>
             </tr>
+            <tr title="Jornada: Intensivão de IA - Hashtag Treinamentos">
+                <td> <img src="https://img.icons8.com/dusk/16/artificial-intelligence.png" width="16px" height="16px"/> Jornada: Intensivão de IA (2025) </td>
+                <td> 8h </td> <td> 04/25 </td> <td> 04/25 </td> <td> 🌟 - Concluído </td>
+            </tr>
+            <tr title="Jornada: Intensivão de Python - Hashtag Treinamentos">
+                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Jornada: Intensivão de Python (2025) </td>
+                <td> 8h </td> <td> 04/25 </td> <td> 04/25 </td> <td> 🌟 - Concluído </td>
+            </tr>
         </tbody>
     </table>
 </details>
@@ -449,14 +457,6 @@ em qualquer nível de experiência.
         <tr>
             <td colspan=5></td>
         </tr>
-        <tr title="Jornada: Intensivão de IA - Hashtag Treinamentos">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Jornada: Intensivão de IA (2025) </td>
-            <td> 8h </td> <td> 04/25 </td> <td> <!-- 04/25 --> </td> <td> <!-- 🌟 - Concluído ⏩📖 --> Estudando (50%) </td>
-        </tr>
-        <tr title="Jornada: Intensivão de Python - Hashtag Treinamentos">
-            <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16px" height="16px"/> Jornada: Intensivão de Python (2025) </td>
-            <td> 8h </td> <td> 04/25 </td> <td> <!-- 04/25 --> </td> <td> <!-- 🌟 - Concluído ⏩📖 --> Estudando (50%)</td>
-        </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
             <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (34%) </td>
@@ -467,7 +467,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso Startup AWS / Sebrae">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="16px" height="16px"/> Curso Startup AWS / Sebrae </td>
-            <td> 45h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (6%) </td>
+            <td> 45h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (7%) </td>
         </tr>
         <tr title="Curso ATN / Microsoft">
             <td> <img src="https://img.icons8.com/color/48/microsoft.png" width="16px" height="16px"/> Curso ATN / Microsoft </td>

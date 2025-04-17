@@ -471,7 +471,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso ATN / Microsoft">
             <td> <img src="https://img.icons8.com/color/48/microsoft.png" width="16px" height="16px"/> Curso ATN / Microsoft </td>
-            <td>  </td> <td> 04/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (5%) </td>
+            <td>  </td> <td> 04/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (9%) </td>
         </tr>
         <!--
         <tr title="Curso de C# Básico- LearnCafe">

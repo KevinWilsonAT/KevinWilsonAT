@@ -483,7 +483,7 @@ at any experience level.
           </tr>
           <tr title="ATN / Microsoft Course">
                <td> <img src="https://img.icons8.com/color/48/microsoft.png" width="16px" height="16px"/> ATN / Microsoft Course </td>
-               <td>  </td> <td> April 2025 </td> <td> <!--end--> </td> <td> <!-- 🌟 - Completed --> ⏩📖 - Studying (5%) </td>
+               <td>  </td> <td> April 2025 </td> <td> <!--end--> </td> <td> <!-- 🌟 - Completed --> ⏩📖 - Studying (9%) </td>
           </tr>
           <!--
           <tr title="C# Basic Course - LearnCafe">

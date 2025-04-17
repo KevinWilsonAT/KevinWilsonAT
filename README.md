@@ -467,11 +467,11 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso Startup AWS / Sebrae">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="16px" height="16px"/> Curso Startup AWS / Sebrae </td>
-            <td> 45h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (7%) </td>
+            <td> 45h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (8%) </td>
         </tr>
         <tr title="Curso ATN / Microsoft">
             <td> <img src="https://img.icons8.com/color/48/microsoft.png" width="16px" height="16px"/> Curso ATN / Microsoft </td>
-            <td>  </td> <td> 04/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (4%) </td>
+            <td>  </td> <td> 04/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (5%) </td>
         </tr>
         <!--
         <tr title="Curso de C# Básico- LearnCafe">

@@ -475,7 +475,7 @@ at any experience level.
           </tr>
           <tr title="C# .NET Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# .NET Basic Course - Microsoft </td>
-               <td> 10h </td> <td> April 2025 </td> <td> <!--end--> </td> <td> <!-- 🌟 - Completed --> ⏩📖 - Studying (11%) </td>
+               <td> 10h </td> <td> April 2025 </td> <td> <!--end--> </td> <td> <!-- 🌟 - Completed --> ⏩📖 - Studying (12%) </td>
           </tr>
           <tr title="AWS / Sebrae Startup Course">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="16px" height="16px"/> AWS / Sebrae Startup Course </td>
@@ -483,7 +483,7 @@ at any experience level.
           </tr>
           <tr title="ATN / Microsoft Course">
                <td> <img src="https://img.icons8.com/color/48/microsoft.png" width="16px" height="16px"/> ATN / Microsoft Course </td>
-               <td>  </td> <td> April 2025 </td> <td> <!--end--> </td> <td> <!-- 🌟 - Completed --> ⏩📖 - Studying (9%) </td>
+               <td>  </td> <td> April 2025 </td> <td> <!--end--> </td> <td> <!-- 🌟 - Completed --> ⏩📖 - Studying (13%) </td>
           </tr>
           <!--
           <tr title="C# Basic Course - LearnCafe">

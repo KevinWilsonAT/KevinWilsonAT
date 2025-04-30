@@ -463,7 +463,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de C# .NET Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# .NET Básico - Microsoft </td>
-            <td> 10h </td> <td> 04/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído -->⏩📖 - Estudando (23%) </td>
+            <td> 10h </td> <td> 04/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído -->⏩📖 - Estudando (25%) </td>
         </tr>
         <tr title="Curso Startup AWS / Sebrae">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="16px" height="16px"/> Curso Startup AWS / Sebrae </td>

@@ -463,11 +463,11 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de C# .NET Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# .NET Básico - Microsoft </td>
-            <td> 10h </td> <td> 04/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído -->⏩📖 - Estudando (27%) </td>
+            <td> 10h </td> <td> 04/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído -->⏩📖 - Estudando (28%) </td>
         </tr>
         <tr title="Curso Startup AWS / Sebrae">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="16px" height="16px"/> Curso Startup AWS / Sebrae </td>
-            <td> 45h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (11%) </td>
+            <td> 45h </td> <td> 03/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído --> ⏩📖 - Estudando (17%) </td>
         </tr>
         <tr title="Curso ATN / Microsoft">
             <td> <img src="https://img.icons8.com/color/48/microsoft.png" width="16px" height="16px"/> Curso ATN / Microsoft </td>

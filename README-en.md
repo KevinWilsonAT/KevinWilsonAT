@@ -479,7 +479,7 @@ at any experience level.
           </tr>
           <tr title="AWS / Sebrae Startup Course">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="16px" height="16px"/> AWS / Sebrae Startup Course </td>
-               <td> 45h </td> <td> March 2025 </td> <td> <!--end--> </td> <td> <!-- 🌟 - Completed -->⏩📖 - Studying (21%) </td>
+               <td> 45h </td> <td> March 2025 </td> <td> <!--end--> </td> <td> <!-- 🌟 - Completed -->⏩📖 - Studying (23%) </td>
           </tr>
           <tr title="ATN / Microsoft Course">
                <td> <img src="https://img.icons8.com/color/48/microsoft.png" width="16px" height="16px"/> ATN / Microsoft Course </td>

@@ -459,11 +459,11 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
-            <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (38%) </td>
+            <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (39%) </td>
         </tr>
         <tr title="Curso de C# .NET Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# .NET Básico - Microsoft </td>
-            <td> 10h </td> <td> 04/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído -->⏩📖 - Estudando (29%) </td>
+            <td> 10h </td> <td> 04/25 </td> <td> <!--fim--> </td> <td> <!-- 🌟 - Concluído -->⏩📖 - Estudando (30%) </td>
         </tr>
         <tr title="Curso Startup AWS / Sebrae">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="16px" height="16px"/> Curso Startup AWS / Sebrae </td>

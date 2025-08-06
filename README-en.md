@@ -13,7 +13,7 @@
 </p> 
 Graduated in Systems Analysis and Development in 2017 and postgraduate degree in Data Science and Artificial Intelligence in 2024.
 
-I'm a Web and Sotfware Developer for 4 years. I believe that in learning, in addition to programming efficiency,
+I'm a Web and Sotfware Developer for 5 years. I believe that in learning, in addition to programming efficiency,
 it is also necessary to be someone who is always willing to <strong>learn</strong>, <strong>interact</strong>, <strong>innovate</strong>, <strong >adapt to grow</strong>.
 
 For me, a good programming is done with clean and easy to read codes, which are understandable to developers
@@ -471,7 +471,7 @@ at any experience level.
           </tr>
           <tr title="C++ Course - CFB Cursos">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> C++ - Basic Course </td>
-               <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (39%) </td>
+               <td> 60h </td> <td> Feb. 2024 </td> <td> <!--End--> </td> <td> ⏩📖 - Studying (40%) </td>
           </tr>
           <tr title="C# .NET Basic Course - Microsoft">
                <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> C# .NET Basic Course - Microsoft </td>

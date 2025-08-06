@@ -12,7 +12,7 @@
 </p>
 Formado em Análise de Sistemas em 2017 e pós-graduado em Ciência de Dados e Inteligência Artificial em 2024.
 
-Sou Desenvolvedor Web e Desenvolvedor de Software há 4 anos. Acredito que no aprendizado, além da eficiência na programação, também é necessário ser alguém que esteja sempre disposto a <strong>aprender</strong>, <strong>interagir</strong>, <strong>inovar</strong>, <strong>se adaptar para crescer</strong>.
+Sou Desenvolvedor Web e Desenvolvedor de Software há 5 anos. Acredito que no aprendizado, além da eficiência na programação, também é necessário ser alguém que esteja sempre disposto a <strong>aprender</strong>, <strong>interagir</strong>, <strong>inovar</strong>, <strong>se adaptar para crescer</strong>.
   
 Para mim, uma boa programação deve ser limpa e de fácil leitura, com códigos compreensíveis a desenvolvedores
 em qualquer nível de experiência.
@@ -459,7 +459,7 @@ em qualquer nível de experiência.
         </tr>
         <tr title="Curso de C++ - CFB Cursos">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="16px" height="16px"/> Curso de C++ Básico </td>
-            <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (39%) </td>
+            <td> 60h </td> <td> 02/24 </td> <td> <!--Fim--> </td> <td> ⏩📖 - Estudando (40%) </td>
         </tr>
         <tr title="Curso de C# .NET Básico - Microsoft">
             <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="16px" height="16px"/> Curso de C# .NET Básico - Microsoft </td>
